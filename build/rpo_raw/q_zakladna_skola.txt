@@ -1,0 +1,63 @@
+# query=fullName=Základná škola&legalForm=Rozpočtová organizácia sector=gastro keyword=skola_zakladna
+53420471|Základná škola, Hlavná ulica 81/42, Miloslavov|Miloslavov|SK0108508098
+53459148|Základná škola s materskou školou, Školská 252, Beladice|Beladice|SK0237500062
+37866672|Základná škola s materskou školou, Dolný Jatov 189|Jatov|SK0234503223
+50005723|Základná škola s materskou školou, Školská 301/16, Turňa nad Bodvou|Turňa nad Bodvou|SK0426559784
+31780741|Základná škola, Bieloruská 1, Bratislava|Bratislava - mestská časť Podunajské Biskupice|SK0102529311
+31748198|Základná škola s materskou školou s VJM, Vetvárska 7, Bratislava|Bratislava - mestská časť Podunajské Biskupice|SK0102529311
+36063959|Základná škola Albína Brunovského, Obchodná ulica 7, Zohor|Zohor|SK0106508381
+36125938|Základná škola s materskou školou Václava Mitúcha, Školská 368/2, Horné Srnie|Horné Srnie|SK0229506036
+37863894|Základná škola s materskou školou Juraja Holčeka, Dolný Ohaj|Dolný Ohaj|SK0234503151
+37810481|Základná škola s materskou školou, Starojánska 11/11, Liptovský Ján|Liptovský Ján|SK0315510734
+37811711|Základná škola Alexandra Dubčeka, Družstevná 11, Martin|Martin|SK0316512036
+37828851|Základná škola Lajosa Mocsáryho s VJM, Farská lúka 64/B, Fiľakovo|Fiľakovo|SK0326511391
+35991593|Základná škola M. R. Štefánika, Haličská cesta 1191/8, Lučenec|Lučenec|SK0326511218
+35984457|Špeciálna základná škola, Za parkom 966, Veľký Krtíš|Veľký Krtíš|SK032A515850
+36158950|Základná škola, Školská 7/6, Toporec|Toporec|SK0413523976
+37876457|Základná škola s materskou školou, Školská 42/22, Vikartovce|Vikartovce|SK0416524034
+35546484|Základná škola, Mníšek nad Hnilcom 497|Mníšek nad Hnilcom|SK0421543365
+35543752|Základná škola Eugena Ruffinyho, Zimná 190/144, Dobšiná|Dobšiná|SK0428525634
+35564113|Základná škola, SNP 13, Spišské Vlachy|Spišské Vlachy|SK042A543594
+35541253|Základná škola, Školská 339/2, Michaľany|Michaľany|SK042B528587
+31748201|Základná škola, Biskupická 21, Bratislava|Bratislava - mestská časť Podunajské Biskupice|SK0102529311
+37836714|Základná škola s materskou školou Istvána Széchenyiho s VJM, Hlavná 299, Horné Saliby|Horné Saliby|SK0212503771
+36094218|Základná škola s materskou školou Sándora Petőfiho s VJM, Richterova 1171, Sládkovičovo|Sládkovičovo|SK0212504017
+37840631|Základná škola s materskou školou, Veľký Grob 382|Veľký Grob|SK0212504149
+37838521|Základná škola, Sasinkova 530/2, Kopčany|Kopčany|SK0216504459
+37833472|Základná škola s materskou školou Juraja Slávika Neresnického, Dobrá Niva|Dobrá Niva|SK032B518298
+37874217|Základná škola s materskou školou, Spišské Hanušovce 66|Spišské Hanušovce|SK0413523861
+17070503|Základná škola s materskou školou pri zdravotníckom zariadení, Bardejovské kúpele 13|Bardejov|SK0411519006
+31745041|Základná škola, Podzáhradná 51, Bratislava|Bratislava - mestská časť Podunajské Biskupice|SK0102529311
+31754929|Základná škola, Černyševského 8, Bratislava|Bratislava - mestská časť Petržalka|SK0105529460
+35540915|Špeciálna základná škola, Hviezdoslavova 164, Hrabušice|Hrabušice|SK042A526592
+35541148|Základná škola Mihálya Helmeczyho s VJM, Hunyadiho 1256/16, Kráľovský Chlmec|Kráľovský Chlmec|SK042B528447
+35543647|Základná škola, Pionierov 1, Rožňava|Rožňava|SK0428525529
+35546069|Základná škola, Z. Nejedlého 2, Spišská Nová Ves|Spišská Nová Ves|SK042A526355
+35995904|Základná škola Jana Amosa Komenského, Komenského 652/50, Púchov|Púchov|SK0228513610
+36090212|Základná škola s materskou školou, Osloboditeľov 9, Červeník|Červeník|SK0213506885
+36125784|Základná škola s materskou školou, Slovanská 330/23, Púchov|Púchov|SK0228513610
+37810421|Základná škola Janka Kráľa, Žiarska 679/13, Liptovský Mikuláš|Liptovský Mikuláš|SK0315510262
+37810472|Základná škola Miloša Janošku, Ul. čs. brigády 4, Liptovský Mikuláš|Liptovský Mikuláš|SK0315510262
+37811860|Základná škola, Nade Hejnej 4, Martin|Martin|SK0316512036
+37811894|Základná škola s materskou školou, Podhájska 10A, Martin|Martin|SK0316512036
+37811924|Základná škola, P. Mudroňa 3, Martin|Martin|SK0316512036
+37812009|Základná škola s materskou školou, Priehradná 11, Martin|Martin|SK0316512036
+37831291|Základná škola s materskou školou, Krivec 1355, Hriňová|Hriňová|SK0324518468
+37836781|Základná škola s materskou školou, Na výhone 188/16, Moravany nad Váhom|Moravany nad Váhom|SK0214507342
+37840657|Základná škola s materskou školou, Smolinské 407|Smolinské|SK0215504823
+37874004|Základná škola s materskou školou, Pod papierňou 16A, Bardejov|Bardejov|SK0411519006
+37874021|Základná škola, Wolkerova 10, Bardejov|Bardejov|SK0411519006
+37883658|Základná škola s materskou školou, Smilno 205|Smilno|SK0411519782
+37990357|Základná škola s materskou školou, Kornela Mahra 11, Trnava|Trnava|SK0217506745
+31810268|Základná škola s materskou školou, Kuchyňa 551|Kuchyňa|SK0106508021
+30866065|Základná škola s materskou školou, Pernek 285|Pernek|SK0106508161
+31810276|Základná škola, Plavecký Štvrtok 351|Plavecký Štvrtok|SK0106508195
+31810292|Základná škola, Školská ulica 7/19, Sološnica|Sološnica|SK0106504858
+31816924|Základná škola s materskou školou, Studienka 222|Studienka|SK0106504874
+31810543|Základná škola s materskou školou, Budmerice 430|Budmerice|SK0107507849
+31817025|Základná škola s materskou školou, Vištuk 44|Vištuk|SK0107508322
+37851888|Základná škola s materskou školou Józsefa Bódisa s VJM, Čenkovce 95|Čenkovce|SK0211580554
+37836374|Základná škola s VJM - Alapiskola, Rohovce 106|Rohovce|SK0211501891
+37840576|Základná škola s materskou školou s VJM, Mostová 210|Mostová|SK0212503924
+36090361|Základná škola s materskou školou s VJM, Tomášikovo 4|Tomášikovo|SK0212504076
+37840592|Základná škola, Vinohrady nad Váhom 347|Vinohrady nad Váhom|SK0212504157

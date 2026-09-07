@@ -1,0 +1,8 @@
+# query=fullName=liehovar sector=potravinarstvo keyword=liehovar
+36232904|LIEHOVAR KRYSTAL SEDÍN, s.r.o.|Sputnikova 19|82102|Bratislava|NA
+36304689|LIEHOVARY A ŠKROBÁREŇ, a.s.|NA|95633|Chynorany|SK0225543004
+46356487|Somorja Distillery Samaria Ovocný Liehovar s.r.o.|Bratislavská cesta 39|93101|Šamorín|SK0211501905
+36241369|Slovenské liehovary a likérky, a.s.|Trnavská cesta|92041|Leopoldov|SK0213507253
+35880821|ST. NICOLAUS Group a.s.|Trnavská cesta 100|82101|Bratislava - mestská časť Ružinov|SK0102529320
+35874287|Slovenská liehovarnícka, a.s.|Na Štyridsiatku 7|81106|Bratislava|NA
+55807348|Banícky remeselný liehovar SCHEMNITZ s. r. o.|Horná 37|97401|Banská Bystrica|SK0321508438

@@ -1,0 +1,93 @@
+id,kod,nazov_sk,nazov_en,katalogove_cislo_navrh,katalog_overeny,skupina,pravny_status,sezonnost,drahy,poznamka
+1,pivovarske_mlato,Pivovarské mláto,Brewer's spent grain,02 07 01,0,napoje,vedlajsi_produkt,celorocne,"H,F,E","Najväčší jednotlivý tok v SR; vlhkosť 75-80 %, rýchlo sa kazí"
+2,pivovarske_kvasnice,Pivovarské kvasnice,Spent brewer's yeast,02 07 05,0,napoje,vedlajsi_produkt,celorocne,"H,F",Vysoký obsah dusíkatých látok a B-vitamínov
+3,chmelovy_mlat,Chmeľový mlát,Spent hops,02 07 01,0,napoje,odpad,celorocne,"F,A",Horké látky obmedzujú kŕmne využitie
+4,kremelinovy_kal,Kremelinový kal z filtrácie,Kieselguhr filter sludge,02 07 05,0,napoje,odpad,celorocne,A,Vysoký podiel anorganického nosiča
+5,sladovy_klicok,Sladový klíčok,Malt rootlets,02 07 01,0,napoje,krmna_surovina,celorocne,"H,F",Zapísaný v Katalógu kŕmnych surovín (EÚ) 68/2013
+6,sladovy_prach,Sladový prach a plevy,Malt dust and husks,02 07 01,0,napoje,vedlajsi_produkt,celorocne,"H,F",
+7,hroznove_vylisky,Hroznové výlisky (matolina),Grape pomace,02 07 04,0,napoje,vedlajsi_produkt,sezonne_jesen,"F,E",Polyfenoly a taníny znižujú stráviteľnosť
+8,vinne_kaly,Vínne kaly,Wine lees,02 07 05,0,napoje,odpad,sezonne_jesen,"F,A",
+9,hroznove_stopky,Hroznové stopky (strapiny),Grape stalks,02 07 01,0,napoje,odpad,sezonne_jesen,"E,A","Lignocelulóza, vyžaduje predúpravu"
+10,vypalky,Liehovarnícke výpalky,Distillery stillage,02 07 02,0,napoje,vedlajsi_produkt,celorocne,"H,F,A","Nízke pH, vysoký obsah vody"
+11,jablcne_vylisky,Jablčné výlisky,Apple pomace,02 07 04,0,napoje,vedlajsi_produkt,sezonne_jesen,"H,F,E",Vysoký podiel pektínu a NSC
+12,bobulove_vylisky,Výlisky z bobuľového ovocia,Berry pomace,02 07 04,0,napoje,vedlajsi_produkt,sezonne_leto,"H,F",
+13,citrusove_vylisky,Citrusové výlisky,Citrus peel,02 03 04,0,potravinarstvo,vedlajsi_produkt,celorocne,"F,E",Limonén inhibuje mikrobiálne procesy
+14,srvatka_sladka,Sladká srvátka,Sweet whey,02 05 01,0,mliekarstvo,vedlajsi_produkt,celorocne,"F,E",Laktóza ako uhlíkový zdroj pre kvasinky
+15,srvatka_kysla,Kyslá srvátka,Acid whey,02 05 01,0,mliekarstvo,odpad,celorocne,"F,A","pH pod 5, horšie zhodnotiteľná"
+16,srvatkovy_permeat,Srvátkový permeát,Whey permeate,02 05 01,0,mliekarstvo,vedlajsi_produkt,celorocne,F,
+17,cmar,Cmar,Buttermilk,02 05 01,0,mliekarstvo,krmna_surovina,celorocne,"H,F",
+18,mliekarensky_kal,Kal z mliekarenskej ČOV,Dairy WWTP sludge,02 05 02,0,mliekarstvo,odpad,celorocne,A,Kontrola kontaminantov nutná
+19,bachorovy_obsah,Obsah bachora a tráviaceho traktu,Rumen and digestive tract content,02 02 04,0,maso,odpad,celorocne,"H,A",ABP kat. 2 - pre hmyz na krmivá neprípustné
+20,krv_bitunok,Krv z bitúnku,Slaughterhouse blood,02 02 03,0,maso,vedlajsi_produkt,celorocne,F,ABP kat. 3; pre hmyz obmedzené nar. (ES) 1069/2009
+21,perie,Perie z hydinových bitúnkov,Poultry feathers,02 02 02,0,maso,odpad,celorocne,"E,F",Keratín - vyžaduje keratinolytické mikroorganizmy
+22,kostny_zvysok,Kosti a kostné zvyšky,Bone residues,02 02 02,0,maso,vedlajsi_produkt,celorocne,E,
+23,kozne_odrezky,Kožné odrezky a podkožný tuk,Hide trimmings and fat,02 02 02,0,maso,odpad,celorocne,"E,A",
+24,masovy_flotacny_kal,Flotačný kal z mäsospracovania,Meat processing flotation sludge,02 02 04,0,maso,odpad,celorocne,A,
+25,rybie_zvysky,"Rybie hlavy, vnútornosti a kosti",Fish processing residues,02 02 03,0,maso,vedlajsi_produkt,celorocne,"E,F",Zdroj rybieho oleja a hydrolyzátu
+26,kal_akvakultura,Kal z akvakultúry,Aquaculture sludge,02 01 01,0,maso,odpad,celorocne,A,
+27,repne_rezky,Cukrovarnícke repné rezky,Sugar beet pulp,02 04 99,0,potravinarstvo,krmna_surovina,sezonne_jesen,"H,F,E",Kampaň september-január
+28,melasa,Melasa,Molasses,02 04 99,0,potravinarstvo,krmna_surovina,sezonne_jesen,F,Uhlíkový substrát pre fermentácie
+29,saturacne_kaly,Saturačné kaly,Carbonation lime sludge,02 04 02,0,potravinarstvo,odpad,sezonne_jesen,A,"Prevažne CaCO3, nutrične bezcenné"
+30,repna_zemina,Zemina a chvostíky z prania repy,Beet washing soil,02 04 01,0,potravinarstvo,odpad,sezonne_jesen,A,
+31,repkovy_srot,Repkový extrahovaný šrot,Rapeseed meal,02 03 04,0,potravinarstvo,krmna_surovina,celorocne,"H,F",Glukozinoláty ako antinutričný faktor
+32,slnecnicovy_srot,Slnečnicový extrahovaný šrot,Sunflower meal,02 03 04,0,potravinarstvo,krmna_surovina,celorocne,"H,F",
+33,olejnaty_kal,Kaly z rafinácie jedlých olejov,Edible oil refining sludge,02 03 05,0,potravinarstvo,odpad,celorocne,A,
+34,skrobarenske_zvysky,Škrobárenské zvyšky,Starch industry residues,02 03 01,0,potravinarstvo,vedlajsi_produkt,celorocne,"H,F,E",
+35,zemiakove_supky,Zemiakové šupky a orezky,Potato peelings,02 03 04,0,potravinarstvo,vedlajsi_produkt,celorocne,"H,F",Solanín pri zelených hľuzách
+36,psenicne_otruby,Pšeničné otruby,Wheat bran,02 03 04,0,potravinarstvo,krmna_surovina,celorocne,"H,F,E",Štandardný nosič pri SSF
+37,mlynske_zmetky,Mlynské zmetky a plevy,Mill screenings,02 03 04,0,potravinarstvo,vedlajsi_produkt,celorocne,"H,F",
+38,pekarenske_zvysky,Pekárenské zvyšky,Bakery waste,02 06 01,0,potravinarstvo,vedlajsi_produkt,celorocne,"H,F","Vysoká energetická hustota, nízke NL"
+39,cestovinove_zvysky,Cestovinové a múčne zvyšky,Pasta and flour residues,02 06 01,0,potravinarstvo,vedlajsi_produkt,celorocne,"H,F",
+40,cukrovinkarske_zvysky,Zvyšky z výroby cukroviniek,Confectionery residues,02 06 01,0,potravinarstvo,vedlajsi_produkt,celorocne,"H,F",Vysoký podiel jednoduchých cukrov
+41,kavova_sedlina,Kávová sedlina,Spent coffee grounds,02 03 04,0,potravinarstvo,odpad,celorocne,"H,F,E",Kofeín a polyfenoly limitujú dávku
+42,kavove_slupky,Kávové šupky (silverskin),Coffee silverskin,02 03 04,0,potravinarstvo,vedlajsi_produkt,celorocne,"F,E",
+43,zeleninove_orezky,Orezky a nepodarky zeleniny,Vegetable trimmings,02 03 04,0,potravinarstvo,odpad,sezonne_leto,"H,F,A",
+44,kal_pranie_zeleniny,Kal z prania a lúpania zeleniny,Vegetable washing sludge,02 03 01,0,potravinarstvo,odpad,sezonne_leto,A,
+45,drozdiarske_zvysky,Zvyšky z výroby droždia,Yeast production residues,02 03 04,0,potravinarstvo,vedlajsi_produkt,celorocne,F,
+46,syrarska_srvatka_tuh,Tuhé zvyšky zo syrárskej výroby,Cheese production solids,02 05 01,0,mliekarstvo,vedlajsi_produkt,celorocne,"H,F",
+47,slama_obilna,Obilná slama,Cereal straw,02 01 03,0,polnohospodarstvo,vedlajsi_produkt,sezonne_leto,"E,A",Lignocelulóza; nutná predúprava
+48,kukuricne_korovie,Kukuričné kôrovie a stonky,Maize stover,02 01 03,0,polnohospodarstvo,vedlajsi_produkt,sezonne_jesen,"E,A",
+49,repkova_slama,Repková slama,Rapeseed straw,02 01 03,0,polnohospodarstvo,vedlajsi_produkt,sezonne_leto,"E,A",
+50,slnecnicove_stonky,Slnečnicové stonky a úbory,Sunflower stalks and heads,02 01 03,0,polnohospodarstvo,odpad,sezonne_jesen,"E,A",
+51,travna_hmota_ttp,Trávna hmota z lúk a TTP,Grassland biomass,02 01 03,0,polnohospodarstvo,vedlajsi_produkt,sezonne_leto,"H,F,A",Zdroj listového proteínového koncentrátu
+52,vnate_pozberove,Vňate a pozberové zvyšky zeleniny,Vegetable haulm residues,02 01 03,0,polnohospodarstvo,odpad,sezonne_jesen,"H,A",
+53,odpad_cistenie_zrna,Odpad z čistenia a sušenia obilia,Grain cleaning waste,02 01 03,0,polnohospodarstvo,vedlajsi_produkt,sezonne_leto,"H,F",Riziko mykotoxínov
+54,hnoj_hovadzi,Maštaľný hnoj hovädzí,Cattle manure,02 01 06,0,polnohospodarstvo,odpad,celorocne,A,Pre hmyz na krmivá zakázané - nar. (ES) 1069/2009
+55,hnojovica_osipane,Hnojovica ošípaných,Pig slurry,02 01 06,0,polnohospodarstvo,odpad,celorocne,A,Pre hmyz na krmivá zakázané
+56,hydinovy_trus,Hydinový trus a podstielka,Poultry litter,02 01 06,0,polnohospodarstvo,odpad,celorocne,A,Pre hmyz na krmivá zakázané
+57,ovciarsky_hnoj,Ovčí a kozí hnoj,Sheep and goat manure,02 01 06,0,polnohospodarstvo,odpad,celorocne,A,Pre hmyz na krmivá zakázané
+58,kadavery,Uhynuté zvieratá (kadávery),Fallen stock,02 01 02,0,polnohospodarstvo,odpad,celorocne,-,ABP kat. 1/2 - vylúčené z potravinového aj krmivového reťazca
+59,travna_hmota_kosba,Trávna hmota z kosby verejnej zelene,Municipal grass clippings,20 02 01,0,komunalny,odpad,sezonne_leto,"H,F,A",Kosba miest 6-10x ročne; riziko posypových solí a Pb pri cestách
+60,konare_stiepka,Konáre a drevná štiepka z údržby zelene,Municipal woody green waste,20 02 01,0,komunalny,odpad,sezonne_jar,"E,A",
+61,listie,Lístie z verejnej zelene,Municipal leaf litter,20 02 01,0,komunalny,odpad,sezonne_jesen,"F,A",
+62,bro_zahrady,Biologicky rozložiteľný odpad zo záhrad,Garden biowaste,20 02 01,0,komunalny,odpad,sezonne_leto,"H,F,A",
+63,kuchynsky_odpad,Biologicky rozložiteľný kuchynský a reštauračný odpad,Food and catering waste,20 01 08,0,komunalny,odpad,celorocne,"H,A",Obsahuje ŽVP - sterilizácia povinná
+64,jedle_oleje_pouzite,Použité jedlé oleje a tuky,Used cooking oil,20 01 25,0,komunalny,odpad,celorocne,F,
+65,odpad_trhoviska,Odpad z trhovísk,Market waste,20 03 02,0,komunalny,odpad,sezonne_leto,"H,A",
+66,potraviny_po_dobe,Nepredané potraviny po dátume spotreby,Retail food surplus,20 01 08,0,komunalny,odpad,celorocne,"H,F",Rozdielny status podľa obsahu ŽVP
+67,digestat,Digestát z bioplynovej stanice,Digestate,19 06 06,0,komunalny,odpad,celorocne,F,"Vstup pre ďalšie zhodnotenie, nie primárny odpad"
+68,kompost_nevyhovujuci,Kompost nevyhovujúcej kvality,Off-spec compost,19 05 03,0,komunalny,odpad,celorocne,-,
+69,cov_kal_komunalny,Kal z komunálnej ČOV,Municipal sewage sludge,19 08 05,0,komunalny,odpad,celorocne,-,Vylúčené z chovu hmyzu na krmivá
+70,tuky_odlucovace,Tuky z odlučovačov,Grease trap fats,19 08 09,0,komunalny,odpad,celorocne,A,
+71,kora,Odpadová kôra,Bark,03 01 01,0,drevo,vedlajsi_produkt,celorocne,"F,E",Substrát pre vláknité huby
+72,piliny,Piliny a hobliny,Sawdust and shavings,03 01 05,0,drevo,vedlajsi_produkt,celorocne,"F,E",Nosič pri SSF a pri pestovaní húb
+73,odrezky_dreva,Odrezky a drevný odpad,Wood offcuts,03 01 05,0,drevo,vedlajsi_produkt,celorocne,E,
+74,lesna_stiepka,Lesná štiepka a haluzina,Forest chips and slash,02 01 07,0,drevo,vedlajsi_produkt,celorocne,"E,A",
+75,papierensky_kal,Papierenský kal,Paper mill sludge,03 03 11,0,drevo,odpad,celorocne,"F,A",
+76,vlaknity_vymet,Výmety z vlákien a plnív,Fibre rejects,03 03 10,0,drevo,odpad,celorocne,F,
+77,skolsky_kuchynsky_odpad,Kuchynský odpad zo školských jedální,School canteen food waste,20 01 08,0,gastro,odpad,celorocne,"H,A","Vysoký a predvídateľný objem, pravidelný zvoz, jedno miesto vzniku"
+78,zvysky_z_taniera,Zvyšky z taniera,Plate waste,20 01 08,0,gastro,odpad,celorocne,"H,A","Zmiešaný materiál vrátane ŽVP; pre krmivá vylúčené, pre technické dráhy použiteľné"
+79,nemocnicny_kuchynsky_odpad,Kuchynský odpad zo zdravotníckych a sociálnych zariadení,Hospital and care home food waste,20 01 08,0,gastro,odpad,celorocne,"H,A",Celoročná prevádzka bez sezónneho výpadku
+80,gastro_kuchynsky_odpad,Kuchynský odpad z reštaurácií a hotelov,Restaurant and hotel food waste,20 01 08,0,gastro,odpad,celorocne,"H,A",Sezónne kolísanie v turistických oblastiach
+81,gastro_fritovaci_olej,Použitý fritovací olej z gastroprevádzok,Used frying oil,20 01 25,0,gastro,odpad,celorocne,F,Priamy vstup do oleochémie a esterifikácie
+82,gastro_kavova_sedlina,Kávová sedlina z gastroprevádzok,Spent coffee grounds (catering),20 01 08,0,gastro,odpad,celorocne,"H,F,E","Oddelene zbierateľná, čistá frakcia"
+83,retail_ovocie_zelenina,Neupredané ovocie a zelenina z predajní,Retail fruit and vegetable surplus,20 01 08,0,retail,odpad,celorocne,"H,F,A",Bez ŽVP - najlepší retailový tok pre chov hmyzu
+84,retail_pecivo,Neupredané pečivo a pekárske výrobky,Retail bakery surplus,02 06 01,0,retail,vedlajsi_produkt,celorocne,"H,F",Bývalé potraviny bez ŽVP; vysoká energetická hustota
+85,retail_mliecne,Mliečne výrobky po dátume minimálnej trvanlivosti,Retail dairy surplus,20 01 08,0,retail,odpad,celorocne,"H,F",Mlieko a mliečne výrobky sú pre hmyz prípustné ako ŽVP kat. 3
+86,retail_maso_zvysky,Mäsové a údenárske výrobky po dátume spotreby,Retail meat surplus,02 02 03,0,retail,odpad,celorocne,"H,F",ŽVP kat. 3 živočíšneho pôvodu - technická dráha
+87,retail_zmesovy,Zmesový potravinový odpad z predajne,Mixed retail food waste,20 01 08,0,retail,odpad,celorocne,"H,A","Netriedený; pre krmivá vylúčený, pre technické dráhy vhodný"
+88,zvp_kat3,Živočíšne vedľajšie produkty kategórie 3,Category 3 animal by-products,02 02 02,0,maso,vedlajsi_produkt,celorocne,"H,F,E",Vysoký obsah bielkovín a tuku; technologické makronutrienty
+89,zvp_kat2,Živočíšne vedľajšie produkty kategórie 2,Category 2 animal by-products,02 02 02,0,maso,odpad,celorocne,"H,A",Tlaková sterilizácia povinná; len technické využitie
+90,zvp_kat1,Živočíšne vedľajšie produkty kategórie 1,Category 1 animal by-products,02 01 02,0,maso,odpad,celorocne,-,Vylúčené zo všetkých dráh okrem spálenia
+91,technicky_zivocisny_tuk,Technický živočíšny tuk,Technical animal fat,02 02 03,0,maso,vedlajsi_produkt,celorocne,F,Vstup do oleochémie; nekonkuruje potravinovému reťazcu
+92,masokostna_mucka,Mäsokostná múčka,Meat and bone meal,02 02 02,0,maso,odpad,celorocne,F,Produkt kafilérie; dráha závisí od kategórie vstupu

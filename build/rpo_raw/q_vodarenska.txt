@@ -1,0 +1,18 @@
+# query=fullName=vodárenská spoločnosť sector=komunalny keyword=vodarenska
+36682888|Regionálna vodárenská spoločnosť Vlára - Váh, s.r.o.|J. Palu 2/3|91441|Nemšová|SK0229506281
+46866663|PAVOS Vodárenská spoločnosť, s.r.o.|Veľkomoravská 2416/16|90101|Malacky|SK0106508063
+36340456|Regionálna vodárenská spoločnosť AQUATUR a.s.|Jiráskova 168/16|91601|Stará Turá|SK0224506524
+36672076|Považská vodárenská spoločnosť, a.s.|Nová 133|01746|Považská Bystrica|SK0226512842
+36550949|Západoslovenská vodárenská spoločnosť, a.s.|Nábrežie za hydrocentrálou 4|94960|Nitra|SK0233500011
+36723681|Obchodná vodárenská spoločnosť Liptovské Matiašovce, s.r.o.|NA 79|03223|Liptovské Matiašovce|SK0315510700
+44649045|Lesnianska vodárenská spoločnosť, s.r.o.|Oravská Lesná 291|02957|Oravská Lesná|SK0317509906
+36056006|Stredoslovenská vodárenská spoločnosť, a.s.|Partizánska cesta 5|97401|Banská Bystrica|SK0321508438
+36672084|Turčianska vodárenská spoločnosť, a.s.|Kuzmányho 25|03680|Martin|SK0316512036
+36672271|Vodárenská spoločnosť Ružomberok, a. s.|Pri Váhu 6|03406|Ružomberok|SK0318510998
+36672441|Liptovská vodárenská spoločnosť, a.s.|Revolučná 595|03105|Liptovský Mikuláš|SK0315510262
+36672254|Oravská vodárenská spoločnosť, a.s.|Bysterecká 2180|02680|Dolný Kubín|SK0313509540
+36485250|Podtatranská vodárenská spoločnosť, a.s.|Hraničná 662/17|05889|Poprad|SK0416523381
+36232751|Vodárenská spoločnosť Sládkovičovo, spol. s r.o.|Fučíkova 460/254|92521|Sládkovičovo|SK0212504017
+36255556|Vodárenská spoločnosť Hlohovec, s.r.o.|Šafárikova 30|92001|Hlohovec|SK0213507032
+36252484|Trnavská vodárenská spoločnosť, a.s.|Priemyselná 10|92179|Piešťany|SK0214507440
+35850370|Bratislavská vodárenská spoločnosť, a.s.|Prešovská 48|82646|Bratislava - mestská časť Ružinov|SK0102529320

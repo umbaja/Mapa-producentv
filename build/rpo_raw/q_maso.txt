@@ -1,0 +1,13 @@
+# query=fullName=mäso sector=potravinarstvo keyword=masovyroba
+31598498|Mäsoprodukt spol. s r.o.|NA|91101|Trenčín|SK0229505820
+46302905|Mäsovýroba Madunice, s. r. o.|Kubranská 236A/1714|91101|Trenčín|SK0229505820
+35858451|Mäso Förster, s.r.o.|Saratovská 26/B|84102|Bratislava|NA
+45689300|AB MÄSO s.r.o.|Platinová ulica 11526/29|94001|Nové Zámky|SK0234503011
+46911588|SeAd mäso s.r.o.|Trenčianska cesta 1B/1924|95701|Bánovce nad Bebravou|SK0221542652
+47156384|JMV Mäso-Údeniny, s. r. o.|Rozkvet 2042/80|01701|Považská Bystrica|SK0226512842
+44083742|MÄSO - LAHÔDKY ELENA, s. r. o.|Dolná štvrť 509/22|90701|Myjava|SK0223504581
+36337714|Jumäs Trade s.r.o.|Škarniclovská 124/1|90901|Skalica|SK0216504815
+47570822|Mäso Melek, s.r.o.|NA|95201|Melek|SK0233500569
+46210164|SJ - MÄSOPRODUKT, s. r. o.|Karola Krčméryho 499/29|03401|Ružomberok|SK0318510998
+36505323|MÄSOVÝROBA ŠTEFAN KNIŽKA, s.r.o.|Mierové nám. 399|05916|Hranovnica|SK0416523518
+31669794|MÄSOPRODUKT, a.s., Prešov|Bardejovská 44|08006|Prešov|SK0417524140

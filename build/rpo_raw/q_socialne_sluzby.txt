@@ -1,0 +1,124 @@
+# query=fullName=Zariadenie pre seniorov|Domov sociálnych služieb|Centrum sociálnych služieb sector=gastro keyword=socialne_zariadenie
+45738319|Zariadenie pre seniorov Komfort n.o.|Topoľčany|SK0236504998
+35583720|Zariadenie pre seniorov Juraja Schoppera, n.o.|Rožňava|SK0428525529
+42092434|AEVITAS, n. o. - ZARIADENIE PRE SENIOROV|Snina|SK0419520802
+45747458|Rozmarín, n.o.|Moča|SK0231501255
+45744211|Centrum SENIOR, n. o.|Trnava|SK0217506745
+50451596|ZOS Krajné, n.o.|Krajné|SK0223506150
+50469053|DSS a zariadenie pre seniorov LIBERUM MARTIN, n. o.|Martin|SK0316512036
+00623521|Centrum sociálnych služieb Terchová|Terchová|SK031B518042
+00596469|Zariadenie pre seniorov Skalica|Skalica|SK0216504815
+42292468|JESÉNIA SKALICA zariadenie pre seniorov|Skalica|SK0216504815
+00632848|Centrum sociálnych služieb Zákamenné|Zákamenné|SK0317510203
+00647748|Centrum sociálnych služieb HARMÓNIA|Žilina|SK031B517402
+42433819|Zariadenie pre seniorov KARITA obce Partizánska Ľupča|Partizánska Ľupča|SK0315510904
+00352489|Zariadenie pre seniorov Komárno|Komárno|SK0231501026
+37980513|Zariadenie pre seniorov a domov sociálnych služieb mesta Liptovský Mikuláš|Liptovský Mikuláš|SK0315510262
+42219973|Jesienka, zariadenie pre seniorov a denný stacionár|Bytča|SK0311517461
+30228271|Zariadenie pre seniorov Považská Bystrica|Považská Bystrica|SK0226512842
+42372984|Zariadenie pre seniorov Nové Mesto nad Váhom|Nové Mesto nad Váhom|SK0224506338
+31824633|Zariadenie pre seniorov a denný stacionár Kolárovo|Kolárovo|SK0231501204
+42143900|Zariadenie pre seniorov-Domov dôchodcov Bojnice|Bojnice|SK0227513903
+00596710|DOBRÝ DOMOV Santovka|Santovka|SK0232502715
+42391385|Viacúčelové zariadenie pre seniorov Čadca|Čadca|SK0312509132
+42347670|SENIOR - Zariadenie pre seniorov a Dom sociálnych služieb Vrútky|Vrútky|SK0316557358
+31824064|Zariadenie pre seniorov Šaštín-Stráže|Šaštín-Stráže|SK0215504891
+00691852|Zariadenie pre seniorov a Zariadenie opatrovateľskej služby Kežmarok|Kežmarok|SK0413523585
+00655589|Zariadenie pre seniorov Mokrý Háj|Mokrý Háj|SK0216504564
+00655716|Zariadenie pre seniorov Gabčíkovo|Gabčíkovo|SK0211501573
+00632333|Zariadenie pre seniorov Dubina, m.r.o.|Dubnica nad Váhom|SK0222513016
+17060664|Centrum sociálnych služieb Brezovec|Dolný Kubín|SK0313509540
+53039301|Debra, n.o. - Zariadenie pre seniorov|Rovné|SK0412520721
+00611956|Harmonia - Zariadenie pre seniorov, Hlohovec|Hlohovec|SK0213507032
+53044703|Zariadenie pre seniorov Minor, n.o.|Zborov|SK0411519961
+00611948|Zariadenie pre seniorov Križovany nad Dudváhom|Križovany nad Dudváhom|SK0217556483
+42404631|Zariadenie pre seniorov Bohunka|Jaslovské Bohunice|SK0217507156
+34000992|Domov sociálnych služieb pre dospelých a zariadenie pre seniorov SENICA|Senica|SK0215504203
+17059186|Zariadenie pre seniorov Nová Dubnica|Nová Dubnica|SK0222513440
+00647713|ÚSMEV - Zariadenie pre seniorov|Žilina|SK031B517402
+00596515|Zariadenie pre seniorov Dunajská Streda|Dunajská Streda|SK0211501433
+00654795|Centrum sociálnych služieb MEREMA|Modra|SK0107508101
+31770398|Centrum sociálnych služieb Pod Karpatmi|Pezinok|SK0107508179
+00364193|Domov sociálnych služieb a zariadenie pre seniorov Kaštieľ|Stupava|SK0106508233
+30804191|Centrum sociálnych služieb Rača|Bratislava - mestská časť Rača|SK0103529354
+00611972|Zariadenie pre seniorov v Trnave|Trnava|SK0217506745
+53199685|Zariadenie pre seniorov Sv. Kataríny Labouré|Bošany|SK0225542733
+00695327|SUBSIDIUM - Špecializované zariadenie a zariadenie pre seniorov|Rožňava|SK0428525529
+00691976|Zariadenie pre seniorov Harmónia, Prešov - Cemjata|Prešov|SK0417524140
+00692000|Zariadenie pre seniorov Náruč|Prešov|SK0417524140
+37986261|Domov Barborka Unín, n.o.|Unín|SK0216504939
+37986830|Dom seniorov Brodské, n.o.|Brodské|SK0216504271
+37887947|Charitatívno-diakonický domov sociálnych služieb, n.o.|Svit|SK0416523925
+36084166|Domov Klas n.o.|Vrbové|SK0214507750
+31193897|OAZIS - Zariadenie sociálnych služieb|Komárno|SK0231501026
+42052050|Dom seniorov Machulince, n.o.|Machulince|SK0237500500
+42085853|Domov sv. Dominika|Petrovany|SK0417525014
+31105394|Zariadenie sociálnych služieb Zelený dom Skalica|Skalica|SK0216504815
+00596485|Centrum sociálnych služieb Okoč - Opatovský Sokolec|Okoč|SK0211501824
+00596175|Domov sociálnych služieb-Adamovské Kochanovce|Adamovské Kochanovce|SK0229505838
+00628115|Domov sociálnych služieb-Púchov-Nosice|Púchov|SK0228513610
+00351725|Centrum sociálnych služieb - Zemianske Podhradie|Zemianske Podhradie|SK0224556441
+00647691|Centrum sociálnych služieb SYNNÓMIA|Žilina|SK031B517402
+30225591|Centrum sociálnych služieb Méta|Martin|SK0316512036
+00352314|„MAGNÓLIA", Zariadenie sociálnych služieb Hurbanovo|Hurbanovo|SK0231501140
+42119383|„JESEŇ ŽIVOTA", Zariadenie sociálnych služieb Levice|Levice|SK0232502031
+00596825|„FÉNIX", Zariadenie sociálnych služieb Levice|Levice|SK0232502031
+00596841|„PLATAN", Zariadenie sociálnych služieb Lontov|Lontov|SK0232502499
+00656046|„DOMUM", Zariadenie sociálnych služieb Krškany|Krškany|SK0232502430
+00351750|„BORINKA - ALZHEIMERCENTRUM", Zariadenie sociálnych služieb Nitra|Nitra|SK0233500011
+00351768|„NITRAVA", Zariadenie sociálnych služieb Nitra|Nitra|SK0233500011
+00655317|„IPEĽ", Zariadenie sociálnych služieb Leľa|Leľa|SK0234503312
+00655341|„VEK NÁDEJE", Zariadenie sociálnych služieb Nové Zámky|Nové Zámky|SK0234503011
+00655295|„BARACHA", Zariadenie sociálnych služieb Bardoňovo|Bardoňovo|SK0234503053
+00494160|„DUNAJ", Zariadenie sociálnych služieb Kováčov|Kamenica nad Hronom|SK0234503231
+00587052|„LIPKA", Zariadenie sociálnych služieb Lipová|Lipová|SK0234503321
+00596221|„KAMILKA", Zariadenie sociálnych služieb Maňa|Maňa|SK0234503363
+42118727|„MÔJ DOMOV", Zariadenie sociálnych služieb Topoľčany|Topoľčany|SK0236504998
+00356786|„PENZIÓN", Zariadenie sociálnych služieb Topoľčany|Topoľčany|SK0236504998
+00357995|„V KAŠTIELI", Zariadenie sociálnych služieb Horné Obdokovce|Horné Obdokovce|SK0236542938
+42119391|„HARMÓNIA", Zariadenie sociálnych služieb Horné Štitáre|Horné Štitáre|SK0236542954
+00356891|„CLEMENTIA", Zariadenie sociálnych služieb Kovarce|Kovarce|SK0236543071
+31825796|„HARLEKÝN", Zariadenie sociálnych služieb Topoľčany|Topoľčany|SK0236504998
+00351784|„SVETLO", Zariadenie sociálnych služieb Olichov|Volkovce|SK0237500925
+00596248|Domov sociálnych služieb pre dospelých Bojková|Cerová|SK0215504297
+37818627|Centrum sociálnych služieb Nádej|Žarnovica|SK032C517381
+37986775|Štíbor - Mestské centrum sociálnych služieb n.o., Skalica|Skalica|SK0216504815
+42193222|Centrum sociálnych služieb KA|Krupina|SK0325518557
+36167878|RADOSŤ, n. o. - CENTRUM SOCIÁLNYCH SLUŽIEB|Výrava|SK0415521001
+45740071|Centrum sociálnych služieb - MARGARÉTA n.o.|Bajč|SK0231501034
+45791775|Centrum sociálnych služieb Balog Mikuláš Č.N.T.|Čierna nad Tisou|SK042B528293
+45736774|Centrum sociálnych služieb – Riviéra, n. o.|Udiča|SK0226513741
+45744114|Lekno - Centrum sociálnych služieb, n.o.|Zlatá Baňa|SK0417525472
+45743118|Centrum sociálnych služieb Spišský Štvrtok, n.o.|Spišský Štvrtok|SK0414543624
+37923617|SPOKOJNOSŤ - centrum sociálnych služieb, n.o.|Prievidza|SK0227513881
+45741638|Špecializované centrum sociálnych služieb Stropkov, n.o.|Stropkov|SK041B527840
+50030329|Centrum sociálnych služieb Elemér Lázár Drahňov|Drahňov|SK0427528331
+51011859|Centrum sociálnych služieb "Johanka", n.o.|Spišské Podhradie|SK0414543578
+17149355|Centrum sociálnych služieb Bardejov|Bardejov|SK0411519006
+00632520|Centrum sociálnych služieb PARK|Čadca|SK0312509132
+00651435|Centrum sociálnych služieb Ľadoveň|Martin|SK0316512036
+00632783|Centrum sociálnych služieb ORAVA|Tvrdošín|SK031A510114
+00647675|Centrum sociálnych služieb STRANÍK|Žilina|SK031B517402
+00647802|TROJLÍSTOK - centrum sociálnych služieb|Ružomberok|SK0318510998
+30999847|Centrum sociálnych služieb - Bánovce nad Bebravou|Bánovce nad Bebravou|SK0221542652
+31118682|Centrum sociálnych služieb - DOMOV JAVORINA|Bzince pod Javorinou|SK0224505897
+00632384|Centrum sociálnych služieb - AVE|Dubnica nad Váhom|SK0222513016
+31822665|Centrum sociálnych služieb - LIPOVEC|Horné Srnie|SK0229506036
+00227404|Centrum sociálnych služieb - LIPA|Kostolná-Záriečie|SK0229506133
+00630250|Centrum sociálnych služieb - Lednické Rovne|Lednické Rovne|SK0228513326
+00596264|Centrum sociálnych služieb - Jesienka|Myjava|SK0223504581
+00648710|Centrum sociálnych služieb - Bôrik|Nitrianske Pravno|SK0227514225
+34011641|Centrum sociálnych služieb - Nová Bošáca|Nová Bošáca|SK0224506303
+00356883|Centrum sociálnych služieb - Partizánske|Partizánske|SK0225505315
+00632350|Centrum sociálnych služieb - BYSTRIČAN|Považská Bystrica|SK0226512842
+00632368|Centrum sociálnych služieb - KOLONKA|Púchov|SK0228513610
+17066913|Centrum sociálnych služieb - Chmelinec|Púchov|SK0228513610
+34056505|Centrum sociálnych služieb-Juh|Trenčín|SK0229505820
+00632414|Centrum sociálnych služieb - NÁDEJ|Dolný Lieskov|SK0226546640
+00648701|Centrum sociálnych služieb - DOMINO|Prievidza|SK0227513881
+00632392|Centrum sociálnych služieb - LÚČ|Považská Bystrica|SK0226512842
+00632406|Centrum sociálnych služieb - SLOVEN|Slavnica|SK0222557421
+00351741|Centrum sociálnych služieb - DEMY|Trenčín|SK0229505820
+42017769|Centrum sociálnych služieb v Novom Meste nad Váhom|Nové Mesto nad Váhom|SK0224506338
+00651443|Centrum sociálnych služieb Horný Turiec|Turčianske Teplice|SK0319512729
+36096971|Domov sociálnych služieb "Dúha" Svätý Peter, n.o.|Svätý Peter|SK0231501115

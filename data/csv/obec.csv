@@ -1,0 +1,479 @@
+id,nazov,okres,kraj,lat,lon,typ
+1,Harmanec,Banská Bystrica,Banskobystrický,48.795803,19.080853,village
+2,Kežmarok,Kežmarok,Prešovský,49.136318,20.430447,town
+3,Lipany,Sabinov,Prešovský,49.15,20.966667,town
+4,Levoča,Levoča,Prešovský,49.025112,20.587999,town
+5,Nové Mesto nad Váhom,Nové Mesto nad Váhom,Trenčiansky,48.763325,17.830386,town
+6,Zlaté Moravce,Zlaté Moravce,Nitriansky,48.383333,18.4,town
+7,Želiezovce,Levice,Nitriansky,48.049226,18.658355,town
+8,Banská Štiavnica,Banská Štiavnica,Banskobystrický,48.458093,18.89828,town
+9,Námestovo,Námestovo,Žilinský,49.409512,19.480783,town
+10,Ružomberok,Ružomberok,Žilinský,49.08187,19.302965,town
+11,Zvolen,Zvolen,Banskobystrický,48.576512,19.128476,town
+12,Krompachy,Spišská Nová Ves,Košický,48.917127,20.873055,town
+13,Poprad,Poprad,Prešovský,49.054152,20.29764,town
+14,Prešov,Prešov,Prešovský,49.000411,21.252273,city
+15,Rožňava,Rožňava,Košický,48.654392,20.531184,town
+16,Vranov nad Topľou,Vranov nad Topľou,Prešovský,48.890524,21.680564,town
+17,Modra,Pezinok,Bratislavský,48.336443,17.308037,town
+18,Lučenec,Lučenec,Banskobystrický,48.330282,19.664144,town
+19,Turčianske Teplice,Turčianske Teplice,Žilinský,48.862737,18.858728,town
+20,Bratislava - mestská časť Nové Mesto,Bratislava III,Bratislavský,48.167188,17.138349,suburb
+21,Dunajská Streda,Dunajská Streda,Trnavský,47.989309,17.620142,town
+22,Galanta,Galanta,Trnavský,48.191057,17.727778,town
+23,Nitra,Nitra,Nitriansky,48.31257,18.09061,city
+24,Nové Zámky,Nové Zámky,Nitriansky,47.98334,18.166661,town
+25,Senica,Senica,Trnavský,48.679121,17.364383,town
+26,Topoľčany,Topoľčany,Nitriansky,48.559116,18.176052,town
+27,Trenčín,Trenčín,Trenčiansky,48.892358,18.039372,city
+28,Trnava,Trnava,Trnavský,48.37729,17.586718,city
+29,Čadca,Čadca,Žilinský,49.440819,18.788221,town
+30,Liptovský Mikuláš,Liptovský Mikuláš,Žilinský,49.083333,19.616667,town
+31,Prievidza,Prievidza,Trenčiansky,48.77104,18.623306,town
+32,Krupina,Krupina,Banskobystrický,48.352728,19.069182,town
+33,Žarnovica,Žarnovica,Banskobystrický,48.483398,18.72155,town
+34,Žilina,Žilina,Žilinský,49.223464,18.739498,city
+35,Humenné,Humenné,Prešovský,48.934603,21.90314,town
+36,Michalovce,Michalovce,Košický,48.75,21.933333,town
+37,Revúca,Revúca,Banskobystrický,48.683333,20.116667,town
+38,Pribeta,Komárno,Nitriansky,47.906807,18.30927,village
+39,Bratislava - mestská časť Ružinov,Bratislava II,Bratislavský,48.149645,17.164279,suburb
+40,Veľké Zálužie,Nitra,Nitriansky,48.308171,17.940569,village
+41,Mojmírovce,Nitra,Nitriansky,48.213314,18.064323,village
+42,Neverice,Zlaté Moravce,Nitriansky,48.366667,18.283333,village
+43,Tvrdošovce,Nové Zámky,Nitriansky,48.095688,18.061308,town
+44,Zemné,Nové Zámky,Nitriansky,47.987724,17.994901,village
+45,Bolešov,Ilava,Trenčiansky,48.983333,18.15,village
+46,Dubnica nad Váhom,Ilava,Trenčiansky,48.957172,18.167022,town
+47,Pruské,Ilava,Trenčiansky,49.033333,18.216667,village
+48,Diviaky nad Nitricou,Prievidza,Trenčiansky,48.766667,18.5,village
+49,Brezová pod Bradlom,Myjava,Trenčiansky,48.661644,17.53703,town
+50,Poriadie,Myjava,Trenčiansky,48.775141,17.608252,village
+51,Chynorany,Partizánske,Trenčiansky,48.609821,18.27348,village
+52,Ludanice,Topoľčany,Nitriansky,48.501468,18.120379,village
+53,Podlužany,Bánovce nad Bebravou,Trenčiansky,48.770966,18.239113,village
+54,Pravotice,Bánovce nad Bebravou,Trenčiansky,48.678024,18.298095,village
+55,Rybany,Bánovce nad Bebravou,Trenčiansky,48.666713,18.260228,village
+56,Slatina nad Bebravou,Bánovce nad Bebravou,Trenčiansky,48.745418,18.235802,okres_centroid
+57,Veľké Chlievany,Bánovce nad Bebravou,Trenčiansky,48.703784,18.224509,village
+58,Veľké Uherce,Partizánske,Trenčiansky,48.613712,18.438069,village
+59,Bošáca,Nové Mesto nad Váhom,Trenčiansky,48.826459,17.842651,village
+60,Bzince pod Javorinou,Nové Mesto nad Váhom,Trenčiansky,48.786735,17.771587,village
+61,Drietoma,Trenčín,Trenčiansky,48.9,17.95,village
+62,Hôrka nad Váhom,Nové Mesto nad Váhom,Trenčiansky,48.716667,17.883333,village
+63,Bobot,Trenčín,Trenčiansky,48.806392,18.189604,village
+64,Chocholná-Velčice,Trenčín,Trenčiansky,48.866811,17.948123,village
+65,Modrovka,Nové Mesto nad Váhom,Trenčiansky,48.649201,17.882281,village
+66,Nemšová,Trenčín,Trenčiansky,48.961676,18.113025,town
+67,Trenčianska Teplá,Trenčín,Trenčiansky,48.93373,18.120323,village
+68,Pobedim,Nové Mesto nad Váhom,Trenčiansky,48.65,17.8,village
+69,Podolie,Nové Mesto nad Váhom,Trenčiansky,48.674218,17.774922,village
+70,Soblahov,Trenčín,Trenčiansky,48.864744,18.072372,village
+71,Stará Turá,Nové Mesto nad Váhom,Trenčiansky,48.776457,17.692694,town
+72,Trenčianska Turná,Trenčín,Trenčiansky,48.85,18.016667,village
+73,Trenčianske Mitice,Trenčín,Trenčiansky,48.823,18.113,village
+74,Trenčianske Stankovce,Trenčín,Trenčiansky,48.838974,17.987249,village
+75,Modrová,Nové Mesto nad Váhom,Trenčiansky,48.644488,17.895336,village
+76,Kostolná-Záriečie,Trenčín,Trenčiansky,48.878828,17.96711,village
+77,Zemianske Podhradie,Nové Mesto nad Váhom,Trenčiansky,48.85,17.833333,village
+78,Volkovce,Zlaté Moravce,Nitriansky,48.333333,18.466667,village
+79,Hurbanovo,Komárno,Nitriansky,47.869084,18.189095,town
+80,Komárno,Komárno,Nitriansky,47.757388,18.129917,town
+81,Partizánske,Partizánske,Trenčiansky,48.627231,18.365466,town
+82,Kovarce,Topoľčany,Nitriansky,48.496327,18.158903,village
+83,Horné Obdokovce,Topoľčany,Nitriansky,48.493402,18.045731,village
+84,Veľké Kosihy,Komárno,Nitriansky,47.766667,17.883333,village
+85,Trávnik,Komárno,Nitriansky,47.773817,17.788543,village
+86,Stupava,Malacky,Bratislavský,48.273132,17.032746,town
+87,Šahy,Levice,Nitriansky,48.172145,18.713842,okres_centroid
+88,Šaľa,Šaľa,Nitriansky,48.150995,17.876502,town
+89,Kamenica nad Hronom,Nové Zámky,Nitriansky,47.831308,18.725503,village
+90,Lipová,Bardejov,Prešovský,49.248768,21.479465,village
+91,Strekov,Nové Zámky,Nitriansky,47.9,18.416667,village
+92,Podhájska,Nové Zámky,Nitriansky,48.10382,18.339624,village
+93,Sikenička,Nové Zámky,Nitriansky,47.933333,18.683333,village
+94,Jarok,Nitra,Nitriansky,48.27723,17.964227,village
+95,Skalka nad Váhom,Trenčín,Trenčiansky,48.928,18.072,village
+96,Adamovské Kochanovce,Trenčín,Trenčiansky,48.853,17.925,village
+97,Maňa,Nové Zámky,Nitriansky,48.15367,18.285713,village
+98,Cerová,Senica,Trnavský,48.586342,17.382769,village
+99,Myjava,Myjava,Trenčiansky,48.754035,17.565022,town
+100,Skalica,Skalica,Trnavský,48.770797,17.20201,okres_centroid
+101,Okoč,Dunajská Streda,Trnavský,47.886638,17.809046,village
+102,Santovka,Levice,Nitriansky,48.156779,18.765721,village
+103,Levice,Levice,Nitriansky,48.216667,18.6,town
+104,Lontov,Levice,Nitriansky,48.05,18.783333,village
+105,Komoča,Nové Zámky,Nitriansky,47.949753,18.022658,village
+106,Košice,Košice I,Košický,48.717227,21.249677,city
+107,Križovany nad Dudváhom,Trnava,Trnavský,48.322017,17.651682,village
+108,Hlohovec,Hlohovec,Trnavský,48.427951,17.798585,town
+109,Terchová,Žilina,Žilinský,49.25922,19.030518,village
+110,Púchov,Púchov,Trenčiansky,49.123992,18.324242,town
+111,Lednické Rovne,Púchov,Trenčiansky,49.066667,18.283333,village
+112,Považská Bystrica,Považská Bystrica,Trenčiansky,49.114507,18.447319,town
+113,Slavnica,Ilava,Trenčiansky,49.0,18.183333,village
+114,Dolný Lieskov,Považská Bystrica,Trenčiansky,49.05,18.416667,village
+115,Tvrdošín,Tvrdošín,Žilinský,49.336574,19.554188,town
+116,Zákamenné,Námestovo,Žilinský,49.383333,19.3,village
+117,Nitrianske Pravno,Prievidza,Trenčiansky,48.866667,18.633333,village
+118,Streženice,Púchov,Trenčiansky,49.1,18.3,village
+119,Martin,Martin,Žilinský,49.07226,18.929174,town
+120,Bardoňovo,Nové Zámky,Nitriansky,48.116667,18.416667,village
+121,Leľa,Nové Zámky,Nitriansky,47.863625,18.767487,village
+122,Mokrý Háj,Skalica,Trnavský,48.810594,17.246132,village
+123,Gabčíkovo,Dunajská Streda,Trnavský,47.895106,17.578125,town
+124,Krškany,Levice,Nitriansky,48.221253,18.670036,village
+125,Bratislava,Bratislava I,Bratislavský,48.153538,17.109671,city
+126,Bardejov,Bardejov,Prešovský,49.292999,21.27554,town
+127,Košice - mestská časť Západ,Košice II,Košický,48.714333,21.227312,suburb
+128,Košice - mestská časť Juh,Košice IV,Košický,48.706875,21.259905,suburb
+129,Svidník,Svidník,Prešovský,49.308408,21.573643,town
+130,Mostová,Galanta,Trnavský,48.140162,17.678594,village
+131,Lažany,Prievidza,Trenčiansky,48.819215,18.622017,village
+132,Košice - mestská časť Šaca,Košice II,Košický,48.631448,21.171446,suburb
+133,Bánovce nad Bebravou,Bánovce nad Bebravou,Trenčiansky,48.721667,18.259826,town
+134,Nová Dubnica,Ilava,Trenčiansky,48.940148,18.145837,town
+135,Dolný Kubín,Dolný Kubín,Žilinský,49.218073,19.29539,town
+136,Jelšava,Revúca,Banskobystrický,48.627976,20.24008,village
+137,Valaliky,Košice - okolie,Košický,48.641526,21.29313,village
+138,Michaľany,Trebišov,Košický,48.516667,21.633333,village
+139,Prusy,Bánovce nad Bebravou,Trenčiansky,48.758555,18.260143,village
+140,Čata,Levice,Nitriansky,47.95,18.666667,village
+141,Dolné Srnie,Nové Mesto nad Váhom,Trenčiansky,48.80029,17.819541,village
+142,Radošovce,Skalica,Trnavský,48.766667,17.283333,village
+143,Kráľov Brod,Galanta,Trnavský,48.058997,17.830464,village
+144,Žiar nad Hronom,Žiar nad Hronom,Banskobystrický,48.590505,18.853646,town
+145,Radoľa,Kysucké Nové Mesto,Žilinský,49.290202,18.794346,village
+146,Topoľčianky,Zlaté Moravce,Nitriansky,48.420271,18.410113,village
+147,Veľká Mača,Galanta,Trnavský,48.245092,17.686623,village
+148,Turzovka,Čadca,Žilinský,49.402543,18.628775,town
+149,Brezno,Brezno,Banskobystrický,48.805335,19.640961,town
+150,Mužla,Nové Zámky,Nitriansky,47.78991,18.600899,village
+151,Bratislava - mestská časť Rača,Bratislava III,Bratislavský,48.211512,17.1534,suburb
+152,Bratislava - mestská časť Podunajské Biskupice,Bratislava II,Bratislavský,48.130042,17.207422,suburb
+153,Pernek,Malacky,Bratislavský,48.368333,17.143541,village
+154,Bratislava - mestská časť Karlova Ves,Bratislava IV,Bratislavský,48.160464,17.047532,suburb
+155,Zlatná na Ostrove,Komárno,Nitriansky,47.767557,17.976459,village
+156,Cabaj - Čápor,Nitra,Nitriansky,48.245665,18.023092,village
+157,Štúrovo,Nové Zámky,Nitriansky,47.797831,18.71486,town
+158,Pohronský Ruskov,Levice,Nitriansky,47.983333,18.666667,village
+159,Veľké Lovce,Nové Zámky,Nitriansky,48.066661,18.333335,village
+160,Holíč,Skalica,Trnavský,48.8,17.166667,town
+161,Kálnica,Nové Mesto nad Váhom,Trenčiansky,48.764557,17.927848,village
+162,Nová Vieska,Nové Zámky,Nitriansky,47.869087,18.461012,village
+163,Veľká Hradná,Trenčín,Trenčiansky,48.768904,18.142173,village
+164,Súlovce,Topoľčany,Nitriansky,48.466667,18.166667,village
+165,Hanušovce nad Topľou,Vranov nad Topľou,Prešovský,49.033333,21.5,village
+166,Sereď,Galanta,Trnavský,48.288903,17.730881,town
+167,Červený Kameň,Ilava,Trenčiansky,49.083333,18.183333,village
+168,Nová Baňa,Žarnovica,Banskobystrický,48.41225,18.644609,town
+169,Zliechov,Ilava,Trenčiansky,48.95,18.433333,village
+170,Pružina,Považská Bystrica,Trenčiansky,49.016667,18.483333,village
+171,Kremnica,Žiar nad Hronom,Banskobystrický,48.7,18.916667,town
+172,Ľubietová,Banská Bystrica,Banskobystrický,48.748315,19.358256,village
+173,Predajná,Brezno,Banskobystrický,48.813419,19.462852,village
+174,Bratislava - mestská časť Staré Mesto,Bratislava I,Bratislavský,48.140553,17.112478,suburb
+175,Tisovec,Rimavská Sobota,Banskobystrický,48.681,19.942023,village
+176,Bojnice,Prievidza,Trenčiansky,48.78,18.581862,village
+177,Dolný Harmanec,Banská Bystrica,Banskobystrický,48.815627,19.050931,village
+178,Beluša,Púchov,Trenčiansky,49.066667,18.333333,town
+179,Veľký Šariš,Prešov,Prešovský,49.05,21.2,village
+180,Dobšiná,Rožňava,Košický,48.821028,20.364743,town
+181,Snina,Snina,Prešovský,48.990062,22.155625,town
+182,Malčice,Michalovce,Košický,48.577134,21.854297,village
+183,Bratislava - mestská časť Petržalka,Bratislava V,Bratislavský,48.111346,17.110791,suburb
+184,Pezinok,Pezinok,Bratislavský,48.285586,17.27028,town
+185,Kuchyňa,Malacky,Bratislavský,48.405751,17.15852,village
+186,Plavecký Štvrtok,Malacky,Bratislavský,48.374094,17.005391,village
+187,Sološnica,Malacky,Bratislavský,48.465196,17.231969,village
+188,Budmerice,Pezinok,Bratislavský,48.360397,17.405103,village
+189,Gajary,Malacky,Bratislavský,48.468407,16.922298,village
+190,Studienka,Malacky,Bratislavský,48.528061,17.136328,village
+191,Vištuk,Pezinok,Bratislavský,48.334375,17.397091,village
+192,Dunajská Lužná,Senec,Bratislavský,48.082194,17.263614,village
+193,Horné Srnie,Trenčín,Trenčiansky,48.983333,18.1,village
+194,Šaštín-Stráže,Senica,Trnavský,48.640447,17.149745,town
+195,Kolárovo,Komárno,Nitriansky,47.91593,17.99042,town
+196,Váhovce,Galanta,Trnavský,48.25,17.783333,village
+197,Dolný Hričov,Žilina,Žilinský,49.233333,18.633333,village
+198,Šurany,Nové Zámky,Nitriansky,48.086106,18.186834,town
+199,Šenkvice,Pezinok,Bratislavský,48.299537,17.348321,village
+200,Čechynce,Nitra,Nitriansky,48.25,18.166667,village
+201,Nová Bošáca,Nové Mesto nad Váhom,Trenčiansky,48.747801,17.813354,okres_centroid
+202,Beladice,Zlaté Moravce,Nitriansky,48.346006,18.296077,village
+203,Pusté Sady,Galanta,Trnavský,48.311844,17.827826,village
+204,Svinná,Trenčín,Trenčiansky,48.785155,18.161449,village
+205,Kostolné,Myjava,Trenčiansky,48.736145,17.703515,village
+206,Neded,Šaľa,Nitriansky,48.01844,17.974057,village
+207,Šelpice,Trnava,Trnavský,48.43796,17.531812,village
+208,Stará Ľubovňa,Stará Ľubovňa,Prešovský,49.297258,20.687317,town
+209,Banská Bystrica,Banská Bystrica,Banskobystrický,48.738539,19.156869,city
+210,Hrabušice,Spišská Nová Ves,Košický,48.977432,20.410809,village
+211,Kráľovský Chlmec,Trebišov,Košický,48.416667,21.983333,town
+212,Sobrance,Sobrance,Košický,48.742148,22.179139,town
+213,Spišská Nová Ves,Spišská Nová Ves,Košický,48.943534,20.562964,town
+214,Mníšek nad Hnilcom,Gelnica,Košický,48.8,20.8,village
+215,Košice - mestská časť Sídlisko Ťahanovce,Košice I,Košický,48.756322,21.26885,suburb
+216,Spišské Vlachy,Spišská Nová Ves,Košický,48.947914,20.797352,village
+217,Sládkovičovo,Galanta,Trnavský,48.208208,17.644866,town
+218,Rovinka,Senec,Bratislavský,48.1,17.233333,village
+219,Dubová,Svidník,Prešovský,49.366667,21.433333,village
+220,Dobrá Niva,Zvolen,Banskobystrický,48.473486,19.101794,village
+221,Malacky,Malacky,Bratislavský,48.43475,17.020348,town
+222,Dolný Ohaj,Nové Zámky,Nitriansky,48.08008,18.252347,village
+223,Doľany,Pezinok,Bratislavský,48.414316,17.378144,village
+224,Kráľová pri Senci,Senec,Bratislavský,48.195128,17.450829,village
+225,Tesárske Mlyňany,Zlaté Moravce,Nitriansky,48.332164,18.350798,village
+226,Veľký Krtíš,Veľký Krtíš,Banskobystrický,48.20896,19.349119,town
+227,Sebechleby,Krupina,Banskobystrický,48.275107,18.952016,village
+228,Trstená,Tvrdošín,Žilinský,49.363892,19.615641,town
+229,Zvolenská Slatina,Zvolen,Banskobystrický,48.560709,19.260067,village
+230,Halič,Lučenec,Banskobystrický,48.354442,19.573333,village
+231,Vyhne,Žiar nad Hronom,Banskobystrický,48.505945,18.798587,village
+232,Detva,Detva,Banskobystrický,48.544384,19.411609,town
+233,Zohor,Malacky,Bratislavský,48.317496,16.982457,village
+234,Piešťany,Piešťany,Trnavský,48.589897,17.821604,town
+235,Vrbové,Piešťany,Trnavský,48.619531,17.723876,town
+236,Červeník,Hlohovec,Trnavský,48.458044,17.75582,village
+237,Tomášikovo,Galanta,Trnavský,48.079033,17.694329,village
+238,Svätý Peter,Komárno,Nitriansky,47.846468,18.262893,village
+239,Ilava,Ilava,Trenčiansky,49.0,18.233333,town
+240,Toporec,Kežmarok,Prešovský,49.266667,20.5,village
+241,Výrava,Medzilaborce,Prešovský,49.192976,22.004666,hamlet
+242,Košice - mestská časť Staré Mesto,Bratislava I,Bratislavský,48.140553,17.112478,suburb
+243,Slavošovce,Rožňava,Košický,48.716667,20.283333,village
+244,Streda nad Bodrogom,Trebišov,Košický,48.366667,21.766667,village
+245,Leopoldov,Hlohovec,Trnavský,48.444113,17.765415,village
+246,Brestovany,Trnava,Trnavský,48.385557,17.690227,village
+247,Veľký Grob,Galanta,Trnavský,48.254044,17.497245,village
+248,Dechtice,Trnava,Trnavský,48.548052,17.595636,village
+249,Vršatské Podhradie,Ilava,Trenčiansky,49.066667,18.15,village
+250,Malinovo,Senec,Bratislavský,48.154124,17.291732,village
+251,Skačany,Partizánske,Trenčiansky,48.661215,18.378466,village
+252,Dolná Mariková,Považská Bystrica,Trenčiansky,49.25,18.366667,village
+253,Kanianka,Prievidza,Trenčiansky,48.816667,18.583333,village
+254,Trenčianske Teplice,Trenčín,Trenčiansky,48.90985,18.169101,village
+255,Handlová,Prievidza,Trenčiansky,48.731432,18.762694,town
+256,Dlhé Pole,Žilina,Žilinský,49.302948,18.629806,village
+257,Breza,Námestovo,Žilinský,49.383333,19.4,village
+258,Kláštor pod Znievom,Martin,Žilinský,48.97394,18.805725,village
+259,Rosina,Žilina,Žilinský,49.183333,18.766667,village
+260,Žakovce,Kežmarok,Prešovský,49.081721,20.39728,village
+261,Oščadnica,Čadca,Žilinský,49.433333,18.883333,town
+262,Sabinov,Sabinov,Prešovský,49.102044,21.100545,town
+263,Veľký Slavkov,Poprad,Prešovský,49.093395,20.282281,village
+264,Hranovnica,Poprad,Prešovský,48.987283,20.308073,village
+265,Košeca,Ilava,Trenčiansky,49.016667,18.266667,village
+266,Nesvady,Komárno,Nitriansky,47.929281,18.127526,village
+267,Bánov,Nové Zámky,Nitriansky,48.048624,18.191323,village
+268,Zbrojníky,Levice,Nitriansky,48.117035,18.702789,village
+269,Kvakovce,Vranov nad Topľou,Prešovský,48.983333,21.683333,village
+270,Dvory nad Žitavou,Nové Zámky,Nitriansky,47.994311,18.268975,village
+271,Vlkas,Nové Zámky,Nitriansky,48.116667,18.283333,village
+272,Parchovany,Trebišov,Košický,48.75,21.716667,village
+273,Ladmovce,Trebišov,Košický,48.416667,21.783333,village
+274,Trebišov,Trebišov,Košický,48.628622,21.720171,town
+275,Jaklovce,Gelnica,Košický,48.873225,20.995106,village
+276,Liptovský Peter,Liptovský Mikuláš,Žilinský,49.053383,19.735175,village
+277,Kriváň,Detva,Banskobystrický,48.530221,19.444957,village
+278,Selce,Banská Bystrica,Banskobystrický,48.766999,19.200351,village
+279,Rimavská Sobota,Rimavská Sobota,Banskobystrický,48.383832,20.016302,town
+280,Zeleneč,Trnava,Trnavský,48.332228,17.594315,village
+281,Krajné,Myjava,Trenčiansky,48.700576,17.68716,village
+282,Liptovské Matiašovce,Liptovský Mikuláš,Žilinský,49.166667,19.566667,village
+283,Ivanka pri Nitre,Nitra,Nitriansky,48.233333,18.116667,village
+284,Svit,Poprad,Prešovský,49.058236,20.196529,town
+285,Rišňovce,Nitra,Nitriansky,48.369248,17.896178,village
+286,Vinosady,Pezinok,Bratislavský,48.310552,17.29264,village
+287,Ondrejovce,Levice,Nitriansky,48.137625,18.518794,village
+288,Nižná Myšľa,Košice - okolie,Košický,48.623714,21.363905,village
+289,Liptovský Ján,Liptovský Mikuláš,Žilinský,49.049582,19.680264,village
+290,Vrútky,Martin,Žilinský,49.10886,18.92507,town
+291,Horný Vadičov,Kysucké Nové Mesto,Žilinský,49.266667,18.883333,village
+292,Kysucký Lieskovec,Kysucké Nové Mesto,Žilinský,49.333333,18.816667,village
+293,Hruštín,Námestovo,Žilinský,49.316667,19.35,village
+294,Východná,Liptovský Mikuláš,Žilinský,49.061229,19.894612,village
+295,Fiľakovo,Lučenec,Banskobystrický,48.270503,19.821673,town
+296,Hriňová,Detva,Banskobystrický,48.576422,19.525427,town
+297,Rohovce,Dunajská Streda,Trnavský,47.996929,17.409561,village
+298,Horné Saliby,Galanta,Trnavský,48.122648,17.752084,village
+299,Moravany nad Váhom,Piešťany,Trnavský,48.602463,17.862269,village
+300,Kopčany,Michalovce,Košický,48.583333,21.916667,village
+301,Vinohrady nad Váhom,Galanta,Trnavský,48.300461,17.766113,village
+302,Smolinské,Senica,Trnavský,48.683333,17.133333,village
+303,Cífer,Trnava,Trnavský,48.315284,17.490022,village
+304,Veľké Úľany,Galanta,Trnavský,48.162887,17.57621,village
+305,Pata,Galanta,Trnavský,48.275779,17.825432,village
+306,Čenkovce,Dunajská Streda,Trnavský,48.106207,17.433109,village
+307,Dvorany nad Nitrou,Topoľčany,Nitriansky,48.489267,18.11335,village
+308,Jatov,Nové Zámky,Nitriansky,48.128462,18.028264,village
+309,Spišské Hanušovce,Kežmarok,Prešovský,49.331411,20.346897,village
+310,Huncovce,Kežmarok,Prešovský,49.117868,20.378184,village
+311,Vikartovce,Poprad,Prešovský,48.992835,20.154403,village
+312,Smilno,Bardejov,Prešovský,49.383333,21.35,village
+313,Lietava,Žilina,Žilinský,49.168923,18.676346,village
+314,Svrčinovec,Čadca,Žilinský,49.387301,18.767884,okres_centroid
+315,Smrečany,Liptovský Mikuláš,Žilinský,49.116667,19.65,village
+316,Ochodnica,Kysucké Nové Mesto,Žilinský,49.35,18.783333,village
+317,Korňa,Čadca,Žilinský,49.414,18.541,village
+318,Budča,Zvolen,Banskobystrický,48.5743,19.065196,village
+319,Cabaj-Čápor,Nitra,Nitriansky,48.245665,18.023092,village
+320,Unín,Skalica,Trnavský,48.725737,17.215748,village
+321,Brodské,Skalica,Trnavský,48.770797,17.20201,okres_centroid
+322,Malá Čausa,Prievidza,Trenčiansky,48.794864,18.700866,village
+323,Kamenica nad Cirochou,Humenné,Prešovský,48.933333,22.0,village
+324,Plavecké Podhradie,Malacky,Bratislavský,48.481793,17.261951,village
+325,Nový Tekov,Levice,Nitriansky,48.244126,18.517993,village
+326,Báhoň,Pezinok,Bratislavský,48.309067,17.445245,village
+327,Kamenná Poruba,Vranov nad Topľou,Prešovský,48.84859,21.648767,village
+328,Dubovica,Sabinov,Prešovský,49.133333,20.966667,village
+329,Machulince,Zlaté Moravce,Nitriansky,48.41125,18.433242,village
+330,Petrovany,Prešov,Prešovský,48.91662,21.261603,village
+331,Richnava,Gelnica,Košický,48.927875,20.917469,village
+332,Horné Štitáre,Topoľčany,Nitriansky,48.526005,18.054942,village
+333,Hronec,Brezno,Banskobystrický,48.80232,19.575561,village
+334,Klokočov,Čadca,Žilinský,49.446206,18.567083,village
+335,Bytča,Bytča,Žilinský,49.219738,18.562215,town
+336,Ľubotice,Prešov,Prešovský,49.011264,21.276481,village
+337,Kalinovo,Poltár,Banskobystrický,48.392041,19.708538,village
+338,Ruskov,Košice - okolie,Košický,48.682449,21.432723,village
+339,Sľažany,Zlaté Moravce,Nitriansky,48.397,18.329,village
+340,Jaslovské Bohunice,Trnava,Trnavský,48.469535,17.650378,village
+341,Partizánska Ľupča,Liptovský Mikuláš,Žilinský,49.066667,19.45,village
+342,Bratislava - mestská časť Vajnory,Bratislava III,Bratislavský,48.204418,17.206666,suburb
+343,Bojná,Topoľčany,Nitriansky,48.583333,18.066667,village
+344,Horná Súča,Trenčín,Trenčiansky,48.966667,17.983333,village
+345,Zázrivá,Dolný Kubín,Žilinský,49.274927,19.154525,village
+346,Belá,Žilina,Žilinský,49.236895,18.943661,village
+347,Klátova Nová Ves,Partizánske,Trenčiansky,48.566667,18.3,village
+348,Mestečko,Púchov,Trenčiansky,49.166667,18.25,village
+349,Budiná,Lučenec,Banskobystrický,48.456112,19.476724,village
+350,Poprad - Matejovce,Poprad,Prešovský,49.054152,20.29764,town
+351,Stropkov - Bokša,Stropkov,Prešovský,49.202387,21.651153,town
+352,Veľké Dvorany,Topoľčany,Nitriansky,48.554552,18.073245,village
+353,Hôrka,Poprad,Prešovský,49.01777,20.379659,village
+354,Pozdišovce,Michalovce,Košický,48.733333,21.85,village
+355,Lúč na Ostrove,Dunajská Streda,Trnavský,47.9775,17.521693,village
+356,Oravská Lesná,Námestovo,Žilinský,49.372578,19.205632,village
+357,Kochanovce,Bardejov,Prešovský,49.183333,21.383412,village
+358,Spišské Bystré,Poprad,Prešovský,48.991455,20.242744,village
+359,Hviezdoslavov,Dunajská Streda,Trnavský,48.066938,17.348981,village
+360,Senec,Senec,Bratislavský,48.219641,17.396776,town
+361,Lieskovec,Humenné,Prešovský,48.95,21.816667,village
+362,Lehnice,Dunajská Streda,Trnavský,48.051598,17.457891,village
+363,Čerhov,Trebišov,Košický,48.466667,21.65,village
+364,Nováky,Prievidza,Trenčiansky,48.714477,18.539765,village
+365,Bratislava - mestská časť Jarovce,Bratislava I,Bratislavský,48.153538,17.109671,city
+366,Kameničany,Ilava,Trenčiansky,48.992,18.171,village
+367,Viničné,Pezinok,Bratislavský,48.269892,17.302281,village
+368,Poproč,Košice - okolie,Košický,48.711448,20.976843,village
+369,Rozhanovce,Košice - okolie,Košický,48.750798,21.344284,village
+370,Udiča,Považská Bystrica,Trenčiansky,49.167563,18.40107,village
+371,Bajč,Komárno,Nitriansky,47.923548,18.20814,village
+372,Stropkov,Stropkov,Prešovský,49.202387,21.651153,town
+373,Spišský Štvrtok,Levoča,Prešovský,49.0,20.466667,village
+374,Zlatá Baňa,Prešov,Prešovský,48.95,21.433333,village
+375,Moča,Komárno,Nitriansky,47.760018,18.405095,village
+376,Čierna nad Tisou,Trebišov,Košický,48.433335,22.100003,village
+377,Zemianske Sady,Galanta,Trnavský,48.164293,17.710276,okres_centroid
+378,Nemčice,Topoľčany,Nitriansky,48.552617,18.124239,village
+379,Plavé Vozokany,Levice,Nitriansky,48.072466,18.467408,village
+380,Demandice,Levice,Nitriansky,48.12704,18.782,village
+381,Malý Krtíš,Veľký Krtíš,Banskobystrický,48.189639,19.35296,village
+382,Trnovec nad Váhom,Šaľa,Nitriansky,48.151216,17.926194,village
+383,Bacúch,Brezno,Banskobystrický,48.861528,19.814002,village
+384,Lošonec,Trnava,Trnavský,48.483333,17.4,village
+385,Terany,Krupina,Banskobystrický,48.183939,18.89834,village
+386,Oravská Jasenica,Námestovo,Žilinský,49.390418,19.435844,village
+387,Šamorín,Dunajská Streda,Trnavský,48.027583,17.311571,town
+388,Stankovany,Ružomberok,Žilinský,49.15,19.183333,village
+389,Opatovce nad Nitrou,Prievidza,Trenčiansky,48.765376,18.570538,village
+390,Zemianske Kostoľany,Prievidza,Trenčiansky,48.683233,18.526082,village
+391,Predmier,Bytča,Žilinský,49.2,18.533333,village
+392,Lehota pod Vtáčnikom,Prievidza,Trenčiansky,48.695466,18.600392,village
+393,Trstice,Galanta,Trnavský,48.015847,17.804559,village
+394,Dolná Breznica,Púchov,Trenčiansky,49.080275,18.261852,village
+395,Tekovské Lužany,Levice,Nitriansky,48.097445,18.544241,village
+396,Jedľové Kostoľany,Zlaté Moravce,Nitriansky,48.466667,18.5,village
+397,Palárikovo,Nové Zámky,Nitriansky,48.04401,18.069378,village
+398,Ľubica,Kežmarok,Prešovský,49.11926,20.446757,town
+399,Rudina,Kysucké Nové Mesto,Žilinský,49.283333,18.75,village
+400,Tlmače,Levice,Nitriansky,48.292155,18.543288,village
+401,Otrhánky,Bánovce nad Bebravou,Trenčiansky,48.693814,18.206999,village
+402,Červená Voda,Sabinov,Prešovský,49.146,21.088,village
+403,Topoľníky,Dunajská Streda,Trnavský,47.966677,17.783323,village
+404,Kľače,Žilina,Žilinský,49.106091,18.647759,village
+405,Krušovce,Topoľčany,Nitriansky,48.587898,18.201915,village
+406,Hlboké nad Váhom,Bytča,Žilinský,49.21356,18.589554,village
+407,Oravský Podzámok,Dolný Kubín,Žilinský,49.261134,19.357114,village
+408,Bernolákovo,Senec,Bratislavský,48.199027,17.300361,village
+409,Hrochoť,Banská Bystrica,Banskobystrický,48.655259,19.312134,village
+410,Bátorove Kosihy,Komárno,Nitriansky,47.833333,18.416667,village
+411,Krásna Ves,Bánovce nad Bebravou,Trenčiansky,48.835786,18.230924,village
+412,Rapovce,Lučenec,Banskobystrický,48.273689,19.680832,village
+413,Súdovce,Krupina,Banskobystrický,48.216667,18.833333,village
+414,Necpaly,Martin,Žilinský,48.983333,18.983333,village
+415,Očová,Zvolen,Banskobystrický,48.599127,19.286756,village
+416,Melek,Nitra,Nitriansky,48.2,18.333333,village
+417,Horovce,Michalovce,Košický,48.704265,21.768522,village
+418,Donovaly,Banská Bystrica,Banskobystrický,48.879036,19.223947,hamlet
+419,Margecany,Gelnica,Košický,48.893544,21.012272,village
+420,Domaniža,Považská Bystrica,Trenčiansky,49.043114,18.551924,village
+421,Dolná Súča,Trenčín,Trenčiansky,48.95799,18.033094,village
+422,Koš,Prievidza,Trenčiansky,48.73968,18.586242,village
+423,Ľubá,Nové Zámky,Nitriansky,47.849877,18.596253,village
+424,Bzenov,Prešov,Prešovský,48.95,21.166667,village
+425,Čaňa,Košice - okolie,Košický,48.60973,21.325644,village
+426,Rybník,Revúca,Banskobystrický,48.550407,20.133912,village
+427,Radošina,Topoľčany,Nitriansky,48.55,17.933333,village
+428,Čierne,Čadca,Žilinský,49.387301,18.767884,okres_centroid
+429,Vysoké Tatry,Poprad,Prešovský,49.137283,20.222448,village
+430,Turňa nad Bodvou,Košice - okolie,Košický,48.600452,20.881877,village
+431,Drahňov,Michalovce,Košický,48.583333,21.966667,village
+432,Dobrá Voda,Trnava,Trnavský,48.596678,17.541932,village
+433,Hubina,Piešťany,Trnavský,48.618016,17.886407,village
+434,Košice - mestská časť Nad jazerom,Košice IV,Košický,48.687456,21.287603,suburb
+435,Trnavá Hora,Žiar nad Hronom,Banskobystrický,48.59038,18.953488,village
+436,Bošany,Partizánske,Trenčiansky,48.579391,18.255734,village
+437,Žilina - Zádubnie,Žilina,Žilinský,49.223464,18.739498,city
+438,Teplička nad Váhom,Žilina,Žilinský,49.233333,18.8,village
+439,Spišská Teplica,Poprad,Prešovský,49.05,20.25,village
+440,Staškov,Čadca,Žilinský,49.421675,18.691039,village
+441,Košúty,Galanta,Trnavský,48.171511,17.656969,village
+442,Spišské Podhradie,Levoča,Prešovský,49.000817,20.752504,village
+443,Most pri Bratislave,Senec,Bratislavský,48.139812,17.268859,village
+444,Hronské Kosihy,Levice,Nitriansky,48.266667,18.6,village
+445,Králiky,Banská Bystrica,Banskobystrický,48.7355,19.035849,village
+446,Olešná,Čadca,Žilinský,49.428876,18.666576,village
+447,Malé Zálužie,Nitra,Nitriansky,48.44016,17.985146,village
+448,Podolínec,Stará Ľubovňa,Prešovský,49.266667,20.533333,village
+449,Opoj,Trnava,Trnavský,48.302946,17.641948,village
+450,Rimavské Janovce,Rimavská Sobota,Banskobystrický,48.342051,20.062215,village
+451,Rimavská Seč,Rimavská Sobota,Banskobystrický,48.304087,20.23735,village
+452,Zlaté Klasy,Dunajská Streda,Trnavský,48.121323,17.421944,village
+453,Giraltovce,Svidník,Prešovský,49.116295,21.517528,village
+454,Poltár,Poltár,Banskobystrický,48.432586,19.793827,town
+455,Kysucké Nové Mesto,Kysucké Nové Mesto,Žilinský,49.301674,18.785426,town
+456,Rovné,Svidník,Prešovský,49.283333,21.533333,village
+457,Zborov,Bardejov,Prešovský,49.366667,21.3,village
+458,Bratislava - mestská časť Vrakuňa,Bratislava II,Bratislavský,48.143251,17.205724,suburb
+459,Novoť,Námestovo,Žilinský,49.433333,19.266667,village
+460,Veľké Leváre,Malacky,Bratislavský,48.501984,17.00306,village
+461,Miloslavov,Senec,Bratislavský,48.103575,17.299044,village
+462,Rajec,Žilina,Žilinský,49.087947,18.636664,town
+463,Závada,Topoľčany,Nitriansky,48.64101,18.089173,village
+464,Bystrička,Martin,Žilinský,49.05,18.883333,village
+465,Lendak,Kežmarok,Prešovský,49.233333,20.35,village
+466,Horná Ves,Prievidza,Trenčiansky,48.609859,18.488024,village
+467,Bratislava - mestská časť Lamač,Bratislava IV,Bratislavský,48.194538,17.048575,suburb
+468,Ludrová,Ružomberok,Žilinský,49.046667,19.331842,village
+469,Štítnik,Rožňava,Košický,48.659884,20.363755,village
+470,Liptovské Sliače,Ružomberok,Žilinský,49.061607,19.390697,village
+471,Semerovo,Nové Zámky,Nitriansky,48.016667,18.35,village
+472,Dolný Štál,Dunajská Streda,Trnavský,47.936163,17.718435,village
+473,Dolná Streda,Galanta,Trnavský,48.266667,17.75,village
+474,Krásna Lúka,Sabinov,Prešovský,49.193961,20.822502,village
+475,Juskova Voľa,Vranov nad Topľou,Prešovský,48.883333,21.566667,village
+476,Podtureň,Liptovský Mikuláš,Žilinský,49.053592,19.692702,village
+477,Láb,Malacky,Bratislavský,48.363703,16.973293,village
+478,Bratislava - mestská časť Dúbravka,Michalovce,Košický,48.633333,21.883333,village

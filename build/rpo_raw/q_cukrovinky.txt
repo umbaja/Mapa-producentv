@@ -1,0 +1,3 @@
+# query=fullName=cukrovink sector=potravinarstvo keyword=cukrovinky
+47916672|CUKROVINKY s.r.o.|Polom 1208|02901|Námestovo|SK0317509868
+31429254|Ed. Haas SK, s.r.o.|Staničná 20|90851|Holíč|SK0216504378

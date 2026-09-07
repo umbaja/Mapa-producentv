@@ -1,0 +1,31 @@
+# query=fullName=Reštaurácia sector=gastro keyword=restauracia
+46956921|KAČABÁR reštaurácia s. r. o.|Nové Mesto nad Váhom|SK0224506338
+47613131|Reštaurácia Svätý Hubert, s. r. o.|Považská Bystrica|SK0226512842
+35864761|Reštaurácia a kaviareň biffi, s.r.o.|Bratislava - mestská časť Rača|SK0103529354
+47668725|Reštaurácia ELSA, s.r.o.|Nitra|SK0233500011
+45940151|Reštaurácia DAMI, s. r. o.|Piešťany|SK0214507440
+46416251|REŠTAURÁCIA TURBÍNA, s. r. o.|Zemianske Kostoľany|SK0227514454
+43790011|Vínna reštaurácia, spol. s r. o.|Modra|SK0107508101
+36393762|Čínska reštaurácia, s.r.o.|Žilina|SK031B517402
+44655525|Reštaurácia Rotoska s. r. o.|Bratislava|NA
+48218588|Reštaurácia BESEDA s. r. o.|Bratislava - mestská časť Ružinov|SK0102529320
+47560720|Reštaurácia Očová s.r.o.|Očová|SK032B518662
+47449152|Reštaurácia 6/4 s. r. o.|Banská Štiavnica|SK0322516643
+36727504|Reštaurácia Avalon s.r.o.|Bratislava|NA
+45904243|Reštaurácia SLOVAKIA s.r.o.|Humenné|SK0412520004
+46251308|Erika Kubicová reštaurácia Magura, s.r.o.|Oravská Jasenica|SK0317509892
+45496293|Reštaurácia NA MLYNE, s.r.o.|Zeleneč|SK0217507776
+36276260|REŠTAURÁCIA STOP, s.r.o.|Galanta|SK0212503665
+36196479|REŠTAURÁCIA ŠPORT - KANI s.r.o|Košice - mestská časť Staré Mesto|SK0422598186
+44581203|REŠTAURÁCIA VF, spol. s r.o.|Lúč na Ostrove|SK0211501743
+35390492|Miroslava Jeneiová - Reštaurácia Mirka|Martin|SK0316512036
+30578990|Rudolf Škrobák - RaJ|Mužla|SK0234503401
+43294341|Milan Duda - PIZZÉRIA A REŠTAURÁCIA PEPEK|Žilina|SK031B517402
+33357285|Milan Puchoň Reštaurácia VRTULA|Dolný Hričov|SK031B517526
+41754549|Milan Kavecký - Reštaurácia KLEOPATRA|Kamenná Poruba|SK031B517658
+17689503|Margita Farkasová - Reštaurácia|Kráľov Brod|SK0212503878
+36920151|Viliam Ruman - Reštaurácia JAMAJKA|Galanta|SK0212503665
+46463259|Marián Skukálek Reštaurácia GÓL|Predmier|SK0311517895
+48185272|Miroslav Bédi - REŠTAURÁCIA U NOTÁRA|Sereď|SK0212504009
+37586475|Jana Ježíková - POHOSTINSTVO BOHUMÍN|Turzovka|SK0312509507
+17266807|Mária Pastorová - BUFET ZÁHRADA|Michaľany|SK042B528587

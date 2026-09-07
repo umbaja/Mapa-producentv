@@ -1,0 +1,32 @@
+# query=fullName=Gymnázium sector=gastro keyword=skola_stredna
+17050111|Gymnázium Juraja Szondyho s VJM|Šahy|SK0232502782
+00160717|Gymnázium Antona Bernoláka|Námestovo|SK0317509868
+00161144|Gymnázium Pavla Jozefa Šafárika|Rožňava|SK0428525529
+00161268|Gymnázium Cyrila Daxnera|Vranov nad Topľou|SK041D544051
+00596680|Gymnázium Myjava|Myjava|SK0223504581
+17050227|Gymnázium Janka Jesenského|Bánovce nad Bebravou|SK0221542652
+17050197|Gymnázium Karola Štúra|Modra|SK0107508101
+00598071|Gymnázium Košice|Košice|SK0425599824
+00160792|Gymnázium Ružomberok|Ružomberok|SK0318510998
+00160539|Gymnázium Andreja Kmeťa|Banská Štiavnica|SK0322516643
+00160482|Gymnázium Janka Kráľa|Zlaté Moravce|SK0237500968
+30797969|Súkromné gymnázium ESPRIT|Bratislava|SK0104529397
+42152411|Súkromné gymnázium FUTURUM|Trenčín|SK0229505820
+00160865|Gymnázium Ľudovíta Štúra|Zvolen|SK032B518158
+45024006|Súkromné gymnázium Kremnica|Kremnica|SK032D516970
+37939076|Súkromné gymnázium DSA|Bardejov|SK0411519006
+00161098|Gymnázium Poprad|Poprad|SK0416523381
+00399850|Gymnázium Juraja Fándlyho|Šaľa|SK0235504025
+35560321|Gymnázium sv. Edity Steinovej|Košice|SK0424598682
+31305288|Evanjelické gymnázium Jana Amosa Komenského|Košice|SK0422598186
+00160270|Gymnázium M. R. Štefánika|Nové Mesto nad Váhom|SK0224506338
+42319234|Premonštrátske gymnázium|Košice|SK0422598186
+00161110|Gymnázium Prešov|Prešov|SK0417524140
+36092479|Gymnázium Jána Baltazára Magina|Vrbové|SK0214507750
+00161101|Gymnázium Jána Adama Raymana|Prešov|SK0417524140
+17151341|Gymnázium Michalovce|Michalovce|SK0427522279
+00160504|Gymnázium Jána Amosa Komenského|Želiezovce|SK0232502987
+00161021|Gymnázium Krompachy|Krompachy|SK042A543268
+51206790|Kežmarské Gymnázium P. O. Hviezdoslava|Kežmarok|SK0413523585
+36648701|1. Súkromné Banskobystrické gymnázium s.r.o.|Banská Bystrica|SK0321508438
+42011701|Súkromné gymnázium Banskobystrické|Banská Bystrica|SK0321508438

@@ -1,0 +1,10 @@
+id,kod,nazov,popis,pravny_ramec
+1,krmivo_hosp,Krmivo pre hospodárske zvieratá,Spracovaná živočíšna bielkovina z hmyzu do krmív pre hydinu a ošípané,"nar. (EÚ) 2021/1372, nar. (EÚ) 2017/893"
+2,krmivo_akva,Krmivo pre akvakultúru,PAP z hmyzu do krmív pre ryby,nar. (EÚ) 2017/893
+3,petfood,Krmivo pre spoločenské zvieratá,Hmyzia múčka a tuk do petfoodu,"nar. (ES) 1069/2009, nar. (EÚ) 142/2011"
+4,potravina,Potravina pre ľudí,Celý hmyz a hmyzia múčka ako nová potravina,"nar. (EÚ) 2015/2283, únijný zoznam 2017/2470"
+5,technicky_tuk,Technický tuk a oleochémia,"Hmyzí tuk do biopalív, mazív, tenzidov a kozmetiky - mimo potravinového a krmivového reťazca",nar. (ES) 1069/2009 čl. 33 - technické použitie
+6,chitin,Chitín a chitozán,"Exúvie a kutikula ako surovina pre biopolyméry, obalové fólie a biomedicínu",mimo krmivovej regulácie; REACH podľa aplikácie
+7,hydrolyzat,Proteínový hydrolyzát a biostimulátor,Enzymatický hydrolyzát ako biostimulátor rastlín a technická bielkovina,nar. (EÚ) 2019/1009 o hnojivých výrobkoch
+8,frass,Frass ako organické hnojivo,Trus a zvyšky substrátu ako hnojivý výrobok,"nar. (EÚ) 2021/1925, nar. (EÚ) 2019/1009"
+9,bioplyn,Anaeróbna digescia,"Energetické zhodnotenie tam, kde nutričná dráha nie je prípustná",nar. (ES) 1069/2009 čl. 13

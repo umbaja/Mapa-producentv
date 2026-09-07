@@ -1,0 +1,31 @@
+# query=fullName=COOP Jednota sector=retail keyword=retail_druzstvo
+00168912|COOP Jednota Trenčín, spotrebné družstvo|Trenčín|SK0229505820
+00651273|COOP Jednota Púchov, spotrebné družstvo|Púchov|SK0228513610
+00169005|COOP Jednota Prievidza, spotrebné družstvo|Prievidza|SK0227513881
+00168904|COOP Jednota Topoľčany, spotrebné družstvo|Topoľčany|SK0236504998
+00168882|COOP Jednota Nové Zámky, spotrebné družstvo|Nové Zámky|SK0234503011
+00168874|COOP Jednota Nitra, spotrebné družstvo|Nitra|SK0233500011
+34150056|COOP Jednota Levice, spotrebné družstvo|Levice|SK0232502031
+36009342|COOP Jednota Brezno, spotrebné družstvo|Brezno|SK0323508497
+00169129|COOP JEDNOTA REVÚCA, spotrebné družstvo|Revúca|SK0328526142
+00169030|COOP JEDNOTA ŽARNOVICA, spotrebné družstvo|Žarnovica|SK032C517381
+00168980|COOP JEDNOTA MARTIN, spotrebné družstvo|Turčianske Teplice|SK0319512729
+36012815|COOP Jednota Trstená, spotrebné družstvo|Trstená|SK031A510106
+00169048|COOP Jednota Žilina, spotrebné družstvo|Žilina|SK031B517402
+00168963|COOP Jednota Liptovský Mikuláš, spotrebné družstvo|Liptovský Mikuláš|SK0315510262
+00168947|COOP Jednota Čadca, spotrebné družstvo|Čadca|SK0312509132
+00693804|COOP Jednota Námestovo, spotrebné družstvo|Námestovo|SK0317509868
+31737200|COOP Jednota Vranov nad Topľou, spotrebné družstvo|Vranov nad Topľou|SK041D544051
+00169102|COOP JEDNOTA POPRAD, spotrebné družstvo|Poprad|SK0416523381
+00169081|COOP Jednota Humenné, spotrebné družstvo|Humenné|SK0412520004
+17642795|COOP Jednota Radošovce, spotrebné družstvo|Radošovce|SK0216504742
+00168831|COOP Jednota Dunajská Streda, spotrebné družstvo|Dunajská Streda|SK0211501433
+00168891|COOP Jednota Senica, spotrebné družstvo|Senica|SK0215504203
+00168921|COOP Jednota Trnava, spotrebné družstvo|Trnava|SK0217506745
+00168840|COOP Jednota Galanta, spotrebné družstvo|Galanta|SK0212503665
+00169099|COOP JEDNOTA Michalovce, spotrebné družstvo|Michalovce|SK0427522279
+35697547|COOP Jednota Slovensko, spotrebné družstvo|Bratislava|NA
+00168823|COOP Jednota Bratislava - vidiek, spotrebné družstvo|Bratislava - mestská časť Nové Mesto|SK0103529346
+00169021|COOP Jednota Krupina, spotrebné družstvo|Krupina|SK0325518557
+36520161|COOP Jednota Komárno, spotrebné družstvo|Komárno|SK0231501026
+00169111|COOP Jednota Prešov, spotrebné družstvo|Prešov|SK0417524140

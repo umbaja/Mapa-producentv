@@ -1,0 +1,29 @@
+# query=fullName=farma sector=polnohospodarstvo keyword=farma
+47002859|Farma Titváň s. r. o.|Jarmočná 2265/3A|92701|Šaľa|SK0235504025
+31628842|FARMA Zliechov, spol. s r.o.|Zliechov 331|01832|Zliechov|SK0222513865
+48132489|Farma Podskalie, s.r.o.|SNP 1454/69|01701|Považská Bystrica|SK0226512842
+47719648|Agrofarma Iliavka s.r.o.|Iliavka 3028|01901|Ilava|SK0222513156
+47879408|Farma Horný Lieskov s.r.o.|NA 18|01816|Domaniža|SK0226513008
+34137653|AGROFARMA Rozina, s.r.o.|Moyzesova 14/1528|93405|Levice|SK0232502031
+46895043|FARMA ISKROŠ, s. r. o.|NA 30|95655|Otrhánky|SK0221556289
+31644571|FARMA JANEK, spol. s r.o.|NA|01861|Beluša|SK0228512851
+48002445|FARMA AGROBEL, spol. s r.o.|Novozámocká 295|95112|Ivanka pri Nitre|SK0233558320
+44159897|Mangalica farma, s.r.o.|Pavlov Dvor 9|94703|Hurbanovo|SK0231501140
+46858873|TOM FARMA s.r.o.|Nálepkova 2411/3|94701|Hurbanovo|SK0231501140
+45504377|Farma Kameničany s. r. o.|NA 200|01854|Kameničany|SK0222557404
+48282197|Agrofarma - Prejta s.r.o.|Prejtská 211/246|01841|Dubnica nad Váhom|SK0222513016
+47655950|Agrofarma CM s.r.o.|NA 266|02062|Horovce|SK0228513121
+36517828|BIO - EKOFARMA s.r.o.|Továrenská 545|01864|Košeca|SK0222513253
+47049774|AK-FARMA s.r.o.|Hlavná 202|95631|Krušovce|SK0236556149
+48135429|Agrofarma - plus s.r.o.|Gyňovská 939/15|04414|Čaňa|SK0426521299
+46415955|Albiofarma s. r. o.|NA 188|97202|Opatovce nad Nitrou|SK0227514284
+47615591|Rybárová AGROFARMA s.r.o.|Kostolný Sek, Poznanova 935/35|94201|Šurany|SK0234503592
+48046621|FARMA ĽUBÁ, s.r.o.|Ľubá 67|94353|Ľubá|SK0234503339
+45906688|SESSEL FARMA s. r. o.|Hurbanova 1|91501|Nové Mesto nad Váhom|SK0224506338
+31574912|AGROFARMA, spol. s r.o. Červený Kameň|Červený Kameň 324|01856|Červený Kameň|SK0222512931
+35964243|FARMA MAGJEP, s. r. o.|Hlavná 124|95176|Tesárske Mlyňany|SK0237500810
+36014508|OVISFARMA SK, s. r. o.|Slovenských partizánov 1129/49|01701|Považská Bystrica|SK0226512842
+46530797|FARMA Ekovoktrans, s.r.o.|NA 56|93533|Nový Tekov|SK0232502596
+46635947|FARMA BORISKO s. r. o.|NA 721|95196|Jedľové Kostoľany|SK0237500364
+46035851|A.I.FARMA, s.r.o.|Horný Jatov 1161|92571|Trnovec nad Váhom|SK0235504092
+36708780|FISH&AGRO farma, s.r.o.|Jilemnická 56/30|02061|Lednické Rovne|SK0228513326

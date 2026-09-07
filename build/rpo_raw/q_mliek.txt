@@ -1,0 +1,23 @@
+# query=https://api.statistics.sk/rpo/v1/search?fullName=mliek&onlyActive=true
+# sector=potravinarstvo keyword=mliekaren
+36555096|Ponitrianska mliekarenská spoločnosť, s.r.o.|Štúrova 253/28|94101|Bánov|SK0234503045
+36338222|ODM - odbytové družstvo mlieka|M. R. Štefánika 582/29B|90701|Myjava|SK0223504581
+44059159|Mlieko Považie OOV - družstvo|NA 1|02052|Mestečko|SK0228513377
+36644811|Mliekáreň Kopanice Selce, s.r.o.|Selčianska 2|97611|Selce|SK0321508985
+31629857|Zvolenská mliekareň s.r.o.|T. G. Masaryka 8580|96001|Zvolen|SK032B518158
+31412271|LEVICKÉ MLIEKÁRNE a.s.|Júrska cesta č. 2|93401|Levice|SK0232502031
+44054998|Odbytové družstvo mlieka Levice, družstvo|Dopravná 14|93401|Levice|SK0232502031
+35820667|Mliekoservis Slovakia, a.s.|Nám. SNP 217/2|96261|Dobrá Niva|SK032B518298
+44696868|Kochanovská agromliekareň s.r.o.|NA 218|06601|Kochanovce|SK0412520373
+47548584|Necpalská mliekáreň, s. r. o.|NA 226|03812|Necpaly|SK0316512478
+36552933|Mliekofarma - SK, spol. s r.o.|NA 900|09402|Kvakovce|SK041D528820
+31654363|Tatranská mliekareň a.s.|Nad traťou 26|06001|Kežmarok|SK0413523585
+36603244|Kluknavská mliekáreň - obchodno - odbytové družstvo|Jaklovce 640|05561|Jaklovce|SK0421543187
+30111641|František Sekera Mliekáreň|NA 291|92532|Veľká Mača|SK0212504122
+50681788|Mliekovýroba Teplica, s.r.o.|Lesná 457|05934|Spišská Teplica|SK0416523844
+53764021|MILKFARM s. r. o.|Duklianska 2848|08501|Bardejov|SK0411519006
+55424961|Mliekareň Liptovské Sliače, družstvo|Seč 3047|03484|Liptovské Sliače|SK0318511005
+56490437|MLIEKAREŇ MORAVA VP, s. r. o.|Štefánikova 715|90501|Senica|SK0215504203
+57063800|Bc. Markéta Novysedláková - ŠARIŠSKÁ REMESELNÁ MLIEKAREŇ|NA 62|08273|Krásna Lúka|SK0418524671
+57497931|Hruštínska mliekareň, s. r. o.|Dedina 699/17|02952|Hruštín|SK0317509680
+44037040|Odbytové družstvo západ|NA 434|95844|Klátova Nová Ves|SK0225543047

@@ -1,0 +1,31 @@
+# query=fullName=vinár sector=potravinarstvo keyword=vinarstvo
+35979381|HBT VITIS, s.r.o.|Ružová ulica 1017|94137|Strekov|SK0234503550
+18047181|Vinárske závody Topoľčianky, s.r.o.|Cintorínska 31|95193|Topoľčianky|SK0237500828
+45896453|Kasnyik rodinné vinárstvo s.r.o.|Jarmočné námestie 1117|94137|Strekov|SK0234503550
+35898224|Vinárstvo Kamenica, s. r. o.|Hrnčiarska 2/D|90201|Pezinok|SK0107508179
+44503296|Vinárstvo Kutaj s. r. o.|Bratislavská 107/106|91106|Trenčín|SK0229505820
+48080080|Vinárstvo Izsák, s.r.o.|NA 741|94137|Strekov|SK0234503550
+48310841|Zámocké vinárstvo, s. r. o.|Mladoboleslavská 5|90201|Pezinok|SK0107508179
+45325464|VINÁRSTVO BK s. r. o.|Bratislavská 22|90045|Malinovo|SK0108508071
+48152633|Vinárstvo UHNÁK s.r.o.|Hlavná 261/27A|93523|Rybník|SK0232502707
+36558451|VVD - Vinohradnícko vinárske družstvo|Branovská cesta 1926|94131|Dvory nad Žitavou|SK0234503177
+36623199|Starohorská vinárska spoločnosť, družstvo|NA 418|96266|Sebechleby|SK0325518735
+36776955|Víno Hubinský, s. r. o.|Školská 54|90201|Vinosady|SK0107508314
+45523797|Cintavý & Pisarčík Vinárstvo s.r.o.|Hlavná 168/275|90023|Viničné|SK0107508306
+35889543|VÍNO Doľany spol. s r. o.|NA 445|90088|Doľany|SK0107507873
+45410992|Malé vinárstvo - Gočik s.r.o.|NA 264|07681|Čerhov|SK042B528251
+47683023|Výskumná a šľachtiteľská stanica vinohradnícka a vinárska, s. r. o.|Dolná 120|90001|Modra|SK0107508101
+46985701|VINÁRSTVO KOPEČEK s.r.o.|Predmestie 1511/56|90901|Skalica|SK0216504815
+36656372|Vinárstvo BLAHO, s.r.o.|Hlavná 40|91921|Zeleneč|SK0217507776
+47367431|Vinárstvo KORBAŠ, spol. s r.o.|Obilná 42|90027|Bernolákovo|SK0108507814
+36274305|VINÁRSTVO LAMPART s.r.o.|Domovina 1487/47A|90081|Šenkvice|SK0107508250
+36262111|VS Vinárstvo SOLDÁN, s.r.o.|NA 475|92527|Veľký Grob|SK0212504149
+45854891|Slobodné vinárstvo, s.r.o.|Hlavná 56|92554|Zemianske Sady|SK0212504181
+36588016|VINÁRSTVO Viničky s.r.o.|NA 186|07634|Ladmovce|SK042B528498
+48153745|VINÁRSTVO HABSBURG a.s.|Palárikova 1732/3|90851|Holíč|SK0216504378
+34124411|Vinohradnícko vinárske družstvo podielníkov KARPATY, družstvo|Limbašská 2|90203|Pezinok|SK0107508179
+35949856|Vinárstvo Vištuk a. s.|Františkánska 423/1|81101|Bratislava - mestská časť Staré Mesto|SK0101528595
+36803529|MORUS KALMAY VINOHRADNÍCTVO VINÁRSTVO, s. r. o.|Malé Tatry 6060/20|03405|Ružomberok|SK0318510998
+00587184|Poľnohospodárske družstvo Strekov|Hlavná ul. 55/60|94137|Strekov|SK0234503550
+36558486|ZPD - Zeleninársko potravinárske družstvo|Veľká Komárňanská 2330|94131|Dvory nad Žitavou|SK0234503177
+31713891|Agropotravinárske družstvo Malčice|NA|07206|Malčice|SK0427522759

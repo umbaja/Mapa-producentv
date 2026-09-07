@@ -1,0 +1,44 @@
+# query=fullName=píla sector=drevo keyword=pila
+31102701|LYKO s.r.o.|Stupava 5602|90031|Stupava|SK0106508233
+31598528|MALENICA, s.r.o.|NA 59|01822|Pružina|SK0226513601
+36002470|Píla Maša, s.r.o.|Vodná 27|94901|Nitra|SK0233500011
+31683843|PILA TERA, spol. s r.o.|Hámorská 399/11|06901|Snina|SK0419520802
+47345411|Píla Praznov s.r.o.|Praznov 37|01701|Považská Bystrica|SK0226512842
+36540510|Píla Zbrojníky, s.r.o.|NA 334|93555|Zbrojníky|SK0232502979
+31425399|Píla Podlužany spol. s r.o.|NA 358|95652|Podlužany|SK0221505358
+35843462|PÍLA MALACKY, s.r.o.|Pezinská 1|90101|Malacky|SK0106508063
+46759107|PÍLA VARGA, s.r.o.|Levická cesta 4|93521|Tlmače|SK0232502863
+46566325|PÍLA Tekovské Lužany s.r.o.|NA 1125-1127|93541|Tekovské Lužany|SK0232502821
+36544370|DREVONA Píla Tekovský Hrádok, s.r.o.|Lipová 4|93701|Želiezovce|SK0232502987
+46205799|Píla Terany, s.r.o.|NA 239|96268|Terany|SK0325518867
+36414131|PÍLA - DIAMÍR, s. r. o.|Revolučná 1189/11P|03105|Liptovský Mikuláš|SK0315510262
+36005614|PÍLA SEB, s.r.o.|NA|96266|Sebechleby|SK0325518735
+47687835|Drevársky závod - píla Senec, s.r.o.|Boldocká cesta 2560|90301|Senec|SK0108508217
+31605397|Obecná píla Ľubietová, spol. s r.o.|Zábava 442/44|97655|Ľubietová|SK0321508748
+36404152|Píla Vasilov, s.r.o.|NA 379|02953|Breza|SK0317509591
+36613100|PÍLA NA ŠMÝKANCI, s.r.o.|NA 398|03301|Liptovský Peter|SK0315580287
+36645559|Píla Bátka, s.r.o.|Vinice 29|97901|Rimavská Sobota|SK0329514462
+36379077|PÍLA DLHÉ POLE, s.r.o.|Dlhé Pole 1157|01332|Dlhé Pole|SK031B517500
+47352647|Píla Petro, s.r.o.|Liptovský Peter 413|03301|Liptovský Peter|SK0315580287
+47062321|Ekopíla Bytča, s.r.o.|NA 178|01401|Hlboké nad Váhom|SK0311581984
+47600578|PÍLA Jaklovce s. r. o.|Poľná 318|05561|Jaklovce|SK0421543187
+36270628|Píla Quercus, s.r.o.|NA 497|91953|Dechtice|SK0217506893
+36249734|PÍLA BREST, s.r.o.|Lovčická 8|91927|Brestovany|SK0217506842
+45579636|Píla RÚFUS, s.r.o.|Banícka 900/11|04424|Poproč|SK0426521892
+50219081|Malokarpatská píla s. r. o.|NA 185|91954|Dobrá Voda|SK0217506915
+50265288|PILA FOREST s.r.o.|NA 91|92221|Hubina|SK0214556581
+50341057|Píla Donoval & syn s.r.o.|Lipová 127|96611|Trnavá Hora|SK032D517313
+50691759|Píla Staškov, s.r.o.|Staškov 779|02353|Staškov|SK0312509485
+51469529|Píla Breza, s.r.o.|NA 132|02953|Breza|SK0317509591
+51748100|Čedopol PÍLA s.r.o.|Olešná 701|02352|Olešná|SK0312509337
+52259897|SITTA PÍLA ŠOBOV s. r. o.|Šobov 1687/11|96901|Banská Štiavnica|SK0322516643
+52438546|Píla SOEL s.r.o.|Ulica SNP 134|05918|Spišské Bystré|SK0416523852
+52641414|RH-PILA s. r. o.|Mliekarenská 3985|97703|Brezno|SK0323508497
+53280491|PÍLA ORAVA, s.r.o.|Pod brehom 208/1|02952|Hruštín|SK0317509680
+53324421|Píla LAKY s. r. o.|Zámočnícka 1311|90873|Veľké Leváre|SK0106504947
+53975707|Píla Sucháň s.r.o.|NA 49|95501|Závada|SK0236505773
+54348315|Píla Lendak, s. r. o.|Hlavná 43/59|05907|Lendak|SK0413523623
+54709202|Píla - Dub s.r.o.|Horná Ves 317|97248|Horná Ves|SK0227514004
+54993296|PÍLA KALINA s.r.o.|Ochtinská 511/76|04932|Štítnik|SK0428526312
+55423230|Píla Praznov SK, s. r. o.|Praznov 37|01701|Považská Bystrica|SK0226512842
+57424136|PÍLA PODTUREŇ, s. r. o.|Podtureň 234|03301|Podtureň|SK0315510947

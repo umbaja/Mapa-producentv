@@ -1,0 +1,10 @@
+draha,nazov,druhov_povolenych,druhov_podmienene,druhov_zakazanych
+krmivo_hosp,Krmivo pre hospodárske zvieratá,59,0,33
+krmivo_akva,Krmivo pre akvakultúru,59,0,33
+petfood,Krmivo pre spoločenské zvieratá,59,9,24
+potravina,Potravina pre ľudí,40,19,33
+technicky_tuk,Technický tuk a oleochémia,78,12,2
+chitin,Chitín a chitozán,78,12,2
+hydrolyzat,Proteínový hydrolyzát a biostimulátor,78,7,7
+frass,Frass ako organické hnojivo,59,19,14
+bioplyn,Anaeróbna digescia,90,0,2

@@ -1,0 +1,22 @@
+# query=fullName=Mestské lesy sector=komunalny keyword=mestske_lesy
+34141995|Mestské lesy, s.r.o. Brezová pod Bradlom|Cesta SNP 245/2|90613|Brezová pod Bradlom|SK0223504262
+31613314|Mestské lesy Považská Bystrica, s.r.o.|Považské Podhradie 333|01704|Považská Bystrica|SK0226512842
+36643807|Mestské lesy Lučenec, s.r.o.|Lučenské kúpele 3152|98401|Lučenec|SK0326511218
+31638775|Mestské lesy Banská Štiavnica, spol. s r.o.|Šobov 1401/1|96901|Banská Štiavnica|SK0322516643
+31642365|Mestské lesy Banská Bystrica s.r.o.|Dolný Harmanec 51|97603|Dolný Harmanec|SK0321508551
+31588182|Mestské lesy Nová Baňa s. r. o.|Bernolákova 36/11|96801|Nová Baňa|SK032C517097
+31616798|Mestské lesy, s.r.o. Krupina|Priemyselná 969/14|96301|Krupina|SK0325518557
+31673449|Mestské lesy, Revúca spol. s r.o.|Šafáriková 1|05001|Revúca|SK0328526142
+31686541|Mestské lesy Jelšava, s.r.o.|Námestie republiky 500|04916|Jelšava|SK0328525791
+31638767|Mestské lesy Tisovec s.r.o.|Hviezdoslavova 1143|98061|Tisovec|SK0329515680
+31600182|Mestské lesy Kremnica, s.r.o.|Zechenterova 347/2|96701|Kremnica|SK032D516970
+36490369|Mestské lesy Sabinov, s.r.o.|Námestie slobody 57|08301|Sabinov|SK0418525146
+36448311|Mestské lesy, s.r.o. Poprad|Kvetnica 2459/11|05801|Poprad|SK0416523381
+31603271|Mestské lesy, spol. s r.o. Ružomberok|J. Jančeka 34|03401|Ružomberok|SK0318510998
+47332638|Mestské lesy Bardejov, s. r. o.|Orechová 2884/8|08501|Bardejov|SK0411519006
+31683410|Mestské lesy Dobšiná, spol. s r.o.|Turecká 54/51|04925|Dobšiná|SK0428525634
+43775578|Mestské lesy Krompachy s.r.o.|Maurerova ulica 945/29|05342|Krompachy|SK042A543268
+36574627|Mestské lesy a majetky, spol. s r.o.|SNP 34|05361|Spišské Vlachy|SK042A543594
+31672981|Mestské lesy Košice a.s.|Južná trieda 11|04001|Košice|SK0428522622
+36173037|Mestské lesy Rožňava, s.r.o.|Šafárikova 25|04801|Rožňava|SK0428525529
+30808901|Mestské lesy v Bratislave|Cesta mládeže 4|83101|Bratislava - mestská časť Nové Mesto|SK0103529346

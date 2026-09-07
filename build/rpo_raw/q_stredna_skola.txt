@@ -1,0 +1,66 @@
+# query=fullName=Stredná odborná škola|Spojená škola sector=gastro keyword=skola_stredna
+52206416|Stredná odborná škola Edith Steinovej, s.r.o.|Nové Mesto nad Váhom|SK0224506338
+30868645|Súkromná stredná odborná škola pedagogická a sociálna|Bratislava - mestská časť Karlova Ves|SK0104529397
+42026393|Stredná odborná škola technická, Bratislavská 439/18, Dubnica nad Váhom|Dubnica nad Váhom|SK0222513016
+42114985|Súkromná stredná odborná škola polytechnická DSA|Nitra|SK0233500011
+17053871|Stredná odborná škola kaderníctva a vizážistiky|Bratislava - mestská časť Ružinov|SK0102529320
+00596868|Stredná odborná škola techniky a služieb, Cintorínska 4, Nitra|Nitra|SK0233500011
+00614866|Stredná odborná škola pedagogická sv. Márie Goretti|Čadca|SK0312509132
+36137430|Súkromná stredná odborná škola Pro scholaris|Žilina|SK031B517402
+00651117|Stredná odborná škola dopravná, Rosinská 3126/2, Žilina|Žilina|SK031B517402
+42422132|Súkromná stredná odborná škola pedagogická EBG|Humenné|SK0412520004
+37942484|Stredná odborná škola technická, Družstevná 1474/19, Humenné|Humenné|SK0412520004
+00617750|Stredná odborná škola obchodu a služieb, Mierová 1973/79, Humenné|Humenné|SK0412520004
+00159476|Stredná odborná škola podnikania a služieb, Komenského 16, Lipany|Lipany|SK0418524778
+00893692|Stredná odborná škola polytechnická a služieb arm. gen. L. Svobodu|Svidník|SK041C527106
+35564024|Stredná odborná škola pedagogická sv. Cyrila a Metoda|Košice - mestská časť Juh|SK0425599824
+00893331|Stredná odborná škola informačných technológií, Ostrovského 1, Košice|Košice - mestská časť Juh|SK0425599824
+00617652|Stredná odborná škola obchodu a služieb, Rožňavská Baňa 211, Rožňava|Rožňava|SK0428525529
+00159468|Stredná odborná škola agropotravinárska a technická|Kežmarok|SK0413523585
+00159514|Stredná odborná škola služieb Majstra Pavla|Levoča|SK0414543292
+00162787|Stredná odborná škola pedagogická, Sokolská 6, Modra|Modra|SK0107508101
+00162809|Stredná odborná škola pedagogická, Komenského 12, Lučenec|Lučenec|SK0326511218
+00162817|Stredná odborná škola pedagogická, SNP 509/116, Turčianske Teplice|Turčianske Teplice|SK0319512729
+00162825|Stredná odborná škola pedagogická, Kmeťovo stromoradie 5, Prešov|Prešov|SK0417524140
+00162833|Stredná odborná škola pedagogická, Bottova 15A, Levoča|Levoča|SK0414543292
+00351997|Stredná odborná škola podnikania v remeslách a službách|Senica|SK0215504203
+00399388|Stredná odborná škola techniky a služieb, Šahy|Šahy|SK0232502782
+00686981|Súkromná stredná odborná škola služieb, Hviezdoslavova 11, Bardejov|Bardejov|SK0411519006
+00893315|Stredná odborná škola techniky a služieb, Pod amfiteátrom 7, Levice|Levice|SK0232502031
+11882115|Súkromná stredná odborná škola obchodu a služieb s VJM|Mostová|SK0212503924
+17053846|Stredná odborná škola podnikania a služieb, Hattalova 968/33, Námestovo|Námestovo|SK0317509868
+17078482|Stredná odborná škola gastronómie a služieb, Prešov|Prešov|SK0417524140
+37880080|Stredná odborná škola služieb, Košická 20, Prešov|Prešov|SK0417524140
+37947541|Stredná odborná škola polytechnická Jána Antonína Baťu, Svit|Svit|SK0416523925
+47365773|Súkromná stredná odborná škola s.r.o.|Oravský Podzámok|SK0313509957
+53242742|Spojená škola, Pankúchova 6, Bratislava|Bratislava - mestská časť Petržalka|SK0105529460
+42089824|Spojená škola internátna, Levočská 24, Stará Ľubovňa|Stará Ľubovňa|SK041A526665
+53255500|Súkromná spojená škola, Klokočov 90|Klokočov|SK0427522597
+53200284|Spojená škola bl. biskupa Gojdiča, Bernolákova 21, Prešov|Prešov|SK0417524140
+53242726|Spojená škola, Ostredková 10, Bratislava|Bratislava - mestská časť Ružinov|SK0102529320
+53242599|Spojená škola, Jána Bottu 31, Trnava|Trnava|SK0217506745
+53200268|Súkromná spojená škola francúzsko-slovenská, Bratislava|Bratislava - mestská časť Petržalka|SK0105529460
+53200349|Súkromná spojená škola Quality Schools International, Šamorín|Šamorín|SK0211501905
+42224055|Evanjelická spojená škola, M. R. Štefánika 19, Martin|Martin|SK0316512036
+30223423|Spojená škola sv. Jozefa, Jašíkova 219, Turzovka|Turzovka|SK0312509507
+37942743|Spojená škola sv. Jána Pavla II., Dlhé hony 3522/2, Poprad|Poprad|SK0416523381
+36094234|Spojená škola, Školská 1087, Sládkovičovo|Sládkovičovo|SK0212504017
+42102553|Súkromná spojená škola EDURAM, Krompachy|Krompachy|SK042A543268
+42176182|Spojená škola sv. Františka z Assisi, Karloveská 32, Bratislava|Bratislava - mestská časť Karlova Ves|SK0104529397
+52800318|Spojená škola, Dukelská 26/30, Giraltovce|Giraltovce|SK041C519197
+42090598|Spojená škola Jána Vojtaššáka internátna, Levoča|Levoča|SK0414543292
+53265301|Spojená škola, Jarmočná 108, Stará Ľubovňa|Stará Ľubovňa|SK041A526665
+42258120|Spojená škola de La Salle, Čachtická 14, Bratislava|Bratislava - mestská časť Rača|SK0103529354
+37876899|Spojená škola, Letná ulica 3453/34, Poprad|Poprad|SK0416523381
+37958470|Katolícka spojená škola sv. Františka Assiského, Banská Štiavnica|Banská Štiavnica|SK0322516643
+31897959|Súkromná Spojená škola EDUCO, Námestovo|Námestovo|SK0317509868
+42035261|Spojená škola Juraja Henischa, Slovenská 5, Bardejov|Bardejov|SK0411519006
+42109191|Cirkevná spojená škola, Komenského 6, Spišské Vlachy|Spišské Vlachy|SK042A543594
+42243378|Spojená škola, J. A. Komenského 5, Rožňava|Rožňava|SK0428525529
+51906228|Spojená škola sv. Klementa Hofbauera internátna, Podolínec|Podolínec|SK041A526975
+37796046|Cirkevná spojená škola, Švermova 10, Snina|Snina|SK0419520802
+37909533|Spojená škola Kráľovnej pokoja, Na Závaží 2, Žilina|Žilina|SK031B517402
+42280885|Súkromná spojená škola, M. Falešníka 6, Prievidza|Prievidza|SK0227513881
+35630027|Spojená škola, Školská 212, Sládkovičovo|Sládkovičovo|SK0212504017
+35630043|Spojená škola, Jatočná 4, Skalica|Skalica|SK0216504815
+42278236|Spojená škola Nitrianske Pravno|Nitrianske Pravno|SK0227514225

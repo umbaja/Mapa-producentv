@@ -1,0 +1,829 @@
+id,druh_odpadu_id,draha_id,pripustnost,regulacna_trieda,poznamka,uroven_dokazu
+1,19,9,povolene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+2,19,6,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+3,19,8,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+4,19,7,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+5,19,2,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+6,19,1,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+7,19,3,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+8,19,4,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+9,19,5,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+10,12,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+11,12,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+12,12,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+13,12,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+14,12,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+15,12,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+16,12,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+17,12,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+18,12,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+19,62,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+20,62,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+21,62,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+22,62,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+23,62,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+24,62,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+25,62,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+26,62,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+27,62,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+28,39,9,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+29,39,6,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+30,39,8,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+31,39,7,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+32,39,2,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+33,39,1,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+34,39,3,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+35,39,4,podmienene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+36,39,5,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+37,3,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+38,3,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+39,3,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+40,3,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+41,3,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+42,3,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+43,3,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+44,3,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+45,3,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+46,13,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+47,13,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+48,13,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+49,13,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+50,13,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+51,13,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+52,13,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+53,13,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+54,13,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+55,17,9,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+56,17,6,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+57,17,8,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+58,17,7,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+59,17,2,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+60,17,1,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+61,17,3,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+62,17,4,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+63,17,5,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+64,69,9,povolene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+65,69,6,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+66,69,8,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+67,69,7,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+68,69,2,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+69,69,1,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+70,69,3,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+71,69,4,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+72,69,5,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+73,40,9,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+74,40,6,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+75,40,8,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+76,40,7,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+77,40,2,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+78,40,1,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+79,40,3,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+80,40,4,podmienene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+81,40,5,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+82,67,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+83,67,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+84,67,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+85,67,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+86,67,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+87,67,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+88,67,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+89,67,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+90,67,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+91,45,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+92,45,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+93,45,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+94,45,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+95,45,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+96,45,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+97,45,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+98,45,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+99,45,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+100,81,9,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+101,81,6,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+102,81,8,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+103,81,7,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+104,81,2,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+105,81,1,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+106,81,3,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+107,81,4,podmienene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+108,81,5,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+109,82,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+110,82,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+111,82,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+112,82,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+113,82,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+114,82,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+115,82,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+116,82,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+117,82,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+118,80,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+119,80,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+120,80,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+121,80,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+122,80,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+123,80,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+124,80,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+125,80,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+126,80,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+127,54,9,povolene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+128,54,6,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+129,54,8,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+130,54,7,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+131,54,2,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+132,54,1,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+133,54,3,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+134,54,4,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+135,54,5,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+136,55,9,povolene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+137,55,6,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+138,55,8,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+139,55,7,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+140,55,2,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+141,55,1,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+142,55,3,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+143,55,4,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+144,55,5,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+145,9,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+146,9,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+147,9,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+148,9,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+149,9,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+150,9,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+151,9,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+152,9,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+153,9,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+154,7,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+155,7,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+156,7,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+157,7,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+158,7,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+159,7,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+160,7,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+161,7,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+162,7,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+163,56,9,povolene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+164,56,6,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+165,56,8,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+166,56,7,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+167,56,2,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+168,56,1,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+169,56,3,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+170,56,4,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+171,56,5,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+172,11,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+173,11,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+174,11,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+175,11,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+176,11,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+177,11,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+178,11,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+179,11,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+180,11,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+181,64,9,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+182,64,6,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+183,64,8,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+184,64,7,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+185,64,2,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+186,64,1,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+187,64,3,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+188,64,4,podmienene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+189,64,5,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+190,58,9,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+191,58,6,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+192,58,8,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+193,58,7,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+194,58,2,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+195,58,1,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+196,58,3,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+197,58,4,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+198,58,5,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+199,26,9,povolene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+200,26,6,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+201,26,8,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+202,26,7,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+203,26,2,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+204,26,1,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+205,26,3,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+206,26,4,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+207,26,5,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+208,44,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+209,44,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+210,44,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+211,44,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+212,44,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+213,44,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+214,44,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+215,44,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+216,44,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+217,41,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+218,41,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+219,41,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+220,41,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+221,41,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+222,41,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+223,41,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+224,41,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+225,41,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+226,42,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+227,42,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+228,42,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+229,42,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+230,42,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+231,42,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+232,42,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+233,42,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+234,42,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+235,68,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+236,68,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+237,68,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+238,68,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+239,68,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+240,68,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+241,68,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+242,68,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+243,68,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+244,60,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+245,60,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+246,60,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+247,60,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+248,60,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+249,60,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+250,60,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+251,60,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+252,60,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+253,71,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+254,71,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+255,71,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+256,71,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+257,71,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+258,71,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+259,71,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+260,71,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+261,71,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+262,22,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+263,22,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+264,22,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+265,22,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+266,22,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+267,22,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+268,22,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+269,22,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+270,22,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+271,23,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+272,23,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+273,23,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+274,23,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+275,23,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+276,23,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+277,23,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+278,23,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+279,23,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+280,4,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+281,4,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+282,4,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+283,4,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+284,4,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+285,4,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+286,4,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+287,4,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+288,4,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+289,20,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+290,20,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+291,20,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+292,20,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+293,20,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+294,20,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+295,20,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+296,20,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+297,20,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+298,63,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+299,63,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+300,63,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+301,63,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+302,63,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+303,63,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+304,63,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+305,63,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+306,63,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+307,48,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+308,48,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+309,48,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+310,48,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+311,48,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+312,48,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+313,48,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+314,48,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+315,48,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+316,74,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+317,74,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+318,74,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+319,74,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+320,74,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+321,74,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+322,74,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+323,74,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+324,74,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+325,61,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+326,61,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+327,61,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+328,61,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+329,61,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+330,61,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+331,61,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+332,61,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+333,61,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+334,92,9,povolene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+335,92,6,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+336,92,8,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+337,92,7,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+338,92,2,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+339,92,1,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+340,92,3,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+341,92,4,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+342,92,5,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+343,24,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+344,24,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+345,24,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+346,24,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+347,24,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+348,24,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+349,24,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+350,24,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+351,24,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+352,28,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+353,28,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+354,28,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+355,28,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+356,28,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+357,28,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+358,28,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+359,28,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+360,28,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+361,18,9,povolene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+362,18,6,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+363,18,8,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+364,18,7,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+365,18,2,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+366,18,1,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+367,18,3,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+368,18,4,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+369,18,5,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+370,37,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+371,37,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+372,37,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+373,37,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+374,37,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+375,37,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+376,37,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+377,37,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+378,37,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+379,79,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+380,79,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+381,79,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+382,79,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+383,79,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+384,79,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+385,79,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+386,79,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+387,79,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+388,53,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+389,53,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+390,53,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+391,53,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+392,53,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+393,53,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+394,53,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+395,53,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+396,53,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+397,65,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+398,65,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+399,65,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+400,65,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+401,65,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+402,65,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+403,65,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+404,65,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+405,65,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+406,73,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+407,73,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+408,73,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+409,73,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+410,73,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+411,73,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+412,73,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+413,73,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+414,73,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+415,33,9,povolene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+416,33,6,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+417,33,8,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+418,33,7,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+419,33,2,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+420,33,1,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+421,33,3,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+422,33,4,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+423,33,5,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+424,57,9,povolene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+425,57,6,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+426,57,8,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+427,57,7,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+428,57,2,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+429,57,1,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+430,57,3,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+431,57,4,zakazane,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+432,57,5,podmienene,hnoj,Hnoj a exkrementy sú zakázaným substrátom pre hmyz určený do krmív. Výskum technického využitia prebieha.,D
+433,75,9,povolene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+434,75,6,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+435,75,8,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+436,75,7,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+437,75,2,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+438,75,1,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+439,75,3,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+440,75,4,zakazane,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+441,75,5,podmienene,kal_cov,Čistiarenský kal - riziko ťažkých kovov a liečiv. Mimo potravinového aj krmivového reťazca.,D
+442,38,9,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+443,38,6,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+444,38,8,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+445,38,7,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+446,38,2,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+447,38,1,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+448,38,3,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+449,38,4,podmienene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+450,38,5,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+451,21,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+452,21,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+453,21,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+454,21,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+455,21,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+456,21,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+457,21,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+458,21,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+459,21,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+460,72,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+461,72,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+462,72,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+463,72,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+464,72,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+465,72,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+466,72,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+467,72,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+468,72,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+469,2,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+470,2,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+471,2,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+472,2,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+473,2,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+474,2,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+475,2,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+476,2,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+477,2,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+478,1,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+479,1,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+480,1,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+481,1,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+482,1,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+483,1,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+484,1,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+485,1,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+486,1,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+487,66,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+488,66,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+489,66,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+490,66,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+491,66,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+492,66,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+493,66,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+494,66,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+495,66,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+496,36,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+497,36,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+498,36,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+499,36,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+500,36,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+501,36,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+502,36,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+503,36,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+504,36,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+505,49,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+506,49,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+507,49,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+508,49,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+509,49,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+510,49,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+511,49,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+512,49,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+513,49,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+514,31,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+515,31,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+516,31,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+517,31,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+518,31,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+519,31,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+520,31,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+521,31,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+522,31,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+523,30,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+524,30,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+525,30,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+526,30,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+527,30,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+528,30,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+529,30,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+530,30,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+531,30,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+532,27,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+533,27,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+534,27,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+535,27,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+536,27,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+537,27,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+538,27,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+539,27,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+540,27,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+541,86,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+542,86,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+543,86,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+544,86,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+545,86,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+546,86,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+547,86,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+548,86,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+549,86,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+550,85,9,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+551,85,6,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+552,85,8,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+553,85,7,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+554,85,2,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+555,85,1,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+556,85,3,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+557,85,4,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+558,85,5,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+559,83,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+560,83,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+561,83,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+562,83,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+563,83,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+564,83,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+565,83,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+566,83,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+567,83,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+568,84,9,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+569,84,6,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+570,84,8,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+571,84,7,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+572,84,2,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+573,84,1,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+574,84,3,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+575,84,4,podmienene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+576,84,5,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+577,87,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+578,87,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+579,87,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+580,87,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+581,87,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+582,87,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+583,87,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+584,87,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+585,87,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+586,25,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+587,25,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+588,25,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+589,25,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+590,25,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+591,25,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+592,25,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+593,25,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+594,25,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+595,29,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+596,29,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+597,29,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+598,29,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+599,29,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+600,29,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+601,29,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+602,29,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+603,29,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+604,77,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+605,77,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+606,77,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+607,77,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+608,77,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+609,77,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+610,77,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+611,77,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+612,77,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+613,34,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+614,34,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+615,34,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+616,34,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+617,34,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+618,34,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+619,34,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+620,34,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+621,34,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+622,5,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+623,5,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+624,5,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+625,5,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+626,5,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+627,5,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+628,5,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+629,5,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+630,5,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+631,6,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+632,6,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+633,6,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+634,6,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+635,6,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+636,6,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+637,6,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+638,6,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+639,6,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+640,47,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+641,47,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+642,47,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+643,47,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+644,47,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+645,47,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+646,47,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+647,47,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+648,47,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+649,50,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+650,50,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+651,50,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+652,50,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+653,50,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+654,50,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+655,50,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+656,50,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+657,50,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+658,32,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+659,32,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+660,32,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+661,32,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+662,32,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+663,32,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+664,32,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+665,32,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+666,32,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+667,15,9,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+668,15,6,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+669,15,8,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+670,15,7,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+671,15,2,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+672,15,1,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+673,15,3,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+674,15,4,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+675,15,5,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+676,14,9,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+677,14,6,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+678,14,8,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+679,14,7,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+680,14,2,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+681,14,1,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+682,14,3,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+683,14,4,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+684,14,5,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+685,16,9,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+686,16,6,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+687,16,8,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+688,16,7,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+689,16,2,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+690,16,1,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+691,16,3,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+692,16,4,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+693,16,5,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+694,46,9,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+695,46,6,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+696,46,8,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+697,46,7,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+698,46,2,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+699,46,1,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+700,46,3,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+701,46,4,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+702,46,5,povolene,mlieko_vajcia,"Mlieko, mliečne výrobky a vajcia sú výslovne prípustné ŽVP pre chov hmyzu.",D
+703,91,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+704,91,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+705,91,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+706,91,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+707,91,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+708,91,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+709,91,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+710,91,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+711,91,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+712,59,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+713,59,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+714,59,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+715,59,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+716,59,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+717,59,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+718,59,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+719,59,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+720,59,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+721,51,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+722,51,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+723,51,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+724,51,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+725,51,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+726,51,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+727,51,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+728,51,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+729,51,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+730,70,9,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+731,70,6,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+732,70,8,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+733,70,7,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+734,70,2,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+735,70,1,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+736,70,3,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+737,70,4,podmienene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+738,70,5,povolene,byvala_potravina_bez_zvp,Bývalé potraviny bez mäsa a rýb - prípustná kŕmna surovina podľa nar. (EÚ) 68/2013.,D
+739,8,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+740,8,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+741,8,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+742,8,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+743,8,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+744,8,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+745,8,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+746,8,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+747,8,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+748,76,9,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+749,76,6,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+750,76,8,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+751,76,7,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+752,76,2,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+753,76,1,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+754,76,3,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+755,76,4,podmienene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+756,76,5,povolene,lignocelulozny,"Rastlinný lignocelulózny materiál - nízka stráviteľnosť, nutná predúprava alebo hubová fermentácia.",D
+757,52,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+758,52,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+759,52,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+760,52,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+761,52,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+762,52,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+763,52,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+764,52,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+765,52,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+766,10,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+767,10,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+768,10,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+769,10,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+770,10,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+771,10,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+772,10,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+773,10,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+774,10,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+775,43,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+776,43,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+777,43,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+778,43,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+779,43,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+780,43,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+781,43,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+782,43,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+783,43,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+784,35,9,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+785,35,6,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+786,35,8,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+787,35,7,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+788,35,2,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+789,35,1,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+790,35,3,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+791,35,4,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+792,35,5,povolene,rastlinny,Materiál rastlinného pôvodu - prípustný substrát pre chov hmyzu vo všetkých dráhach.,D
+793,90,9,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+794,90,6,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+795,90,8,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+796,90,7,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+797,90,2,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+798,90,1,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+799,90,3,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+800,90,4,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+801,90,5,zakazane,zvp_kat1,Kategória 1 - povinné spálenie alebo spoluspálenie. Zo všetkých dráh vylúčené.,D
+802,89,9,povolene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+803,89,6,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+804,89,8,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+805,89,7,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+806,89,2,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+807,89,1,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+808,89,3,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+809,89,4,zakazane,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+810,89,5,podmienene,zvp_kat2,Tlaková sterilizácia 133 °C/20 min/3 bar povinná. Len technické produkty mimo reťazca.,D
+811,88,9,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+812,88,6,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+813,88,8,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+814,88,7,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+815,88,2,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+816,88,1,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+817,88,3,podmienene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+818,88,4,zakazane,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+819,88,5,povolene,zvp_kat3,"ŽVP kat. 3 živočíšneho pôvodu: hmyz kŕmený týmto materiálom nesmie do krmív pre hospodárske zvieratá, technický tuk, chitín a hydrolyzát sú prípustné.",D
+820,78,9,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+821,78,6,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+822,78,8,podmienene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+823,78,7,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+824,78,2,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+825,78,1,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+826,78,3,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+827,78,4,zakazane,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D
+828,78,5,povolene,kuchynsky_odpad,Kuchynský a reštauračný odpad je zakázaným kŕmnym materiálom (nar. (ES) 1069/2009 čl. 11). Technické dráhy tým dotknuté nie sú - toto je najväčší nevyužitý tok v SR.,D

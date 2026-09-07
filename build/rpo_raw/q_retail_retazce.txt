@@ -1,0 +1,5 @@
+# query=fullName=Kaufland|Lidl|TESCO|BILLA sector=retail keyword=retail_retazec
+35790164|Kaufland Slovenská republika v.o.s.|Bratislava - mestská časť Nové Mesto|SK0103529346
+35793783|Lidl Slovenská republika, s.r.o.|Bratislava - mestská časť Ružinov|SK0102529320
+31321828|TESCO STORES SR, a.s.|Bratislava - mestská časť Ružinov|SK0102529320
+31347037|BILLA s.r.o.|Bratislava - mestská časť Ružinov|SK0102529320

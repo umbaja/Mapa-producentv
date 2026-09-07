@@ -1,0 +1,59 @@
+# query=fullName=Materská škola&legalForm=Rozpočtová organizácia sector=gastro keyword=skola_materska
+51266784|Materská škola, Ul. 29. augusta 384/2A, Most pri Bratislave|Most pri Bratislave|SK0108508110
+53200331|Materská škola, Bodvianska 4, Bratislava|Bratislava - mestská časť Vrakuňa|SK0102529338
+31787045|Materská škola, Estónska 5207/3, Bratislava|Bratislava - mestská časť Podunajské Biskupice|SK0102529311
+37842129|Materská škola, Dr. Clementisa 59, Skalica|Skalica|SK0216504815
+42308763|Materská škola, Malinovského 874, Krupina|Krupina|SK0325518557
+37874314|Materská škola, Školská 231/2, Huncovce|Huncovce|SK0413523526
+52585204|Materská škola - Óvoda, Komárovská 58, Bratislava|Bratislava - mestská časť Podunajské Biskupice|SK0102529311
+30853711|Materská škola, Linzbothova 9847/18, Bratislava|Bratislava - mestská časť Podunajské Biskupice|SK0102529311
+52547591|Materská škola s VJM - Óvoda, Rimavská Seč 410|Rimavská Seč|SK0329515442
+36129682|Materská škola, Chmelinec 1411/6, Púchov|Púchov|SK0228513610
+36129691|Materská škola, Mládežnícka 1438/13, Púchov|Púchov|SK0228513610
+36130974|Materská škola, Požiarna 1292/11, Púchov|Púchov|SK0228513610
+37864122|Materská škola, MDŽ 26, Šurany|Šurany|SK0234503592
+37904957|Materská škola, Čajakova 4A, Žilina|Žilina|SK031B517402
+53480341|Materská škola, Ulica Gašpara Haina 1237/36, Levoča|Levoča|SK0414543292
+53480465|Materská škola, Predmestie 832/26, Levoča|Levoča|SK0414543292
+53480783|Materská škola, Ulica Gustáva Hermanna 225/9, Levoča|Levoča|SK0414543292
+53480899|Materská škola, Ulica Jána Francisciho 1674/8, Levoča|Levoča|SK0414543292
+37843061|Materská škola, Radošovce 13|Radošovce|SK0216504742
+52089282|Materská škola, Ulica Ľ. G. Zaoseka 247/10, Opoj|Opoj|SK0217556491
+37855735|Materská škola, Dvorany nad Nitrou 22|Dvorany nad Nitrou|SK0236556262
+42337071|Materská škola, Sľažany 321|Sľažany|SK0237500747
+42213738|Materská škola, Klokočov 976|Klokočov|SK0312509213
+37909631|Materská škola, Korňa 720|Korňa|SK0312509230
+37904591|Materská škola, Svrčinovec 856|Svrčinovec|SK0312509493
+37812556|Materská škola, Horný Vadičov 515|Horný Vadičov|SK0314509205
+37812769|Materská škola, Kysucký Lieskovec 309|Kysucký Lieskovec|SK0314509264
+37906089|Materská škola, Ochodnica 355|Ochodnica|SK0314509329
+37904990|Materská škola, Smrečany 117|Smrečany|SK0315511013
+37815687|Materská škola, Východná 715|Východná|SK0315511170
+37814036|Materská škola, Pod brehom 207, Hruštín|Hruštín|SK0317509680
+37903152|Materská škola, Lietava 368|Lietava|SK031B517739
+42029503|Materská škola, Dubovica 48|Dubovica|SK0418524379
+42102201|Materská škola, Richnava 260|Richnava|SK0421543501
+42324157|Materská škola, Ruskov 280|Ruskov|SK0426521957
+37905074|Materská škola, Stavbárska 4, Žilina|Žilina|SK031B517402
+37957660|Materská škola, marš. Malinovského 1985/41, Zvolen|Zvolen|SK032B518158
+42228409|Materská škola, Čsl. letcov 2, Ľubotice|Ľubotice|SK0417518590
+37990411|Materská škola, Lúčky 14, Holíč|Holíč|SK0216504378
+42085438|Materská škola, Antona Prídavka 1, Prešov|Prešov|SK0417524140
+36129470|Materská škola, Poľovnícka 12, Nové Mesto nad Váhom|Nové Mesto nad Váhom|SK0224506338
+37947958|Materská škola, Partizánska 22, Humenné|Humenné|SK0412520004
+35559420|Materská škola, Budapeštianska 1, Košice|Košice - mestská časť Sídlisko Ťahanovce|SK0422599875
+31811523|Materská škola, Hlavná 88, Gajary|Gajary|SK0106507890
+37844016|Materská škola, Sídlisko 9. mája 322, Vrbové|Vrbové|SK0214507750
+37961284|Materská škola, Nám. Gy. Széchényiho 3, Nové Zámky|Nové Zámky|SK0234503011
+42187184|Materská škola, 29. augusta 64, Hronec|Hronec|SK0323508667
+37842323|Materská škola, Štefana Majora 1393/175, Veľké Úľany|Veľké Úľany|SK0212504131
+42303117|Materská škola, Nám. SNP 17, Detva|Detva|SK0324518263
+36129712|Materská škola, Ľ. Štúra 5/5, Beluša|Beluša|SK0228512851
+42447470|Materská škola, Koniarkova 9, Bratislava|Bratislava - mestská časť Vajnory|SK0103529362
+37961161|Materská škola, Farská ulica 1274/2, Cabaj-Čápor|Cabaj-Čápor|SK0233545589
+37863606|Materská škola, Družstevná 22, Šaľa|Šaľa|SK0235504025
+37842382|Materská škola, Lazová 926/5, Pata|Pata|SK0212503959
+37841491|Materská škola, Nám. A. Hlinku 32, Cífer|Cífer|SK0217506877
+35566451|Materská škola, Hlavná ulica 3, Krompachy|Krompachy|SK042A543268
+37959999|Materská škola, Lhenická 34, Budča|Budča|SK032B518204
+37876643|Materská škola, Duk. hrdinov 2078/13, Snina|Snina|SK0419520802

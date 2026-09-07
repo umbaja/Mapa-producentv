@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="sk"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mapa producentov biotransformovateľných odpadov — KPB2</title>
+<meta name="description" content="Kde na Slovensku vzniká odpadová biomasa využiteľná na biotransformáciu. 1 043 producentov, 92 druhov odpadu, 9 dráh zhodnotenia. Aktivita KPB2.">
+<link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="assets/mapa.css">
+</head><body>
+<div class="sitebar"><div class="in">
+  <div class="brand">Databáza odpadovej biomasy KPB2<small>Biotransformácia odpadov na potraviny a krmivá</small></div>
+  <nav>
+    <a href="index.html">Kalkulátor a databáza</a>
+    <a href="mapa.html" aria-current="page">Mapa producentov</a>
+  </nav>
+</div></div>
+
+<div class="wrap">
+  <h1>Mapa producentov biotransformovateľných odpadov v SR</h1>
+  <p class="lede">Kde na Slovensku vzniká odpadová biomasa využiteľná na biotransformáciu na potraviny
+    a krmivá. Subjekty pochádzajú z Registra právnických osôb ŠÚ SR (CC&nbsp;BY&nbsp;4.0), druhy odpadu
+    sú naviazané na katalógové čísla podľa vyhlášky MŽP SR č.&nbsp;365/2015&nbsp;Z.&nbsp;z.
+    Vrstva <b>dráh zhodnotenia</b> ukazuje, že materiál vylúčený z krmivového reťazca býva plne
+    použiteľný pre technologické makronutrienty — hmyzí tuk do oleochémie, chitín, hydrolyzáty
+    a frass ako hnojivo. Aktivita KPB2.</p>
+
+  <div class="stats">
+    <div class="stat"><b id="sProd">0</b><span>producentov</span></div>
+    <div class="stat"><b id="sOdp">0</b><span>druhov odpadu</span></div>
+    <div class="stat"><b id="sOkr">0</b><span>okresov</span></div>
+    <div class="stat"><b id="sObce">0</b><span>obcí</span></div>
+    <div class="stat hl"><b id="sObjem">0</b><span>t/rok — odhad</span>
+      <div class="note" id="sObjemPozn" style="font-size:.68rem;margin-top:2px"></div></div>
+  </div>
+
+  <div class="layout">
+    <div class="card">
+      <h2>Filtre</h2>
+      <label class="f">Hľadať v názve, obci alebo IČO</label>
+      <input type="search" id="fQ" placeholder="napr. pivovar, Nitra, 31648479">
+      <label class="f">Typ prevádzky</label><select id="fTyp"></select>
+      <label class="f">Druh odpadu</label><select id="fOdpad"></select>
+      <label class="f">Katalógové číslo odpadu</label><select id="fKat"></select>
+      <label class="f">Okres</label><select id="fOkres"></select>
+      <h2>Dráha zhodnotenia</h2>
+      <select id="fDraha"></select>
+      <label class="f">Zobraziť producentov, ktorých tok je pre dráhu</label>
+      <select id="fPripust">
+        <option value="pc">povolený alebo podmienený</option>
+        <option value="p">len povolený</option>
+        <option value="z">zakázaný (kde dráha nefunguje)</option>
+        <option value="pcz">akýkoľvek</option>
+      </select>
+      <div id="drahaInfo" class="drmeta" style="display:none"></div>
+      <h2>Objem</h2>
+      <label class="chk"><input type="checkbox" id="fLenObjem"> len prevádzky s odhadom objemu</label>
+      <label class="f" style="margin-top:8px">Veľkosť bodu</label>
+      <select id="fVelkost">
+        <option value="objem">podľa odhadu objemu</option>
+        <option value="rovnaka">rovnaká</option>
+      </select>
+      <label class="f">Sýtosť okresu</label>
+      <select id="fChoro">
+        <option value="pocet">počet producentov</option>
+        <option value="objem">odhad objemu (t/rok)</option>
+      </select>
+      <h2>Sektor</h2>
+      <div id="sektory"></div>
+      <div style="display:flex;gap:8px;margin-top:14px">
+        <button id="bReset">Zrušiť filtre</button>
+        <button id="bCSV" class="primary">Export CSV</button>
+      </div>
+    </div>
+
+    <div>
+      <div class="maphold">
+        <div class="mapbar">
+          <button id="bIn">+</button><button id="bOut">−</button><button id="bFit">Celé SR</button>
+        </div>
+        <div class="tip" id="tip"></div>
+        <svg id="map" xmlns="http://www.w3.org/2000/svg"></svg>
+        <div class="legend" id="legend"></div>
+      </div>
+      <div class="card" style="margin-top:16px">
+        <h2>Zoznam vo výbere</h2>
+        <div class="list" id="list"></div>
+        <p class="note" id="listMore"></p>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Detail</h2>
+      <div class="det" id="detail"></div>
+      <h2>O dátach</h2>
+      <p class="note">
+        <b>Producenti</b> sú reálne zapísané subjekty; každé IČO prešlo kontrolou modulo&nbsp;11
+        a vzorka bola znovu overená priamym dopytom do RPO.<br><br>
+        <b>Poloha</b> je ťažisko obce podľa adresy v registri, nie GPS brány prevádzky. Sídlo sa môže
+        líšiť od miesta, kde odpad skutočne vzniká — pri koncernoch so sídlom v Bratislave to platí vždy.<br><br>
+        <b>Toky odpadu</b> sú odvodené z typu prevádzky (úroveň dôkazu D). Nenahrádzajú ohlásenie
+        o vzniku odpadu podľa § 14 zákona č. 79/2015 Z. z.<br><br>
+        <b>Katalógové čísla</b> sú návrh podľa charakteru materiálu, pole <code>katalog_overeny = 0</code>.<br><br>
+        <b>Odhad objemu</b> sa počíta len tam, kde má kapacita jasnú jednotku — žiak, stravník,
+        lôžko. Kapacita je zatiaľ <b>typová</b> (národný priemer na zariadenie z CVTI SR a Eurostatu),
+        takže číslo pri jednej škole je rádové; súčet za okres je spoľahlivejší než jednotlivý bod.
+        Koeficienty produkcie sú z recenzovanej literatúry s DOI, predpoklady o podiele stravníkov
+        a počte dní sú návrhom riešiteľského tímu.<br><br>
+        <b>Prípustnosť dráh</b> je výklad riešiteľského tímu (úroveň dôkazu D) podľa nar. (ES) 1069/2009,
+        (EÚ) 2021/1372, (EÚ) 2015/2283 a (EÚ) 2021/1925 — nie rozhodnutie ŠVPS SR.
+      </p>
+    </div>
+  </div>
+</div>
+
+
+<script src="assets/mapa_data.js"></script>
+<script src="assets/mapa.js"></script>
+</body></html>

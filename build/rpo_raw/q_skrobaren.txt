@@ -1,0 +1,4 @@
+# query=fullName=škrob sector=potravinarstvo keyword=skrobaren
+36657301|Dunaj škrob Romada s.r.o.|Štefánikova 24|94301|Štúrovo|NA
+36304689|LIEHOVARY A ŠKROBÁREŇ, a.s.|NA|95633|Chynorany|SK0225543004
+35854723|SLOVŠKROB a.s.|NA 58|94143|Dolný Ohaj|SK0234503151

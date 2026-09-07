@@ -1,0 +1,24 @@
+# query=fullName=technické služby sector=komunalny keyword=technicke_sluzby
+46768351|Technické služby Zohor, spol. s r.o.|Námestie 1. mája 1|90051|Zohor|SK0106508381
+36311693|Technické služby mesta Partizánske, spol. s r.o.|Nemocničná 979/1|95830|Partizánske|SK0225505315
+31579183|Technické služby mesta Prievidza s.r.o.|Mariánska ulica 17|97101|Prievidza|SK0227513881
+44565160|Správa nehnuteľností a technické služby, s. r. o.|Dvory 1951|02001|Púchov|SK0228513610
+44877315|Technické služby - Žiar nad Hronom, a.s.|SNP 131|96501|Žiar nad Hronom|SK032D516589
+30222966|Technické služby Turčianske Teplice, s. r. o.|Robotnícka 2|03901|Turčianske Teplice|SK0319512729
+31609911|Technické služby, s.r.o. Dolný Kubín|Nábrežie Oravy 627/1|02601|Dolný Kubín|SK0313509540
+46941037|Trstenské technické služby - T T S, s.r.o.|J. Hertela 323|02801|Trstená|SK031A510106
+36057029|Technické služby Detva s.r.o.|Bottova 1272|96212|Detva|SK0324518263
+31704735|TECHNICKÉ SLUŽBY, spol. s r.o. Lipany|Krivianska 3|08271|Lipany|SK0418524778
+48115134|Technické služby Bzenov, s.r.o.|Bzenov 38|08242|Bzenov|SK0417524263
+36228443|Technické služby Senica, a.s.|Železničná 465|90501|Senica|SK0215504203
+53166078|Technické služby mesta Štúrovo|Komenského 210/18|94301|Štúrovo|SK0234503584
+53708725|Technické služby mesta Rajec, s. r. o.|Námestie SNP 2/2|01522|Rajec|SK031B517917
+53698185|Technické služby mesta Revúca - sociálny podnik s.r.o.|Terézie Vansovej 1231/23|05001|Revúca|SK0328526142
+53946600|Technické služby mesta Žilina, s.r.o.|Námestie obetí komunizmu 3350/1|01131|Žilina|SK031B517402
+53231058|Technické služby obce Novoť s. r. o.|Novoť 285|02955|Novoť|SK0317509884
+50852698|Technické služby Sládkovičovo, spol. s r. o.|J. Dalloša 1189|92521|Sládkovičovo|SK0212504017
+51465752|Technické služby Senec s. r. o.|Slávičia 5174/8|90301|Senec|SK0108508217
+50426281|Technické služby Obce Bošany s.r.o.|SNP 112/43|95618|Bošany|SK0225542733
+52830586|Technické služby Poltár, s.r.o.|Železničná 489/1|98701|Poltár|SK0327511765
+52740790|Technické služby Zlaté Klasy, s.r.o.|Poštová ulica 550/1|93039|Zlaté Klasy|SK0211502022
+36391301|Technické služby Ružomberok, a.s.|Pivovarská 9|03401|Ružomberok|SK0318510998

@@ -1,0 +1,26 @@
+# query=fullName=Hotel sector=gastro keyword=hotel
+31592015|HOTEL ZOBOR s.r.o.|Nitra|SK0233500011
+45848777|ALEXANDRA ŠPORT HOTEL, s. r. o.|Púchov|SK0228513610
+45623911|HOTEL SANUS s. r. o.|Bratislava - mestská časť Staré Mesto|SK0101528595
+45858161|Hotel Piešťany s.r.o.|Nemčice|SK0236581305
+48174548|HOTEL LIPA BOJNICE s.r.o.|Bojnice|SK0227513903
+36303232|HOTEL VRŠATEC, spol. s r.o.|Vršatské Podhradie|SK0222557625
+36609111|ŠPORTHOTEL TRNÁVKA, spol. s r.o.|Bratislava|NA
+36293717|HOTEL MAGURA, spol. s r.o.|Prievidza|SK0227513881
+35880228|Hotel LIPA Slovakia s. r. o.|Bratislava - mestská časť Ružinov|SK0102529320
+36845981|ALEXANDRA HOTEL, s. r. o.|Púchov|SK0228513610
+46908200|Hotel Alexanders s.r.o.|Nitra|SK0233500011
+36336190|GRAND - HOTEL, s.r.o.|Trenčín|SK0229505820
+36323098|HOTEL.EU s.r.o.|Kanianka|SK0227514071
+43999174|Hotel Château Belá, s.r.o.|Belá|SK0234503061
+44785933|Hotel Delfín, s. r. o.|Senec|SK0108508217
+36305367|SPORT HOTELING, spol. s r.o.|Prievidza|SK0227513881
+31634184|Hotel Podjavorník s.r.o.|Bratislava - mestská časť Staré Mesto|SK0101528595
+36613606|Hotel N°16, s.r.o.|Bratislava - mestská časť Staré Mesto|SK0101528595
+36563242|Hotel Nitra, s.r.o.|Nitra|SK0233500011
+47511940|InterSporthotel, spol. s r.o.|Stupava|SK0106508233
+46857508|GRAND - HOTEL Trenčín, s.r.o.|Trenčín|SK0229505820
+36334227|Hotel Panoráma Trenčianske Teplice s. r. o.|Trenčianske Teplice|SK0229506613
+31414958|ABC HOTEL s.r.o.|Nitra|SK0233500011
+36292141|Hotel Guest Centre, spol. s r.o.|Štúrovo|SK0234503584
+45445176|Hotel Jantár Dudince s.r.o.|Nové Zámky|SK0234503011

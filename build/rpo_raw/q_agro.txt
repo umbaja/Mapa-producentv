@@ -1,0 +1,23 @@
+# query=fullName=agro sector=polnohospodarstvo keyword=agro
+46690531|AGRO FARMA PIKOVÁ s.r.o.|Farma Piková 2102|94111|Palárikovo|SK0234503452
+34097694|AGROSTYRO, s.r.o.|Priemyselná č. 9|95301|Zlaté Moravce|SK0237500968
+34103198|AGROTRIA s.r.o.|NA 476|91324|Svinná|SK0229506532
+31595740|AGROSTRÁŽOV, spol. s r.o.|NA 52|01832|Zliechov|SK0222513865
+36727156|AGRO - PO, s.r.o.|Na stanicu 793/5|95112|Ivanka pri Nitre|SK0233558320
+44365306|EKO AGROFARMA, s.r.o.|NA 100|95601|Veľké Dvorany|SK0236505676
+45881278|AGRO - MEDVECKÉ, s.r.o.|Medvecké 61|93541|Plavé Vozokany|SK0232502651
+46816461|AGRO STEEL, s.r.o.|NA 583|94612|Zlatná na Ostrove|SK0231501425
+36319406|Agrofarma Mikulov s.r.o.|Ulica M. Gorkého 40228/52|97101|Prievidza|SK0227513881
+47455616|AgroSzász s.r.o.|NA 620|94634|Bátorove Kosihy|SK0231501395
+46497013|MG AGRO, s. r. o.|Banícka 13/27|97242|Lehota pod Vtáčnikom|SK0227514136
+30996261|MJM agro Cetín, s.r.o.|Jurská cesta 8|93401|Levice|SK0232502031
+36559946|AGROLIM, s.r.o.|Robotnícka 5|94703|Hurbanovo|SK0231501140
+31424384|AGROVAŽAN s.r.o.|Športova 29|94301|Štúrovo|SK0234503584
+34098887|AGROKLAS, s.r.o.|Hlavná II. 652|95175|Beladice|SK0237500062
+36036102|SPOL AGRO POČÚVADLO, s.r.o.|Ludanská 7|93401|Levice|SK0232502031
+36521973|H.K. - AGRO, s.r.o.|Družstevná 2|94651|Nesvady|SK0231501280
+46843591|Nord farm agro, s.r.o.|Nám. Š. M. Daxnera 413/1A|97901|Rimavská Sobota|SK0329514462
+47989289|AGRODAN, s.r.o.|Okružná 117|97241|Koš|SK0227514110
+34147781|ZEA - AGRO, s.r.o.|Poštová 251/15|93701|Želiezovce|SK0232502987
+46554670|AGRO BEDNÁR s.r.o.|NA 234|02061|Dolná Breznica|SK0228512958
+45422079|PK - AGRO DRUŽSTVO s.r.o.|Andreja Hlinku 1514/86|97271|Nováky|SK0227514268

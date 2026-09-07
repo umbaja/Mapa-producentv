@@ -1,0 +1,26 @@
+# query=fullName=hydin sector=polnohospodarstvo keyword=hydina
+31434118|HYDINÁRI s.r.o.|Jarocká 397/15|95135|Veľké Zálužie|SK0233500887
+31438881|HYDINA SÚLOVCE, s.r.o.|NA|NA|Súlovce|SK0236505510
+35798815|GT-Hydina s.r.o.|Hadovská 870|94501|Komárno|SK0231501026
+48199524|Hydina Kysuce s. r. o.|Čierne 458|02313|Čierne|SK0312509159
+36566811|HYDINA KRIŽAN s. r. o.|89|94144|Vlkas|SK0234556025
+47211466|Hydinová farma Pačanský s.r.o.|Lazovná 1487/56|97401|Banská Bystrica|SK0321508438
+48252735|Nagy-Hydina, s.r.o.|Biskupa Királya 2814/21|94501|Komárno|SK0231501026
+36373974|HYDINA HOLDING, s.r.o.|Priemyselná 4606|03101|Liptovský Mikuláš|SK0315510262
+45300950|HYDINA SLOVENSKO s.r.o.|Lieskovská cesta 23/640|96221|Lieskovec|SK0412520446
+31619002|HYDINÁREŇ ZÁMOSTIE, s.r.o.|Zámostie|97663|Predajná|SK0323508934
+48103039|SLOVENSKÁ HYDINA s. r. o.|Lieskovská cesta 640/23|96221|Lieskovec|SK0412520446
+36404594|TURČIANSKA HYDINA s.r.o.|Červenej armády 1191|03901|Turčianske Teplice|SK0319512729
+36504807|HYDINA KUBUS s.r.o.|NA 290|05991|Veľký Slavkov|SK0416524018
+36043702|HYDINÁREŇ TOMÁŠOVCE s.r.o.|Záporožská 9|85101|Bratislava|NA
+36817571|HYDINA s. r. o.|Ondrejovce 246|93551|Ondrejovce|SK0232502618
+47726709|Hydina Furajtár s.r.o.|Samota 517|05501|Margecany|SK0421543322
+46538968|Agro-hydina Godány s.r.o.|NA 45|92542|Trstice|SK0212504106
+50164252|Hydina PIERKO, s.r.o.|Gaštanový rad 4168/9|92901|Dunajská Streda|SK0211501433
+50291491|Košická hydina s.r.o.|Textilná 1835/4|04001|Košice - mestská časť Nad jazerom|SK0425599816
+50999028|Mach Hydina Invest s. r. o.|NA 780|90086|Budmerice|SK0107507849
+52245284|HYDINA VRANOV, s. r. o.|Mlynská 1485/97|09301|Vranov nad Topľou|SK041D544051
+53490827|Hydina Gemer, s. r. o.|SNP 552/149|04925|Dobšiná|SK0428525634
+55452302|Hydina Semerovo, s. r. o.|NA 1|94132|Semerovo|SK0234503533
+55519971|HYDINA KOŠICE s. r. o.|Textilná 1835/4|04001|Košice - mestská časť Nad jazerom|SK0425599816
+57371598|HUDÁK HYDINA s. r. o.|NA 151|09412|Juskova Voľa|SK041D528765

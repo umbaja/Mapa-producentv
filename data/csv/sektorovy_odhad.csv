@@ -1,0 +1,4 @@
+id,sektor,koef,jednotka,populacia,t_rok,zdroj,poznamka
+1,Reštaurácie a stravovacie služby,14.0,kg/obyvateľa/rok,5420000,75880.0,"Eurostat env_wasfw (2023), priemer EÚ: 14 kg/obyv./rok v sektore reštaurácií a stravovacích služieb","Prepočet na SR je alokácia priemeru EÚ, nie meranie v SR."
+2,Maloobchod a distribúcia potravín,10.0,kg/obyvateľa/rok,5420000,54200.0,"Eurostat env_wasfw (2023), priemer EÚ: 10 kg/obyv./rok v maloobchode a distribúcii","Prepočet na SR je alokácia priemeru EÚ, nie meranie v SR."
+3,Spracovanie potravín,24.0,kg/obyvateľa/rok,5420000,130080.0,"Eurostat env_wasfw (2023), priemer EÚ: 24 kg/obyv./rok v spracovaní a výrobe potravín","Zahŕňa priemyselné toky (mláto, srvátka, výlisky), ktoré vrstva menovite eviduje, ale nekvantifikuje."

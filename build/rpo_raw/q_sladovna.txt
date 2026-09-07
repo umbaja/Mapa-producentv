@@ -1,0 +1,8 @@
+# query=fullName=sladov sector=potravinarstvo keyword=sladovna
+36541991|Heineken Slovensko Sladovne, a.s.|Novozámocká 2|94701|Hurbanovo|SK0231501140
+36497622|Tatranská sladovňa, s.r.o.|Murgašova 1|05880|Poprad|SK0416523381
+47191112|Sladovňa Košice, s.r.o.|Štúrova 33|04001|Košice|NA
+35782803|Lycos Malt s.r.o.|Sladovnícka 15|91701|Trnava|SK0217506745
+34143076|Sladovne a.s.|Sladovnícka 15|91700|Trnava|SK0217506745
+36253774|Sladovňa SESSLER, a.s.|Pri kalvárii 17|91701|Trnava|SK0217506745
+36184187|SLADOVŇA, a.s. Michalovce|Močarianska 14|07101|Michalovce|SK0427522279

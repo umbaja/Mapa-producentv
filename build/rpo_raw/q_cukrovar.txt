@@ -1,0 +1,2 @@
+# query=fullName=cukrovar sector=potravinarstvo keyword=cukrovar
+31568386|SLOVENSKÉ CUKROVARY, s.r.o.|Cukrovarská 726|92601|Sereď|SK0212504009

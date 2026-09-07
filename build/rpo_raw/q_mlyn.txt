@@ -1,0 +1,9 @@
+# query=fullName=mlyn sector=potravinarstvo keyword=mlyn
+36328022|P.R.MLYN s.r.o.|Bzinská 3|91501|Nové Mesto nad Váhom|SK0224506338
+35929936|ROĽNÍCKY MLYN, s.r.o.|NA|94142|Veľké Lovce|SK0234503631
+36311740|Mlyn Trenčan spol. s r.o.|Družstevná 344|91321|Trenčianska Turná|SK0229506567
+46883631|Mlyn Kolárovo, a. s.|Železničný rad 11|94603|Kolárovo|SK0231501204
+31412459|Mlyn Pohronský Ruskov, a.s.|Hlavná 76|93562|Pohronský Ruskov|SK0232502677
+35761555|MLYN ŠTÚROVO, a.s.|Hlavná 76|93562|Pohronský Ruskov|SK0232502677
+31424945|MLYN - verejná obchodná spoločnosť|NA 624|94142|Veľké Lovce|SK0234503631
+47434058|Hrochotský mlyn, spol. s r.o.|Hrochoť 617|97637|Hrochoť|SK0321508659

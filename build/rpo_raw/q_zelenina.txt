@@ -1,0 +1,14 @@
+# query=fullName=zeleni sector=polnohospodarstvo keyword=zeleninarstvo
+47164468|PDT - poľná zelenina s.r.o.|Széchenyiho 10|94110|Tvrdošovce|SK0234503614
+47005050|Barczi - zelenina s.r.o.|Dunajská 763/55|93011|Topoľníky|SK0211501921
+34103651|Výskumný ústav zeleninársky, s.r.o.|Sesíleš 2195|94701|Hurbanovo|SK0231501140
+46597123|Slovenská zelenina s.r.o.|Vimperská 938/6|96212|Detva|SK0324518263
+36843148|Zelenina Nižná Myšľa, s. r. o.|NA|04415|Nižná Myšľa|SK0426521736
+36204374|ZELENINA s.r.o.|Zeleninárska 2|07101|Michalovce|SK0427522279
+36213608|ZEMPLÍNSKA ZELENINA, odbytové družstvo|Spodná 13|07631|Streda nad Bodrogom|SK042B543802
+48198641|Zeleninárska organizácia výrobcov, družstvo|Malokrmešská 455/11|90050|Kráľová pri Senci|SK0108503894
+35910445|Zeleninárska s.r.o.|Malokrmešská 455/11|90050|Kráľová pri Senci|SK0108503894
+51686317|ZELENINKA s.r.o.|Hronské Kosihy 318|93527|Hronské Kosihy|SK0232502341
+51897237|Zelenina Nitra s.r.o.|Malé Zálužie 5|95124|Malé Zálužie|SK0233500534
+51706083|Zelenina zo Slovenska s.r.o.|Králická 175/94|97634|Králiky|SK0321508721
+52361861|Zeleninárstvo Rimavské Janovce s. r. o.|Rimavské Janovce 113|98001|Rimavské Janovce|SK0329515469

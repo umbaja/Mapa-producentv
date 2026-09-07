@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="sk"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kalkulátor kŕmnych dávok pre hmyz — KPB2</title>
+<meta name="description" content="Relačná databáza nutričnej kompozície odpadovej biomasy a kalkulátor substrátových zmesí pre výkrm hmyzu. Aktivita KPB2.">
+<link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="assets/app.css">
+</head><body>
+<div class="sitebar"><div class="in">
+  <div class="brand">Databáza odpadovej biomasy KPB2<small>Biotransformácia odpadov na potraviny a krmivá</small></div>
+  <nav>
+    <a href="index.html" aria-current="page">Kalkulátor a databáza</a>
+    <a href="mapa.html">Mapa producentov</a>
+  </nav>
+</div></div>
+<header>
+  <div class="wrap">
+    <h1>Databáza nutričnej kompozície odpadovej biomasy<span class="badge" id="ver">v0.2</span></h1>
+    <p class="sub">Aktivita KPB2 · relačná databáza a kalkulátor substrátových zmesí pre výkrm hmyzu</p>
+    <nav role="tablist">
+      <button role="tab" data-tab="db" aria-selected="true">Databáza</button>
+      <button role="tab" data-tab="calc" aria-selected="false">Kalkulátor dávky</button>
+      <button role="tab" data-tab="druhy" aria-selected="false">Druhy a výkonnosť</button>
+      <button role="tab" data-tab="baf" aria-selected="false">Bioakumulácia</button>
+      <button role="tab" data-tab="src" aria-selected="false">Zdroje a licencie</button>
+      <button role="tab" data-tab="about" aria-selected="false">O databáze</button>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+
+<!-- ============ DATABÁZA ============ -->
+<section id="tab-db">
+  <div class="panel">
+    <h2>Substráty</h2>
+    <p class="hint">Hodnoty sú v % sušiny, energia v MJ/kg sušiny. Kliknutím na riadok zobrazíte pôvodné hodnoty a zdroj.</p>
+    <div class="chips" id="catChips"></div>
+    <div class="field"><input type="text" id="search" placeholder="Hľadať v názve substrátu…"></div>
+    <div class="tablewrap"><table id="dbTable"><thead></thead><tbody></tbody></table></div>
+    <p class="hint" style="margin-top:12px" id="dbCount"></p>
+    <p class="hint" style="margin:0">Tlačidlom v detaile a vo výsledku sa dá stiahnuť CSV; celá databáza je v repozitári ako SQLite aj CSV.</p>
+  </div>
+  <div class="panel hidden" id="detail"></div>
+</section>
+
+<!-- ============ KALKULÁTOR ============ -->
+<section id="tab-calc" class="hidden">
+  <div class="panel">
+    <h2>Zadanie</h2>
+    <p class="hint">Kalkulátor zostaví zmes druhotných surovín, ktorá spĺňa zadané nutričné a bezpečnostné obmedzenia.</p>
+    <div class="grid cols-3">
+      <div class="field">
+        <label class="f" for="species">Druh hmyzu</label>
+        <select id="species"></select>
+      </div>
+      <div class="field">
+        <label class="f" for="pathway">Produktová dráha</label>
+        <select id="pathway"></select>
+      </div>
+      <div class="field">
+        <label class="f" for="objective">Cieľ optimalizácie</label>
+        <select id="objective">
+          <option value="waste">Maximálny podiel druhotných surovín</option>
+          <option value="custom">Dobalancovať vlastnú surovinu</option>
+          <option value="energy">Maximálna metabolizovateľná energia</option>
+          <option value="cost">Najnižšia cena zmesi</option>
+        </select>
+      </div>
+    </div>
+    <div id="pathNote"></div>
+  </div>
+
+  <div class="panel">
+    <h2>Obmedzenia zmesi</h2>
+    <p class="hint">Okno pomeru sacharidy : bielkoviny sa predvyplní podľa zvolenej dráhy. Prázdne pole znamená, že sa obmedzenie neuplatní.</p>
+    <div class="grid cols-3">
+      <div class="field">
+        <label class="f">Pomer C : CP (násobok)</label>
+        <div class="row2">
+          <input type="number" id="pcMin" step="0.1" placeholder="min">
+          <input type="number" id="pcMax" step="0.1" placeholder="max">
+        </div>
+      </div>
+      <div class="field">
+        <label class="f">Dusíkaté látky, % sušiny</label>
+        <div class="row2">
+          <input type="number" id="cpMin" step="0.1" placeholder="min">
+          <input type="number" id="cpMax" step="0.1" placeholder="max">
+        </div>
+      </div>
+      <div class="field">
+        <label class="f">Horné limity, % sušiny</label>
+        <div class="row2">
+          <input type="number" id="ndfMax" step="1" placeholder="NDF max">
+          <input type="number" id="adlMax" step="1" placeholder="lignín max">
+        </div>
+      </div>
+    </div>
+    <div class="grid cols-2">
+      <div class="field">
+        <label class="f" for="cdLimit">Limit kadmia v larve, mg/kg sušiny</label>
+        <input type="number" id="cdLimit" step="0.01" placeholder="napr. 1.0">
+      </div>
+      <div class="field">
+        <label class="f" for="bafCd">Bioakumulačný faktor kadmia</label>
+        <select id="bafCd"></select>
+      </div>
+    </div>
+    <div class="note warn">
+      <strong>Dáta o kadmiu v jednotlivých substrátoch dataset neobsahuje.</strong>
+      Obmedzenie sa aktivuje až vtedy, keď v tabuľke nižšie vyplníte stĺpec Cd aspoň pri jednom substráte.
+      Do tých čias kalkulátor bezpečnostné obmedzenie neuplatňuje a upozorní na to vo výsledku.
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>Vlastná surovina</h2>
+    <p class="hint">Zadajte surovinu, ktorú databáza nemá — napríklad vlastný laboratórny rozbor.
+    Kalkulátor ju zaradí do výpočtu a doplní k nej odpadové suroviny tak, aby zmes vyšla.
+    <strong>Do databázy sa neuloží</strong>, zostane len v tomto okne prehliadača.</p>
+    <div class="grid cols-3">
+      <div class="field">
+        <label class="f" for="cName">Názov suroviny</label>
+        <input type="text" id="cName" placeholder="napr. srvátka z našej mliekarne">
+      </div>
+      <div class="field">
+        <label class="f" for="cDM">Sušina, % pôvodnej hmoty</label>
+        <input type="number" id="cDM" step="0.1" placeholder="napr. 6.5">
+      </div>
+      <div class="field">
+        <label class="f" for="cBasis">Zadané hodnoty sú</label>
+        <select id="cBasis">
+          <option value="dm">v % sušiny</option>
+          <option value="ph">v % pôvodnej hmoty</option>
+        </select>
+      </div>
+    </div>
+    <div class="grid cols-3">
+      <div class="field"><label class="f" for="cCP">Dusíkaté látky, %</label><input type="number" id="cCP" step="0.1"></div>
+      <div class="field"><label class="f" for="cNSC">Stráviteľné sacharidy, %</label><input type="number" id="cNSC" step="0.1"></div>
+      <div class="field"><label class="f" for="cEE">Tuk, %</label><input type="number" id="cEE" step="0.1"></div>
+    </div>
+    <div class="grid cols-3">
+      <div class="field"><label class="f" for="cNDF">NDF, %</label><input type="number" id="cNDF" step="0.1"></div>
+      <div class="field"><label class="f" for="cADL">Lignín (ADL), %</label><input type="number" id="cADL" step="0.1"></div>
+      <div class="field"><label class="f" for="cCd">Kadmium, mg/kg sušiny</label><input type="number" id="cCd" step="0.01"></div>
+    </div>
+    <button class="act" id="addCustom">Pridať surovinu</button>
+    <button class="ghost" id="clearCustom">Odstrániť všetky vlastné</button>
+    <div id="customNote"></div>
+  </div>
+
+  <div class="panel">
+    <h2>Dostupné suroviny</h2>
+    <p class="hint">Odškrtnite, čo máte k dispozícii. „Max %“ obmedzí podiel suroviny v zmesi, „druhotná“ určuje, čo sa počíta do cieľa.</p>
+    <div style="margin-bottom:12px">
+      <button class="ghost" id="selAll">Označiť všetko</button>
+      <button class="ghost" id="selNone">Zrušiť označenie</button>
+    </div>
+    <div class="field">
+      <label style="font-size:13px;display:flex;gap:8px;align-items:flex-start;cursor:pointer">
+        <input type="checkbox" id="ignoreAbp" style="width:auto;margin-top:3px">
+        <span>Zahrnúť aj substráty, ktoré sú pre chov hmyzu právne neprípustné —
+        <strong>len pre výskum s povolením podľa čl. 17 nar. (ES) 1069/2009</strong>.
+        Zmes navrhnutá s týmito substrátmi sa nesmie použiť v produkcii krmív ani potravín.</span>
+      </label>
+    </div>
+    <div id="abpNote"></div>
+    <div class="tablewrap"><table id="stockTable"><thead></thead><tbody></tbody></table></div>
+  </div>
+
+  <div class="panel">
+    <button class="act" id="run">Vypočítať zmes</button>
+    <div id="result"></div>
+  </div>
+</section>
+
+<!-- ============ DRUHY A VÝKONNOSŤ ============ -->
+<section id="tab-druhy" class="hidden">
+  <div class="panel">
+    <h2>Druhy hmyzu a ich právny status</h2>
+    <p class="hint">Povolenie ako krmivo a ako potravina sú dve nezávislé veci. Druh môže byť povolený do krmív, a pritom neautorizovaný ako nová potravina.</p>
+    <div class="tablewrap"><table id="druhyTable"><thead></thead><tbody></tbody></table></div>
+    <div class="note warn">Prepočítavací faktor 4,76 je pri väčšine druhov <strong>prednastavená
+    hodnota</strong>, nie zmeraná konštanta. Zmeraný je pre <em>Tenebrio molitor</em> (4,76 ± 0,09);
+    pre <em>Alphitobius diaperinus</em> literatúra uvádza 4,86. Pri porovnávaní obsahu bielkovín
+    vždy skontrolujte, ktorý faktor daná práca použila — rozdiel medzi 4,76 a 6,25 je približne
+    štvrtina hodnoty.</div>
+  </div>
+  <div class="panel">
+    <h2>Požiadavky na substrát</h2>
+    <p class="hint">Odvodené z publikovaných pokusov. Úroveň dôkazu D znamená návrh riešiteľského tímu, nie publikovanú hodnotu.</p>
+    <div class="tablewrap"><table id="reqTable"><thead></thead><tbody></tbody></table></div>
+  </div>
+  <div class="panel">
+    <h2>Zloženie zozbieraného hmyzu</h2>
+    <p class="hint">Pozor na prepočítavací faktor dusíka na bielkoviny — práce používajúce 6,25 dávajú približne o štvrtinu vyššie hodnoty než práce používajúce 4,76.</p>
+    <div class="tablewrap"><table id="larvyTable"><thead></thead><tbody></tbody></table></div>
+  </div>
+  <div class="panel">
+    <h2>Výkonnosť chovu podľa substrátu</h2>
+    <div class="tablewrap"><table id="perfTable"><thead></thead><tbody></tbody></table></div>
+  </div>
+</section>
+
+<!-- ============ BIOAKUMULÁCIA ============ -->
+<section id="tab-baf" class="hidden">
+  <div class="panel">
+    <h2>Bioakumulačné faktory</h2>
+    <p class="hint">BAF = koncentrácia v organizme / koncentrácia v substráte. Hodnota nad 1 znamená, že sa látka v tele hmyzu koncentruje.</p>
+    <div class="tablewrap"><table id="bafTable"><thead></thead><tbody></tbody></table></div>
+    <div class="note">
+      Kadmium sa v larvách <em>Hermetia illucens</em> koncentruje zhruba 2,5- až 2,8-násobne. Prípustný obsah
+      kadmia v substráte je preto takmer trikrát nižší, než by naznačoval limit pre výsledný produkt.
+      Olovo ani zinok sa neakumulujú.
+    </div>
+  </div>
+  <div class="panel">
+    <h2>Namerané koncentrácie kovov</h2>
+    <p class="hint">Pokus so spikovaním jedného krmiva na štyri úrovne, nie s rôznymi odpadovými substrátmi.</p>
+    <div class="tablewrap"><table id="expTable"><thead></thead><tbody></tbody></table></div>
+  </div>
+</section>
+
+<!-- ============ ZDROJE ============ -->
+<section id="tab-src" class="hidden">
+  <div class="panel">
+    <h2>Zdroje údajov</h2>
+    <p class="hint">Každá hodnota v databáze je naviazaná na jeden z týchto zdrojov.</p>
+    <div id="srcList"></div>
+  </div>
+</section>
+
+<!-- ============ O DATABÁZE ============ -->
+<section id="tab-about" class="hidden">
+  <div class="panel">
+    <h2>O databáze</h2>
+    <div id="aboutBody"></div>
+  </div>
+</section>
+
+<footer>
+  <p>Dáta: CC BY 4.0, ak zdroj neurčuje inak · Kód: MIT · Databáza sa dá stiahnuť ako
+     SQLite alebo CSV z repozitára projektu.</p>
+  <p>Verzia datasetu <span id="verFoot"></span> · Posledná aktualizácia: <span id="updated"></span></p>
+</footer>
+
+</div>
+
+<script src="assets/data.js"></script>
+<script src="assets/lp.js"></script>
+<script src="assets/app.js"></script>
+</body></html>

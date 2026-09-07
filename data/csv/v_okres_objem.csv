@@ -1,0 +1,70 @@
+okres,kraj,prevadzok,t_rok_min,t_rok_stred,t_rok_max
+Banská Bystrica,Banskobystrický,2,2.6,3.1,4.5
+Banská Štiavnica,Banskobystrický,3,22.7,30.0,37.3
+Bardejov,Prešovský,7,9.6,11.8,17.1
+Bratislava I,Bratislavský,5,63.7,84.5,103.9
+Bratislava II,Bratislavský,12,35.5,45.6,60.0
+Bratislava III,Bratislavský,2,2.5,3.1,4.5
+Bratislava IV,Bratislavský,3,4.5,5.5,8.0
+Bratislava V,Bratislavský,3,4.0,4.9,7.1
+Brezno,Banskobystrický,2,21.4,28.4,35.0
+Bánovce nad Bebravou,Trenčiansky,2,21.4,28.4,35.0
+Detva,Banskobystrický,2,2.7,3.3,4.8
+Dolný Kubín,Žilinský,1,1.3,1.6,2.3
+Dunajská Streda,Trnavský,5,26.3,34.3,43.6
+Galanta,Trnavský,14,39.1,50.0,66.3
+Gelnica,Košický,2,2.7,3.3,4.8
+Hlohovec,Trnavský,2,21.6,28.6,35.3
+Humenné,Prešovský,5,25.2,33.1,41.8
+Ilava,Trenčiansky,2,21.4,28.4,35.0
+Kežmarok,Prešovský,6,26.9,35.1,44.7
+Košice - okolie,Košický,2,2.7,3.3,4.8
+Košice I,Košický,7,28.4,37.0,47.5
+Košice II,Košický,3,5.8,7.1,10.3
+Košice IV,Košický,3,4.5,5.5,8.0
+Krupina,Banskobystrický,1,1.3,1.5,2.2
+Kysucké Nové Mesto,Žilinský,3,3.8,4.6,6.7
+Levice,Nitriansky,4,5.1,6.2,9.1
+Levoča,Prešovský,8,29.0,37.7,48.5
+Liptovský Mikuláš,Žilinský,5,6.9,8.4,12.2
+Lučenec,Banskobystrický,4,24.3,32.0,40.2
+Malacky,Bratislavský,7,10.0,12.2,17.7
+Martin,Žilinský,7,10.5,12.8,18.6
+Michalovce,Košický,7,48.8,64.1,80.6
+Myjava,Trenčiansky,1,1.3,1.6,2.3
+Nitra,Nitriansky,4,24.0,31.5,39.5
+Nové Mesto nad Váhom,Trenčiansky,3,3.8,4.7,6.8
+Nové Zámky,Nitriansky,5,7.3,9.0,13.1
+Námestovo,Žilinský,4,5.1,6.2,9.0
+Pezinok,Bratislavský,5,7.4,9.0,13.1
+Piešťany,Trnavský,4,24.1,31.7,39.8
+Poltár,Banskobystrický,1,1.9,2.4,3.4
+Poprad,Prešovský,6,26.7,34.9,44.4
+Prešov,Prešovský,13,19.8,24.3,35.3
+Prievidza,Trenčiansky,4,24.6,32.3,40.7
+Púchov,Trenčiansky,6,7.9,9.7,14.1
+Rimavská Sobota,Banskobystrický,2,3.2,3.9,5.7
+Rožňava,Košický,6,26.9,35.1,44.7
+Ružomberok,Žilinský,1,1.3,1.6,2.3
+Sabinov,Prešovský,2,2.5,3.1,4.5
+Senec,Bratislavský,4,6.6,8.0,11.7
+Senica,Trnavský,2,2.7,3.3,4.8
+Skalica,Trnavský,5,25.2,33.0,41.7
+Snina,Prešovský,3,22.7,30.0,37.2
+Sobrance,Košický,3,24.0,31.6,39.6
+Spišská Nová Ves,Košický,9,49.7,65.3,82.3
+Stará Ľubovňa,Prešovský,4,24.0,31.5,39.6
+Svidník,Prešovský,4,42.8,56.9,70.0
+Topoľčany,Nitriansky,2,21.4,28.4,35.0
+Trebišov,Košický,5,63.3,84.1,103.4
+Trenčín,Trenčiansky,2,2.7,3.3,4.8
+Trnava,Trnavský,5,7.2,8.8,12.8
+Turčianske Teplice,Žilinský,1,1.3,1.6,2.3
+Veľký Krtíš,Banskobystrický,1,1.4,1.8,2.6
+Vranov nad Topľou,Prešovský,6,29.2,37.9,48.8
+Zlaté Moravce,Nitriansky,3,4.0,4.9,7.1
+Zvolen,Banskobystrický,5,25.4,33.3,42.1
+Čadca,Žilinský,6,7.6,9.3,13.5
+Šaľa,Nitriansky,2,2.5,3.1,4.5
+Žiar nad Hronom,Banskobystrický,1,1.3,1.6,2.3
+Žilina,Žilinský,7,9.5,11.7,17.0

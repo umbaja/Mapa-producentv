@@ -1,0 +1,4 @@
+# query=fullName=bitúnok sector=potravinarstvo keyword=bitunok
+36426563|Ta & Mi, BITÚNOK, s.r.o.|A. Hlinku 916|02201|Čadca|SK0312509132
+47371340|Bitúnok Dechtice s.r.o.|Dechtice 625|91953|Dechtice|SK0217506893
+45724776|BITÚNOK VESTENICE, s.r.o.|Elektrárenská 1|83104|Bratislava|NA

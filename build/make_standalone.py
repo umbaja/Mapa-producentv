@@ -1,0 +1,12 @@
+import os,re
+ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+P=lambda *a: os.path.join(ROOT,*a)
+h=open(P('mapa.html'),encoding='utf-8').read()
+css=open(P('assets/mapa.css'),encoding='utf-8').read()
+data=open(P('assets/mapa_data.js'),encoding='utf-8').read()
+js=open(P('assets/mapa.js'),encoding='utf-8').read()
+h=h.replace('<link rel="stylesheet" href="assets/mapa.css">','<style>\n'+css+'\n</style>')
+h=h.replace('<script src="assets/mapa_data.js"></script>','<script>\n'+data+'\n</script>')
+h=h.replace('<script src="assets/mapa.js"></script>','<script>\n'+js+'\n</script>')
+open(P('mapa_standalone.html'),'w',encoding='utf-8').write(h)
+print('mapa_standalone.html:',round(os.path.getsize(P('mapa_standalone.html'))/1024),'kB')

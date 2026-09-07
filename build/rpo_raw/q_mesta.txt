@@ -1,0 +1,7 @@
+# query=fullName=Mesto <nazov> sector=komunalny keyword=mesto
+00313114|Mesto Trnava|Ulica Hlavná 1/1|91771|Trnava|SK0217506745
+00691135|Mesto Košice|Trieda SNP 48A|04011|Košice - mestská časť Západ|SK0423598224
+00327646|Mesto Prešov|Hlavná 2907/73|08001|Prešov|SK0417524140
+00308307|Mesto Nitra|Štefánikova trieda 80/60|95006|Nitra|SK0233500011
+00321796|Mesto Žilina|Námestie obetí komunizmu 3350/1|01131|Žilina|SK031B517402
+17078202|Správa mestskej zelene v Košiciach|Rastislavova 1617/79|04001|Košice - mestská časť Juh|SK0425599824

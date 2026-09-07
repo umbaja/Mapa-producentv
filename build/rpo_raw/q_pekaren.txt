@@ -1,0 +1,51 @@
+# query=fullName=pekár sector=potravinarstvo keyword=pekaren
+46454489|Diamantová Pekáreň, s. r. o.|Jesenského 37/13|94301|Štúrovo|SK0234503584
+31408265|PEKÁREŇ UNO, spol. s r.o.|NA|95117|Cabaj - Čápor|NA
+47655364|Pekáreň Dóža s.r.o.|NA|94122|Zemné|SK0234503649
+47484004|I.M.D.K. pekáreň a predajne s. r. o.|Inovecská 9|91101|Trenčín|SK0229505820
+43871763|Tradičná Pekáreň s. r. o.|NA|91333|Horná Súča|SK0229506010
+44377151|Pekáreň Bánov Oremus a syn s.r.o.|Štúrova 42|94101|Bánov|SK0234503045
+45992240|Stará Pekáreň, s.r.o.|Rázusova 2|94901|Nitra|SK0233500011
+44119577|Pekáreň Pe&Pe s. r. o.|Centrum I 39/93|01841|Dubnica nad Váhom|SK0222513016
+44826681|MENHERT Pekáreň, s. r. o.|NA|91304|Chocholná-Velčice|SK0229506087
+47502908|Pekáreň PODHORIE, s. r. o.|Krásna Ves 96|95653|Krásna Ves|SK0221543080
+36774669|Pekáreň Delika, s.r.o.|Rišňovce 639|95121|Rišňovce|SK0233500704
+46440691|Pekáreň CEREA, s.r.o.|Rozkvet 2085/180|01701|Považská Bystrica|SK0226512842
+44399294|I.M. pekáreň, s. r. o.|Inovecká 1124/9|91101|Trenčín|SK0229505820
+31435432|Pekáreň VIESKATRANS spol. s r.o.|NA|94341|Nová Vieska|SK0234503436
+36813443|PEKÁREŇ BECKOV s.r.o.|Svätovavrinecká 13920/10|83101|Bratislava - mestská časť Nové Mesto|SK0103529346
+46630392|I.M.D.K. pekáreň TN s. r. o.|Brnianska 2323|91105|Trenčín|SK0229505820
+34135278|Myjavská pekáreň, s.r.o.|Moravská 3|90701|Myjava|SK0223504581
+47417153|PEKÁRSKA A CUKRÁRSKA VÝROBA s. r. o.|Břeclavská 2953|90101|Malacky|SK0106508063
+31561802|DOBROTA, a.s.|Košovská cesta 12|97101|Prievidza|SK0227513881
+35774151|Pekáreň Dunajská Lužná s.r.o.|Športová 737/6|90042|Dunajská Lužná|SK0108545333
+36047716|PEKÁREŇ, s.r.o.|Športová 2|98511|Halič|SK0326511421
+36536776|PEKÁREŇ JURAJ OREMUS, spol. s r.o.|Štúrova 17|94101|Bánov|SK0234503045
+44088752|Pekáreň Bzovík, s.r.o.|Majerský rad 3084/80|96301|Krupina|SK0325518557
+36635359|Slatinská pekáreň, s.r.o.|Kriváň 452|96204|Kriváň|NA
+31412408|Topoľčianske pekárne a cukrárne a.s. skrátený názov TOPEC a.s.|Krušovská 1994|95501|Topoľčany|SK0236504998
+36690473|Spojená Nitrianska Pekáreň, a.s. (SNIPEK, a.s.)|Krušovská 1994|95501|Topoľčany|SK0236504998
+44192185|Pekáreň Vidlička a syn s.r.o.|Krné 51|96212|Detva|SK0324518263
+36044041|Pekáreň ALFEX, spol. s r. o.|Muránska cesta 11|98061|Tisovec|SK0329515680
+36632945|PEKÁREŇ LOPEJ, s.r.o.|Družby 323/61|97698|Lopej|NA
+44155557|Pekáreň KLÁSOK, s.r.o.|NA|98512|Budiná|SK0326511277
+36645672|PEKÁREŇ U FLOSNÍKOV s.r.o.|Chalupkova 4|97701|Brezno|SK0323508497
+46705155|Pekáreň Monika, s.r.o.|Rudina 13|02331|Rudina|SK0314509426
+47597291|Pekáreň u St. Klaus, s.r.o.|Námestie 6. marca 272|97645|Hronec|SK0323508667
+46691529|Pekárnička Family s. r. o.|Športová 1435/110|05971|Ľubica|SK0413523682
+46751963|PEKÁREŇ STRÁŽSKE s.r.o.|Herľanská 547|09303|Vranov nad Topľou|SK041D544051
+31559107|Liptovské pekárne a cukrárne VČELA - Lippek s.r.o.|1. mája 1919|03101|Liptovský Mikuláš|SK0315510262
+31677258|PEKÁREŇ GROS, spol. s r.o.|Kamenná baňa 1309|06001|Kežmarok|SK0413523585
+36438103|PEKÁREŇ ĎUROŠKA, s. r. o.|Rosina 680|01322|Rosina|SK031B517941
+44199279|Pekáreň - ORTEK s.r.o.|Lidická 1621/35|05951|Poprad - Matejovce|NA
+43863035|SAJ pekáreň, s. r. o.|Priemyselná štvrť 3|08301|Sabinov|SK0418525146
+44304412|Pekáreň Bokša, s. r. o.|Bokšanská 1336/1|09101|Stropkov - Bokša|NA
+31611907|DOBROTA Orava, s.r.o.|Matúškova 1637/15|02601|Dolný Kubín|SK0313509540
+30225159|TURIANSKA PEKÁREŇ, spol. s r.o.|V. Žingora 22/5206|03601|Martin|SK0316512036
+44559313|Pekáreň Hôrka, s.r.o.|NA|05912|Hôrka|SK0416523488
+43910351|Bardejovská pekáreň s.r.o.|Kpt. Nálepku 64|08501|Bardejov|SK0411519006
+31640265|Kysucké pekárne, a.s.|A. Hlinku 2541|02201|Čadca|SK0312509132
+36394556|Liptovské pekárne a cukrárne VČELA - Lippek k.s.|1. mája 1919|03101|Liptovský Mikuláš|SK0315510262
+47926392|PEKÁREŇ ILaS - 37 s.r.o.|Námestie osloboditeľov 951|07101|Michalovce|SK0427522279
+46965696|PEKÁREŇ ILaS - 8 s.r.o.|Prof. Hlaváča 1885/9|07101|Michalovce|SK0427522279
+36470775|MK Slovensko, s.r.o.|NA|02301|Oščadnica|SK0312509345

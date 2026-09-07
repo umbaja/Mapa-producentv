@@ -1,0 +1,15 @@
+# query=fullName=bioplyn sector=komunalny keyword=bioplynova_stanica
+45941700|I. Bioplynová elektráreň s.r.o.|NA|93585|Demandice|SK0232502154
+45428565|BIOPLYN BIEROVCE s. r. o.|Palmová 248/20|85110|Bratislava - mestská časť Jarovce|SK0105529443
+46897399|BIOPLYN BIEROVCE 2 s. r. o.|Palmová 248/20|85110|Bratislava - mestská časť Jarovce|SK0105529443
+45301191|KRTKO BIOPLYN k.s.|Rázusova 7|94901|Nitra|SK0233500011
+46163409|AGROPARTNER, s.r.o.|Detva 3179|96212|Detva|SK0324518263
+46132651|Bioplynová Elektráreň Bacúch, s. r. o.|Hlavná 279|97665|Bacúch|SK0323508446
+46363505|Bioplyn Nižný Hrabovec s. r. o.|Votrubova 28|82109|Bratislava|NA
+47154497|Eko – Bio Budča s.r.o.|Klinovisko 716|96233|Budča|SK032B518204
+45652198|Bioplyn Rozhanovce, s.r.o.|Slnečná 13|04442|Rozhanovce|SK0426521931
+36597741|ILKE - BIOPLYNOVÁ STANICA spol. s r.o.|Boľská cesta 1|07701|Kráľovský Chlmec|SK042B528447
+46169776|Bioplyn Naháč, s.r.o.|NA|91904|Lošonec|SK0217556688
+46557181|AGROTISA - BIOPLYNOVÁ STANICA s.r.o.|Boľská cesta 1/2226|07701|Kráľovský Chlmec|SK042B528447
+54932378|Bioplynová stanica, s. r. o.|NA|03471|Ludrová|SK0318510823
+45504377|Farma Kameničany s. r. o.|NA|01854|Kameničany|SK0222557404

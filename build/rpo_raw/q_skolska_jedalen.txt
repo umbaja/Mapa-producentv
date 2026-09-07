@@ -1,0 +1,36 @@
+# query=fullName=Školská jedáleň sector=gastro keyword=skolska_jedalen
+31817033|Školská jedáleň, Školská 257, Dunajská Lužná|Dunajská Lužná|SK0108545333
+37847481|Školská jedáleň, Štefana Majora 1444/83, Veľké Úľany|Veľké Úľany|SK0212504131
+42330238|Školská jedáleň, Juhoslovanská 2, Košice|Košice - mestská časť Sídlisko Ťahanovce|SK0422599875
+37812416|Školská jedáleň, M. R. Štefánika 1, Vrútky|Vrútky|SK0316557358
+50645935|Školská jedáleň, Školská 491/18A, Teplička nad Váhom|Teplička nad Váhom|SK031B518034
+53800818|Súkromná školská jedáleň VČ s. r. o.|Bratislava - mestská časť Jarovce|SK0105529443
+35545674|Školská jedáleň, Komenského 12, Sobrance|Sobrance|SK0429523089
+51278308|Školská jedáleň, Námestie A. Hlinku 31, Cífer|Cífer|SK0217506877
+54006805|Školská jedáleň, Sídlisko II 1336, Vranov nad Topľou|Vranov nad Topľou|SK041D544051
+54006937|Školská jedáleň, Lúčna 827/26, Vranov nad Topľou|Vranov nad Topľou|SK041D544051
+54006996|Školská jedáleň, Juh 1054, Vranov nad Topľou|Vranov nad Topľou|SK041D544051
+54007097|Školská jedáleň, Bernolákova ulica 1061, Vranov nad Topľou|Vranov nad Topľou|SK041D544051
+42293570|Súkromná školská jedáleň, Mostová 53|Mostová|SK0212503924
+37861077|Školská jedáleň, Adyho 4, Štúrovo|Štúrovo|SK0234503584
+42302188|Školská jedáleň, SNP 1026, Kalinovo|Kalinovo|SK0327511471
+37950410|Cirkevná školská jedáleň, Daxnerova ul. 42, Rimavská Sobota|Rimavská Sobota|SK0329514462
+42228760|Súkromná školská jedáleň, Volgogradská 3, Prešov|Prešov|SK0417524140
+35542772|Školská jedáleň, Bernolákova 16, Košice|Košice - mestská časť Západ|SK0423598224
+35542756|Školská jedáleň, Kežmarská 28, Košice|Košice - mestská časť Západ|SK0423598224
+35542764|Školská jedáleň, Trebišovská 10, Košice|Košice - mestská časť Západ|SK0423598224
+42251001|Súkromná školská jedáleň, Užhorodská 39, Košice|Košice - mestská časť Juh|SK0425599824
+35545666|Školská jedáleň, Komenského 6, Sobrance|Sobrance|SK0429523089
+54645298|Školská jedáleň, Kysucká 14, Senec|Senec|SK0108508217
+54909082|Súkromná výdajná školská jedáleň Libellus, Bratislava|Bratislava - mestská časť Lamač|SK0104529419
+30847656|Školská jedáleň pri 1. súkromnom gymnáziu, Bajkalská 20, Bratislava|Bratislava - mestská časť Ružinov|SK0102529320
+56034831|Školská jedáleň, Hlavná 789, Dolný Štál|Dolný Štál|SK0211501611
+56660740|Súkromná školská jedáleň KSPV, Jesenná 18, Prešov|Prešov|SK0417524140
+57114838|Školská jedáleň – Mavi s. r. o.|Viničné|SK0107508306
+57675112|Súkromná školská jedáleň, Bernolákova 21, Prešov|Prešov|SK0417524140
+57767394|Súkromná školská jedáleň Zdravý projekt, Pekníkova 6, Bratislava|Bratislava - mestská časť Dúbravka|SK0104529389
+37886908|Súkromná školská jedáleň, n. o. Prešov|Prešov|SK0417524140
+53390920|Súkromná školská jedáleň, 17. novembra 3723/13, Prešov|Prešov|SK0417524140
+57767581|Súkromná školská jedáleň, Bilíková 24, Bratislava|Bratislava - mestská časť Dúbravka|SK0104529389
+57769621|Súkromná výdajná školská jedáleň, Rastislavova 332, Nováky|Nováky|SK0227514268
+57802262|Súkromná výdajná školská jedáleň, Dúbravská cesta 11, Bratislava|Bratislava - mestská časť Dúbravka|SK0104529389

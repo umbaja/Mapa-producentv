@@ -1,0 +1,40 @@
+# query=fullName=údeniny sector=maso keyword=masovyroba
+47735830|Mäso údeniny Lintner s.r.o.|Dunajská Lužná|SK0108545333
+44035748|MÄSO-ÚDENINY FUJKA s.r.o.|Banská Bystrica|SK0321508438
+34139141|Masárstvo u Lašáku, s. r. o.|Skalica|SK0216504815
+50196766|Mäso - Údeniny K. Achberger, s.r.o.|Bernolákovo|SK0108507814
+50743058|BARTÁNUS - MÄSO ÚDENINY, s.r.o.|Ružomberok|SK0318510998
+52891194|MÄSO - UDENINY ČIČALA, s. r. o.|Kysucké Nové Mesto|SK0314509256
+57255342|MÄSO-ÚDENINY Podbrezová s. r. o.|Predajná|SK0323508934
+57571635|Mäso údeniny Dudek s. r. o.|Láb|SK0106508039
+17817994|Miloš Kubala MÄSO-ÚDENINY|Radoľa|SK0314580791
+14390710|Vojtech Bárány Mäso - údeniny|Košice - mestská časť Šaca|SK0423599841
+30285216|Štefan Kún - Mäso - údeniny|Rožňava|SK0428525529
+32338261|Alžbeta Ladovičová Mäso-údeniny u Ladoviča|Váhovce|SK0212504114
+44580193|Pavol Mašlonka Mäso - údeniny|Pozdišovce|SK0427522961
+48067687|Alžbeta Nalevanková MÄSO-ÚDENINY|Margecany|SK0421543322
+17259533|Anton Eliáš Mäso-údeniny|Valaliky|SK0426522139
+40340783|Miroslav Kubica MASO-UDENINY|Breza|SK0317509591
+17132151|Milan Černaj Mäso-údeniny|Jelšava|SK0328525791
+30526027|Jozef Furťo - MÄSNA|Ružomberok|SK0318510998
+41934831|Milan Husivarga - REMIX - Mäso údeniny|Hanušovce nad Topľou|SK041D544213
+17795541|Milan Hric - MÄSO - ÚDENINY|Žiar nad Hronom|SK032D516589
+30568731|Ján Macuľa - MÄSO - ÚDENINY|Brezno|SK0323508497
+14321114|Anton Kollár - MASIARSTVO TONY|Lažany|SK0417524735
+40573656|Mária Rebej MÄSO ÚDENINY|Kamenica nad Cirochou|SK0412520331
+33504181|Dušan Baša Mäso - údeniny|Šenkvice|SK0107508250
+33891184|Aladár Jurás - Mäso-údeniny|Šaľa|SK0235504025
+30027551|Štefan Hôrka - Mäso - údeniny|Trenčianska Teplá|SK0229506559
+33488070|Karel Štoncner MASO - ÚDENINY|Bolešov|SK0222512885
+33456691|Dušan Novák Mäso - Údeniny|Šurany|SK0234503592
+33657939|Tibor Vida Mäso - údeniny|Strekov|SK0234503550
+34962018|Karol Schroner - Mäso - údeniny|Šurany|SK0234503592
+32410182|Peter Bernáth - mäso, údeniny|Nová Vieska|SK0234503436
+45981353|Ing. Július Beke - MÄSO-ÚDENINY|Komárno|SK0231501026
+32716869|Milan Smaženka Mäso - údeniny|Myjava|SK0223504581
+14414805|Jaroslav Darmo Mäso - údeniny|Chynorany|SK0225543004
+40423298|Radoslav Zaťko Mäso - údeniny|Malá Čausa|SK0227514179
+50543911|Martin Holda - RETRO ÚDENINY|Prešov|SK0417524140
+51329760|Juraj Bielik - BIELIK UDENINY|Komárno|SK0231501026
+40924092|Ladislav Balogh - Mäso-údeniny|Nový Tekov|SK0232502596
+53482077|René Šiko - Mäso - údeniny|Bánovce nad Bebravou|SK0221542652

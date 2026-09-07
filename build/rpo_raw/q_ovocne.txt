@@ -1,0 +1,8 @@
+# query=fullName=ovocn sector=polnohospodarstvo keyword=ovocne_sady
+47969300|Matica ovocná, s.r.o.|Dolná Súča 250|91332|Dolná Súča|SK0229505943
+31639216|Výskumný ústav ovocných a okrasných drevín a.s. (VÚOOD, a.s.)|Prievidzská 1457/73|97201|Bojnice|SK0227513903
+00650935|Družstevná ovocná pálenica Streženice|Cintorínska 176|02001|Streženice|SK0228557471
+46937137|OVOCNÁ ZÁHRADA s.r.o.|NA 147|08301|Červená Voda|SK0418524280
+50827383|Ovocný sad Košúty s.r.o.|NA 489|92509|Košúty|SK0212503860
+52020576|Ovocný strom s.r.o.|NA 214|91332|Dolná Súča|SK0229505943
+50575872|Ovocná Farma, s.r.o.|Diaľničná cesta 5|90301|Senec|SK0108508217

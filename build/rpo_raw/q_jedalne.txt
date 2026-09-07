@@ -1,0 +1,19 @@
+# query=fullName=jedáleň sector=gastro keyword=jedalen_zavodna
+47517492|Malina - Jedáleň s.r.o.|Rapovce|SK0326511803
+45955182|Jedáleň s.r.o.|Malý Krtíš|SK032A558192
+44739753|JEDÁLEŇ - M.O., s.r.o.|Spišské Bystré|SK0416523852
+36570109|MOJA Jedáleň s.r.o.|Parchovany|SK042B528676
+45318611|František Tóth - LUNI JEDÁLEŇ|Lehnice|SK0211501735
+34706674|Daniel Šagát - Jedáleň SOU-Elektrotechnické|Banská Bystrica|SK0321508438
+41674766|Marta Ďuricová JEDÁLEŇ R - M|Banská Bystrica|SK0321508438
+34510885|Ľudmila Pribulová - Modrá jedáleň|Prešov|SK0417524140
+17219914|Nadežda Planková závodná jedáleň|Humenné|SK0412520004
+41492978|Viera Švorcová Jedáleň u Švorcových|Báhoň|SK0107507806
+33956383|Monika Šubová ĽUDOVÁ JEDÁLEŇ|Čechynce|SK0233555886
+34312056|Daniela Polomčáková - JEDÁLEŇ PALMA|Stará Ľubovňa|SK041A526665
+40641333|Anna Maríková - Závodná jedáleň Olšovská|Plavecké Podhradie|SK0106504629
+33560498|Anna Kajanová - STRAVOVANIE|Partizánske|SK0225505315
+37954431|Jedáleň 21. storočia, n.o.|Žilina|SK031B517402
+56762402|JEDÁLEŇ KATARÍNA s. r. o.|Nitra|SK0233500011
+57418616|Anna Arvajová - JEDÁLEŇ JELEŇ|Žarnovica|SK032C517381
+57527458|JEDÁLEŇ ŠMAK s.r.o.|Trstená|SK031A510106

@@ -1,0 +1,10 @@
+# query=fullName=syr sector=potravinarstvo keyword=syraren
+36040690|Bryndziareň a syráreň, s.r.o.|SNP 376/7|96201|Zvolenská Slatina|SK032B518972
+43965024|Syrmix Zázrivá, s.r.o.|Dolina 164|02705|Zázrivá|SK0313510211
+46370161|DANIELA SYRY, s.r.o.|Stankovany 495|03492|Stankovany|SK0318511030
+43852149|Cech výrobcov ovčieho syra v Turci, družstvo|Turčianske Kľačany 271|03861|Vrútky|SK0316557358
+46438190|Výroba syrov s.r.o.|Kráľovská 5|90901|Skalica|SK0216504815
+31651321|SYRÁREŇ BEL SLOVENSKO a.s.|Lastomírska 1|07101|Michalovce|SK0427522279
+46475419|Syráreň Havran, a.s.|Priemyselná 1339|90527|Senica|SK0215504203
+52904555|SLOVENSKÉ SYROVÉ VÝROBKY s. r. o.|Slovanská 299/7|95801|Partizánske|SK0225505315
+34152521|BALSYR, s.r.o.|NA 42|91909|Šelpice|SK0217556670

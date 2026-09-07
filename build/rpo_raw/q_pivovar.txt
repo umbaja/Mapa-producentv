@@ -1,0 +1,24 @@
+# query=https://api.statistics.sk/rpo/v1/search?fullName=pivovar&onlyActive=true
+# sector=potravinarstvo keyword=pivovar
+44436475|Bratislavský Meštiansky Pivovar s. r. o.|Stará Vajnorská 37|83104|Bratislava|NA
+48177369|Pivovar Trogár, s.r.o.|Družstevná 82/15|95605|Radošina|SK0236505421
+35697679|PIVOVAR CODECON spol. s r.o.|Hlavná 325|90041|Rovinka|SK0108508209
+35929006|AB pivovar, a.s.|Lermontovova 3|81105|Bratislava - mestská časť Staré Mesto|SK0101528595
+36352802|Banskobystrický pivovar, a.s.|Sládkovičova 37|97405|Banská Bystrica|SK0321508438
+44744391|Pivovar HVEZDOŇ s.r.o.|Rovná ulica 10|93041|Hviezdoslavov|SK0211501638
+36051691|Pivovar STEIGER a.s.|Pivovar Steiger 24|96602|Vyhne|SK032D517364
+36739596|Prvý piešťanský pivovar, s. r. o.|Rekreačná 3|92101|Piešťany|SK0214507440
+36450308|Minipivovar TATRAS, s. r. o.|Námestie sv. Egídia 60|05801|Poprad|SK0416523381
+47551275|PREŠOVSKÝ PIVOVAR, s.r.o.|NA|08253|Petrovany|SK0417525014
+47743522|Pivovar IKKONA s.r.o.|Košická 1042/16|04801|Rožňava|SK0428525529
+45554846|Patrónsky pivovar, s. r. o.|Betliarska 12|85107|Bratislava|NA
+36802026|Pivovar GOLEM s.r.o.|Čordákova 1|04023|Košice|NA
+31448291|Pivovar Diakovce, spol. s r.o.|Železničiarska 593|09431|Hanušovce nad Topľou|SK041D544213
+36473022|Pivovar u Dobřenských s. r. o.|Irkutská 1399/5|04012|Košice|NA
+46177175|Svijany Slovakia, s.r.o.|Nádražná 84B|92041|Leopoldov|SK0213507253
+47696362|Donovalský pivovar a. s.|NA|97639|Donovaly|SK0321508560
+31648479|Plzeňský Prazdroj Slovensko, a.s.|Pivovarská 9|08221|Veľký Šariš|SK0417525405
+36735302|Pivovarský dom, s. r. o.|Jilemnického 307|05921|Svit|SK0416523925
+50317016|Bardejovský pivovar, s. r. o.|Doležalova 15C|82104|Bratislava - mestská časť Staré Mesto|SK0101528595
+50611917|Minipivovar Harvánek, s. r. o.|Spojná 228/5|01003|Žilina - Zádubnie|NA
+50732650|Pivovary Lobkowicz SK, s.r.o.|Zelená 365/2|81101|Bratislava - mestská časť Staré Mesto|SK0101528595

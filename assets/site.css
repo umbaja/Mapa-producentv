@@ -1,0 +1,12 @@
+/* Spoločná horná lišta oboch stránok KPB2 */
+.sitebar{background:#2c3c33;color:#e8efe9;font:14px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.sitebar .in{max-width:1440px;margin:0 auto;padding:9px 20px;display:flex;flex-wrap:wrap;
+  gap:6px 18px;align-items:center}
+.sitebar .brand{font-weight:600;letter-spacing:-.01em;margin-right:6px}
+.sitebar .brand small{display:block;font-weight:400;font-size:11.5px;opacity:.72;letter-spacing:.02em}
+.sitebar nav{display:flex;gap:4px;margin-left:auto}
+.sitebar nav a{color:#e8efe9;text-decoration:none;padding:6px 13px;border-radius:7px;font-size:13.5px;
+  border:1px solid transparent}
+.sitebar nav a:hover{background:rgba(255,255,255,.09)}
+.sitebar nav a[aria-current="page"]{background:rgba(255,255,255,.14);border-color:rgba(255,255,255,.22);font-weight:600}
+@media (max-width:640px){.sitebar nav{margin-left:0;width:100%}}

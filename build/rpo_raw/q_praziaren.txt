@@ -1,0 +1,6 @@
+# query=fullName=pražiareň sector=potravinarstvo keyword=praziaren_kavy
+51840286|Pražiareň kávy Ollivier coffee s. r. o.|Svätoplukova 20102/49|97101|Prievidza|SK0227513881
+52916626|Záhorácka Pražiareň s.r.o.|Štefánikova 1408/58|90501|Senica|SK0215504203
+54278236|Kocúr - pražiareň kávy, s.r.o.|Bystrička 122|03804|Bystrička|SK0316512133
+57237646|Holíčska Pražiareň s. r. o.|Sv. Anny 1714/19|90851|Holíč|SK0216504378
+57433933|ATELIÉR pražiareň s. r. o.|Hlboká 5922/18|91701|Trnava|SK0217506745

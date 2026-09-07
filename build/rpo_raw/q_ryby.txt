@@ -1,0 +1,10 @@
+# query=fullName=ryb sector=ostatne keyword=rybarstvo
+36312487|Agrovýkrm Rybany s.r.o.|Tomášovská 22/393|90045|Malinovo|SK0108508071
+36315133|RYBHOS s.r.o.|NA|95853|Skačany|SK0225505463
+36410101|RYBÁRSTVO KLÁŠTOR, s.r.o.|Rybníky 331|03843|Kláštor pod Znievom|SK0316512354
+36413241|Rybárstvo Brčná, spol. s r.o.|Rybníky 331|03843|Kláštor pod Znievom|SK0316512354
+46631160|Ryby Turiec s.r.o.|Ulica na Bystričku 14|03601|Martin|SK0316512036
+47035404|RyboCHov s. r. o.|Kľače 7|01319|Kľače|SK031B557994
+31563490|Ryba Žilina, spol. s r.o.|P.O.Hviezdoslava 8194/85|01001|Žilina|SK031B517402
+31577156|Slovryb, a.s.|Lepenkáreň 7415/2|03403|Ružomberok|SK0316512818
+45596824|Rybárova farma s.r.o.|Poznanova 35/935|94201|Šurany|NA

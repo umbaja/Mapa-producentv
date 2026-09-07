@@ -1,0 +1,4 @@
+id,nazov,url,licencia,datum_ziskania,overenie
+1,"Register právnických osôb, podnikateľov a orgánov verejnej moci (ŠÚ SR)",https://api.statistics.sk/rpo/v1/search,CC BY 4.0,2026-08-22,"Dopyty fullName na verejné API RPO. Každé IČO overené kontrolnou číslicou (modulo 11); vzorka záznamov znovu overená priamym dopytom identifier=. Prvý pokus o extrakciu zoznamu píl vrátil skrátené, nepravé IČO - celá dávka bola zahodená a načítaná znovu."
+2,Gazetteer obcí a hranice okresov a krajov (drakh/slovakia-gps-data; ZBGIS SMD + OSM),https://github.com/drakh/slovakia-gps-data,open data,2026-08-22,"GeoJSON EPSG:4326; 3226 sídelných bodov, 79 okresov, 8 krajov. Kontrola bounding boxu SR."
+3,Vyhláška MŽP SR č. 365/2015 Z. z. - Katalóg odpadov,https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2015/365/,právny predpis,2026-08-22,Katalógové čísla priradené podľa charakteru materiálu. NEOVERENÉ odborne spôsobilou osobou - katalog_overeny = 0 pri všetkých záznamoch.

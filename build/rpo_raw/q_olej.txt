@@ -1,0 +1,5 @@
+# query=fullName=olej sector=potravinarstvo keyword=olejnin
+48302741|Považský olej, s.r.o.|J. Kráľa 1122/75|02001|Púchov|SK0228513610
+47531061|Olej Hont, s.r.o.|Súdovce 44|96271|Súdovce|SK0325518841
+44330936|TODO - Trnavské odbytové družstvo olejnín s. r. o.|Bulharská 42/2476|91701|Trnava|SK0217506745
+43847064|Výrobno odbytové družstvo olejnín Šariš|Masarykova 10|08001|Prešov|SK0417524140

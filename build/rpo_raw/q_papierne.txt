@@ -1,0 +1,7 @@
+# query=fullName=papierne|celulóz sector=drevo keyword=papierne
+31637051|Mondi SCP, a.s.|Tatranská cesta 3|03417|Ružomberok|SK0318510998
+31410146|Priemyselný park Štúrovo, a. s.|Továrenská 1|94303|Štúrovo|SK0234503584
+00153052|SHP Harmanec, a.s.|NA|97603|Harmanec|SK0321508594
+31562116|DS Smith Turpak Obaly, a.s.|Robotnícka 1|03680|Martin|SK0316512036
+36200166|SHP SLAVOŠOVCE, a.s.|NA|04936|Slavošovce|SK0428526282
+55350500|Papierne Stakčín, s.r.o.|Werferová 3782/6|04011|Košice - mestská časť Juh|SK0425599824

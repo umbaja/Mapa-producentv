@@ -1,0 +1,93 @@
+kod,nazov_sk,katalogove_cislo_navrh,producentov
+zvysky_z_taniera,Zvyšky z taniera,20 01 08,484
+bro_zahrady,Biologicky rozložiteľný odpad zo záhrad,20 02 01,408
+skolsky_kuchynsky_odpad,Kuchynský odpad zo školských jedální,20 01 08,251
+gastro_fritovaci_olej,Použitý fritovací olej z gastroprevádzok,20 01 25,245
+nemocnicny_kuchynsky_odpad,Kuchynský odpad zo zdravotníckych a sociálnych zariadení,20 01 08,160
+gastro_kavova_sedlina,Kávová sedlina z gastroprevádzok,20 01 08,117
+travna_hmota_ttp,Trávna hmota z lúk a TTP,02 01 03,105
+hnojovica_osipane,Hnojovica ošípaných,02 01 06,97
+kukuricne_korovie,Kukuričné kôrovie a stonky,02 01 03,92
+odpad_cistenie_zrna,Odpad z čistenia a sušenia obilia,02 01 03,86
+hnoj_hovadzi,Maštaľný hnoj hovädzí,02 01 06,83
+zvp_kat3,Živočíšne vedľajšie produkty kategórie 3,02 02 02,79
+slama_obilna,Obilná slama,02 01 03,78
+repkova_slama,Repková slama,02 01 03,78
+tuky_odlucovace,Tuky z odlučovačov,19 08 09,77
+gastro_kuchynsky_odpad,Kuchynský odpad z reštaurácií a hotelov,20 01 08,73
+kora,Odpadová kôra,03 01 01,70
+odrezky_dreva,Odrezky a drevný odpad,03 01 05,64
+slnecnicove_stonky,Slnečnicové stonky a úbory,02 01 03,56
+kostny_zvysok,Kosti a kostné zvyšky,02 02 02,54
+kozne_odrezky,Kožné odrezky a podkožný tuk,02 02 02,54
+masovy_flotacny_kal,Flotačný kal z mäsospracovania,02 02 04,54
+technicky_zivocisny_tuk,Technický živočíšny tuk,02 02 03,54
+kadavery,Uhynuté zvieratá (kadávery),02 01 02,52
+masokostna_mucka,Mäsokostná múčka,02 02 02,51
+pekarenske_zvysky,Pekárenské zvyšky,02 06 01,50
+cestovinove_zvysky,Cestovinové a múčne zvyšky,02 06 01,50
+konare_stiepka,Konáre a drevná štiepka z údržby zelene,20 02 01,50
+piliny,Piliny a hobliny,03 01 05,43
+retail_ovocie_zelenina,Neupredané ovocie a zelenina z predajní,20 01 08,34
+retail_pecivo,Neupredané pečivo a pekárske výrobky,02 06 01,34
+retail_mliecne,Mliečne výrobky po dátume minimálnej trvanlivosti,20 01 08,34
+retail_maso_zvysky,Mäsové a údenárske výrobky po dátume spotreby,02 02 03,34
+retail_zmesovy,Zmesový potravinový odpad z predajne,20 01 08,34
+travna_hmota_kosba,Trávna hmota z kosby verejnej zelene,20 02 01,32
+srvatka_sladka,Sladká srvátka,02 05 01,30
+srvatka_kysla,Kyslá srvátka,02 05 01,30
+mliekarensky_kal,Kal z mliekarenskej ČOV,02 05 02,30
+hroznove_vylisky,Hroznové výlisky (matolina),02 07 04,29
+vinne_kaly,Vínne kaly,02 07 05,29
+hroznove_stopky,Hroznové stopky (strapiny),02 07 01,29
+listie,Lístie z verejnej zelene,20 02 01,29
+odpad_trhoviska,Odpad z trhovísk,20 03 02,29
+krv_bitunok,Krv z bitúnku,02 02 03,28
+zvp_kat2,Živočíšne vedľajšie produkty kategórie 2,02 02 02,28
+ovciarsky_hnoj,Ovčí a kozí hnoj,02 01 06,27
+perie,Perie z hydinových bitúnkov,02 02 02,25
+hydinovy_trus,Hydinový trus a podstielka,02 01 06,25
+pivovarske_mlato,Pivovarské mláto,02 07 01,22
+pivovarske_kvasnice,Pivovarské kvasnice,02 07 05,22
+chmelovy_mlat,Chmeľový mlát,02 07 01,22
+kremelinovy_kal,Kremelinový kal z filtrácie,02 07 05,22
+srvatkovy_permeat,Srvátkový permeát,02 05 01,21
+cmar,Cmar,02 05 01,21
+lesna_stiepka,Lesná štiepka a haluzina,02 01 07,21
+vnate_pozberove,Vňate a pozberové zvyšky zeleniny,02 01 03,20
+kuchynsky_odpad,Biologicky rozložiteľný kuchynský a reštauračný odpad,20 01 08,18
+cov_kal_komunalny,Kal z komunálnej ČOV,19 08 05,17
+zemiakove_supky,Zemiakové šupky a orezky,02 03 04,15
+digestat,Digestát z bioplynovej stanice,19 06 06,14
+zeleninove_orezky,Orezky a nepodarky zeleniny,02 03 04,13
+kal_pranie_zeleniny,Kal z prania a lúpania zeleniny,02 03 01,13
+jedle_oleje_pouzite,Použité jedlé oleje a tuky,20 01 25,12
+potraviny_po_dobe,Nepredané potraviny po dátume spotreby,20 01 08,12
+rybie_zvysky,"Rybie hlavy, vnútornosti a kosti",02 02 03,9
+kal_akvakultura,Kal z akvakultúry,02 01 01,9
+syrarska_srvatka_tuh,Tuhé zvyšky zo syrárskej výroby,02 05 01,9
+psenicne_otruby,Pšeničné otruby,02 03 04,8
+mlynske_zmetky,Mlynské zmetky a plevy,02 03 04,8
+sladovy_klicok,Sladový klíčok,02 07 01,7
+sladovy_prach,Sladový prach a plevy,02 07 01,7
+vypalky,Liehovarnícke výpalky,02 07 02,7
+jablcne_vylisky,Jablčné výlisky,02 07 04,7
+bobulove_vylisky,Výlisky z bobuľového ovocia,02 07 04,7
+kavove_slupky,Kávové šupky (silverskin),02 03 04,7
+drozdiarske_zvysky,Zvyšky z výroby droždia,02 03 04,7
+papierensky_kal,Papierenský kal,03 03 11,6
+vlaknity_vymet,Výmety z vlákien a plnív,03 03 10,6
+kavova_sedlina,Kávová sedlina,02 03 04,5
+repkovy_srot,Repkový extrahovaný šrot,02 03 04,4
+slnecnicovy_srot,Slnečnicový extrahovaný šrot,02 03 04,4
+olejnaty_kal,Kaly z rafinácie jedlých olejov,02 03 05,4
+bachorovy_obsah,Obsah bachora a tráviaceho traktu,02 02 04,3
+kompost_nevyhovujuci,Kompost nevyhovujúcej kvality,19 05 03,3
+zvp_kat1,Živočíšne vedľajšie produkty kategórie 1,02 01 02,3
+skrobarenske_zvysky,Škrobárenské zvyšky,02 03 01,2
+cukrovinkarske_zvysky,Zvyšky z výroby cukroviniek,02 06 01,2
+repne_rezky,Cukrovarnícke repné rezky,02 04 99,1
+melasa,Melasa,02 04 99,1
+saturacne_kaly,Saturačné kaly,02 04 02,1
+repna_zemina,Zemina a chvostíky z prania repy,02 04 01,1
+citrusove_vylisky,Citrusové výlisky,02 03 04,0

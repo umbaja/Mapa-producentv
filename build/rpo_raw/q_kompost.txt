@@ -1,0 +1,4 @@
+# query=fullName=kompost sector=komunalny keyword=kompostaren
+53574222|TT-kompost, s. r. o.|Záhradnícka 821/35|92521|Sládkovičovo|SK0212504017
+55598234|Kompost Senec s.r.o.|Záhradnícka 821/35|92521|Sládkovičovo|SK0212504017
+56946350|PRODUKT KOMPOST s. r. o.|NA 804|92563|Dolná Streda|SK0212555789

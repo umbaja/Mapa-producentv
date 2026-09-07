@@ -1,0 +1,13 @@
+# query=fullName=odpad sector=komunalny keyword=odpadove_hospodarstvo
+34133861|Kopaničiarska odpadová spoločnosť, s.r.o. (K.O.S., s.r.o.)|NA 390|91613|Kostolné|SK0223506141
+43790909|Skládka komunálneho odpadu Bojná, s.r.o.|Obecný úrad 201|95601|Bojná|SK0236542717
+43903959|Obecné služby Tvrdošovce s.r.o.|Novozámocká cesta 56|94110|Tvrdošovce|SK0234503614
+46193154|EKOTES s.r.o.|Kvakovce 112|09402|Kvakovce|SK041D528820
+44564350|Komunálne služby a odpadové hospodárstvo Štúrovo, s.r.o.|Komenského 18|94301|Štúrovo|NA
+35793848|Skládka odpadov - Dubová, s.r.o.|Hlavná 39|90090|Dubová|SK0107507881
+36450332|Tatranská odpadová spoločnosť s.r.o., Žakovce|NA 189|05973|Žakovce|SK0413524123
+48280011|ODPADY TATRY, s. r. o.|Vyšné Hágy 23039|05984|Vysoké Tatry|SK0416560103
+34100644|KOMPLEX-odpadová spoločnosť, s.r.o.|NA 131|92554|Pusté Sady|SK0212503967
+34144587|Skládka tuhého komunálneho odpadu N-14, a.s.|NA 767|92585|Neded|SK0235503932
+00681300|Odvoz a likvidácia odpadu a.s. (OLO a.s.)|Ivanská cesta 22|82104|Bratislava|NA
+51412098|BioOdpad a.s.|Horná 13|97401|Banská Bystrica|SK0321508438

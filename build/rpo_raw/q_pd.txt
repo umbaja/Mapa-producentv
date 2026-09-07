@@ -1,0 +1,57 @@
+# query=fullName=Poľnohospodárske družstvo sector=polnohospodarstvo keyword=polnohospodarske_druzstvo
+31436641|PD Veľká Hradná, a.s.|Veľká Hradná 145|91324|Veľká Hradná|SK0229506648
+00203572|Poľnohospodárske družstvo Poriadie|NA|90622|Poriadie|SK0223504688
+17642566|Poľnohospodárske družstvo Dolné Srnie|NA|91641|Dolné Srnie|SK0224505951
+00206768|Poľnohospodárske družstvo Bošáca|NA|91307|Bošáca|SK0224505871
+36320226|Poľnohospodárske družstvo Dolná Mariková|NA|01802|Dolná Mariková|SK0226512966
+00206865|Poľnohospodárske družstvo Hôrka nad Váhom|NA|91632|Hôrka nad Váhom|SK0224505994
+31431631|Poľnohospodárske družstvo Kálnica|Kálnica 722|91637|Kálnica|SK0224506109
+36722804|Poľnohospodárske družstvo Krajné|NA|91616|Krajné|SK0223506150
+00207080|Poľnohospodárske družstvo podielnikov Tematín v Modrovke, družstvo|NA|91635|Modrovka|SK0224506257
+00205583|PD „BREZINA" PRAVOTICE, družstvo|NA|95635|Pravotice|SK0221505382
+00205214|Poľnohospodárske družstvo v Chynoranoch|Bernolákova ulica 202/18|95633|Chynorany|SK0225543004
+00203220|Poľnohospodárske družstvo Brezová pod Bradlom|Štúrova 452|90613|Brezová pod Bradlom|SK0223504262
+00206873|Poľnohospodárske družstvo Bobot-Horňany|NA|91325|Bobot|SK0229505854
+00222453|Poľnohospodárske družstvo INOVEC Trenčianske Stankovce|Veľké Stankovce 891|91311|Trenčianske Stankovce|SK0229545741
+00200166|Poľnohospodárske družstvo "Vršatec"|NA|01852|Pruské|SK0222513598
+00205656|PODIELNICKÉ POĽNOHOSPODÁRSKE DRUŽSTVO RYBANY|NA|95636|Rybany|SK0221505455
+00207241|Poľnohospodársky podnik Trenčín-Soblahov a. s.|NA|91338|Soblahov|SK0229506508
+00207161|Poľnohospodárske družstvo Podolie|NA|91622|Podolie|SK0224506427
+00205672|Poľnohospodárske družstvo Slatina nad Bebravou|NA|95653|Slatina nad Bebravou|SK0221505471
+00205834|Poľnohospodárske družstvo BEBRAVA|NA|95655|Veľké Chlievany|SK0221505692
+00205567|Poľnohospodárske družstvo Podlužany|NA|95652|Podlužany|SK0232502669
+00206938|Roľnícke družstvo podielnikov Chocholná-Velčice|NA|91304|Chocholná-Velčice|SK0229506087
+00200069|Poľnohospodárske družstvo Dubnica nad Váhom|Kvášovec 1695|01841|Dubnica nad Váhom|SK0222513016
+00590100|Poľnohospodárske družstvo Skalka nad Váhom|NA|91331|Skalka nad Váhom|SK0229546682
+00200018|Poľnohospodárske družstvo Bolešov|NA|01853|Bolešov|SK0222512885
+00206831|Poľnohospodárske družstvo podielníkov Drietoma|NA|NA|Drietoma|SK0229505960
+00207250|Poľnohospodárske družstvo Stará Turá|Družstevná 679|91601|Stará Turá|SK0224506524
+00207098|Poľnohospodárske družstvo Vlára Nemšová|Družstevná 18|91441|Nemšová|SK0229506281
+00207136|Poľnohospodárske družstvo Pobedim|NA|91623|Pobedim|SK0224506401
+00223603|Bezovec - Poľnohospodárske družstvo|Stará Lehota|91635|Modrová|SK0224506249
+17639301|Poľnohospodárske družstvo Prusy|NA|95703|Prusy|SK0221505412
+00207128|Poľnohospodárske družstvo Trenčín - Opatová|Vážska 255/17|91401|Trenčianska Teplá|SK0229506559
+00206784|Poľnohospodárske družstvo Bzince pod Javorinou|NA|91611|Bzince pod Javorinou|SK0224505897
+00201189|AGROSPOL - podielnicke poľnohospodárske družstvo Diviaky nad Nitricou|NA|97225|Diviaky nad Nitricou|SK0227513962
+00205869|Poľnohospodárske družstvo podielnikov Veľké Uherce|NA|95841|Veľké Uherce|SK0225505722
+00207306|Poľnohospodárske družstvo, Trenčianske Mitice|NA|91322|Trenčianske Mitice|SK0229506605
+00589403|Poľnohospodárske družstvo FLÓRA|Ľ. Podjavorinskej 445/7|91401|Trenčianska Teplá|SK0229506559
+00207284|Poľnohospodárske družstvo Trenčianska Turná|345|91321|Trenčianska Turná|SK0229506567
+00198552|Poľnohospodárske družstvo Neverice|Družstevná 250/2|95172|Neverice|SK0237500593
+00589942|Poľnohospodárske družstvo Jarok|Hlavná ulica 622/232|95148|Jarok|SK0233500356
+00589144|Poľnohospodárske družstvo podielnikov "SINCE"|NA|94359|Sikenička|SK0234503541
+30998034|Poľnohospodárske družstvo Okánikovo|osada Okánikovo|94621|Veľké Kosihy|SK0231501387
+00205362|Poľnohospodárske družstvo Ludanice|NA|95611|Ludanice|SK0236505048
+00193241|Poľnohospodárske družstvo v Pribete|Rúbaňská 15|94655|Pribeta|SK0231501328
+00199541|Poľnohospodárske družstvo v Zemnom, družstvo|NA|94122|Zemné|SK0234503649
+00363243|Poľnohospodárske družstvo Trávnik|NA|NA|Trávnik|SK0231501379
+17639913|Poľnohospodárske družstvo KLAS|NA|NA|Čata|SK0232555843
+00198013|Poľnohospodárske družstvo Veľké Zálužie|Hlavná 1|95135|Veľké Zálužie|SK0233500887
+00587222|Poľnohospodárske družstvo Podhájska-Radava|Družstevná 3/496|94148|Podhájska|SK0234503479
+00199524|Poľnohospodárske družstvo Tvrdošovce|Szechényiho 10|94110|Tvrdošovce|SK0234503614
+31106161|Poľnohospodárske družstvo Zlatná na Ostrove|NA|NA|Zlatná na Ostrove|SK0231501425
+00597171|Poľnohospodárske družstvo Komoča|NA|94121|Komoča|SK0234503291
+00198536|Poľnohospodárske družstvo Mojmírovce|Dolinská ul. 914/2|95115|Mojmírovce|SK0233500577
+00363146|Poľnohospodárske družstvo Veľké Kosihy|Hlavná|94621|Veľké Kosihy|SK0231501387
+00194603|Poľnohospodárske družstvo Farná|Doležalova 3424/15C|82104|Bratislava - mestská časť Ružinov|SK0102529320
+00587184|Poľnohospodárske družstvo Strekov|Hlavná ul. 55/60|94137|Strekov|SK0234503550

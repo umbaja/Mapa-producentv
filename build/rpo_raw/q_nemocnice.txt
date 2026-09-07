@@ -1,0 +1,38 @@
+# query=fullName=Nemocnica sector=gastro keyword=nemocnica
+36348015|Nemocnica AGEL Bánovce s.r.o.|Bánovce nad Bebravou|SK0221542652
+36339865|Nemocnica AGEL Handlová s.r.o.|Handlová|SK0227513997
+43956513|Nemocnica Banská Štiavnica, a.s.|Banská Štiavnica|SK0322516643
+36509108|Nemocnica Snina, s.r.o.|Snina|SK0419520802
+45999848|Svidnícka nemocnica s poliklinikou Dr. Jozefa Žáka, s.r.o.|Svidník|SK041C527106
+47249021|Vranovská nemocnica, a.s.|Vranov nad Topľou|SK041D544051
+36513458|Nemocnica Poprad, a.s.|Poprad|SK0416523381
+36713091|Nemocnica s poliklinikou Hlohovec, s.r.o.|Hlohovec|SK0213507032
+36182672|Nemocnica AGEL Krompachy s.r.o.|Krompachy|SK042A543268
+44452519|Nemocnica s poliklinikou Sv. Lukáša Galanta, a.s.|Galanta|SK0212503665
+44444761|Fakultná nemocnica AGEL Skalica a.s.|Skalica|SK0216504815
+44455356|Nemocnica s poliklinikou Dunajská Streda, a.s.|Dunajská Streda|SK0211501433
+36594849|Nemocnica AGEL Levoča a.s.|Levoča|SK0414543292
+47249048|Nemocnica A. Leňa Humenné, a.s.|Humenné|SK0412520004
+47249099|Nemocnica arm. generála L. Svobodu Svidník, a.s.|Svidník|SK041C527106
+36597341|Nemocnica s poliklinikou sv. Barbory Rožňava, a.s.|Rožňava|SK0428525529
+36597350|Nemocnica s poliklinikou Spišská Nová Ves, a.s.|Spišská Nová Ves|SK042A526355
+36597376|Nemocnica s poliklinikou Trebišov, a.s.|Trebišov|SK042B528099
+44927380|Nemocnica s poliklinikou Štefana Kukuru Michalovce, a.s.|Michalovce|SK0427522279
+47236736|Nemocnica Topoľčany, a. s.|Topoľčany|SK0236504998
+48220558|Nemocnica novej generácie Michalovce, a.s.|Košice - mestská časť Staré Mesto|SK0422598186
+36083895|Nemocnica Piešťany n.f.|Piešťany|SK0214507440
+35582391|Regionálna nemocnica Sobrance, n. o.|Sobrance|SK0429523089
+45740020|Nemocnica s poliklinikou Trebišov, n.o.|Trebišov|SK042B528099
+31908969|Nemocnica s poliklinikou Brezno, n.o.|Brezno|SK0323508497
+37886436|Nemocnica Dr. Vojtecha Alexandra v Kežmarku n.o.|Kežmarok|SK0413523585
+36119385|Nemocnica s poliklinikou Ilava, n. o.|Ilava|SK0222513156
+45737967|Nemocnica s poliklinikou n.o. Kráľovský Chlmec|Kráľovský Chlmec|SK042B528447
+37886851|Ľubovnianska nemocnica, n.o.|Stará Ľubovňa|SK041A526665
+37971832|Špecializovaná nemocnica sv. Svorada Zobor, n.o.|Nitra|SK0233500011
+35581000|Psychiatrická nemocnica Michalovce, n. o.|Michalovce|SK0427522279
+37954571|Všeobecná nemocnica s poliklinikou Lučenec n.o.|Lučenec|SK0326511218
+36077739|Špecializovaná nemocnica pre ortopedickú protetiku Bratislava, n.o.|Bratislava - mestská časť Ružinov|SK0102529320
+31386563|Univerzitná nemocnica AGEL Milosrdní bratia s. r. o.|Bratislava|NA
+44570783|Univerzitná nemocnica - Nemocnica svätého Michala, a. s.|Bratislava|NA
+36168165|Fakultná nemocnica AGEL Košice-Šaca a. s.|Košice|NA
+45594929|Nemocnica AGEL Zvolen a.s.|Zvolen|NA
