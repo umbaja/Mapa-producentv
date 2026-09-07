@@ -1,0 +1,90 @@
+<section class="pb">
+<h2>4 &nbsp;Výsledky základného scenára</h2>
+<p>Modelová prevádzka so 100 tonami čerstvých lariev ročne vyprodukuje <b>30 108 kg sušeného
+produktu</b> a odparí pritom <b>69 892 kg vody</b>. Výsledné merné hodnoty sú:</p>
+<div class="kpi">
+ <div><div class="v">14,58</div><div class="k">kWh / kg produktu</div></div>
+ <div><div class="v">2,68 €</div><div class="k">náklady / kg</div></div>
+ <div><div class="v">1,473</div><div class="k">kg CO₂e / kg</div></div>
+ <div><div class="v">44,3 t</div><div class="k">CO₂e za rok</div></div>
+</div>
+<table>
+<thead><tr><th style="width:34%">Zložka spotreby</th><th class="n">kWh/rok</th><th class="n">Podiel</th><th class="n">kg CO₂e/rok</th><th class="n">Podiel</th></tr></thead>
+<tbody>
+<tr><td>Kúrenie</td><td class="n">320 041</td><td class="n">72,9 %</td><td class="n">30 404</td><td class="n">68,6 %</td></tr>
+<tr><td>Sušenie</td><td class="n">90 860</td><td class="n">20,7 %</td><td class="n">8 632</td><td class="n">19,5 %</td></tr>
+<tr><td>Technológia</td><td class="n">17 520</td><td class="n">4,0 %</td><td class="n">1 664</td><td class="n">3,8 %</td></tr>
+<tr><td>Osvetlenie</td><td class="n">10 512</td><td class="n">2,4 %</td><td class="n">999</td><td class="n">2,3 %</td></tr>
+<tr><td>Doprava substrátu</td><td class="n">—</td><td class="n">—</td><td class="n">2 640</td><td class="n">6,0 %</td></tr>
+<tr><td><b>Spolu</b></td><td class="n"><b>438 933</b></td><td class="n"><b>100,0 %</b></td><td class="n"><b>44 339</b></td><td class="n"><b>100,0 %</b></td></tr>
+</tbody></table>
+<p>Rozloženie spotreby je jednoznačné: <b>temperovanie chovného priestoru tvorí takmer tri
+štvrtiny spotreby energie</b>, sušenie približne pätinu, ostatné položky sú okrajové. Toto
+zistenie určuje, kde má zmysel hľadať úspory — opatrenia zamerané na osvetlenie alebo pohon
+technológie nemôžu priniesť viac než niekoľko percent.</p>
+<p>Podiel sušenia je pritom porovnateľný s hodnotou 39 %, ktorú pre indonézsku prevádzku uvádza
+Nugroho a kol. (2023). Nižší podiel v tomto modeli je očakávaný: v tropickom podnebí je potreba
+kúrenia minimálna, takže sušenie tvorí väčšiu časť celku.</p>
+
+<h2>5 &nbsp;Scenárová analýza</h2>
+<p>Opis projektu vyžaduje prípadové štúdie cielene upravených parametrov. Scenáre sú
+rozdelené do troch skupín — krízové, optimalizačné a logistické. Každý mení jeden alebo
+niekoľko parametrov oproti základnému scenáru; ostatné zostávajú nezmenené.</p>
+<table>
+<thead><tr><th style="width:8%">Kód</th><th style="width:38%">Scenár</th><th class="n">kWh/kg</th><th class="n">€/kg</th><th class="n">kg CO₂e/kg</th><th class="n">Δ emisií</th></tr></thead>
+<tbody>
+<tr><td><b>Z</b></td><td><b>Základný scenár</b></td><td class="n"><b>14,58</b></td><td class="n"><b>2,68</b></td><td class="n"><b>1,473</b></td><td class="n">—</td></tr>
+<tr><td colspan="6"><b>Krízové scenáre</b></td></tr>
+<tr><td>K1</td><td>Cenový šok: elektrina 0,35 €/kWh</td><td class="n">14,58</td><td class="n">5,10</td><td class="n">1,473</td><td class="n">0 %</td></tr>
+<tr><td>K2</td><td>Cenový šok: elektrina 0,50 €/kWh</td><td class="n">14,58</td><td class="n">7,29</td><td class="n">1,473</td><td class="n">0 %</td></tr>
+<tr><td>K3</td><td>Chladná zima: teploty o 3 K nižšie</td><td class="n">16,48</td><td class="n">3,03</td><td class="n">1,653</td><td class="n">+12,2 %</td></tr>
+<tr><td colspan="6"><b>Optimalizačné scenáre</b></td></tr>
+<tr><td>O1</td><td>Tepelné čerpadlo (COP 3,2)</td><td class="n">7,27</td><td class="n">1,34</td><td class="n">0,778</td><td class="n">−47,2 %</td></tr>
+<tr><td>O2</td><td>Plynový kotol</td><td class="n">15,50</td><td class="n">1,42</td><td class="n">2,797</td><td class="n">+89,9 %</td></tr>
+<tr><td>O3</td><td>Rekuperácia tepla z vetrania 70 %</td><td class="n">9,00</td><td class="n">1,65</td><td class="n">0,943</td><td class="n">−36,0 %</td></tr>
+<tr><td>O4</td><td>Zateplenie obalu na U = 0,18 W/(m²·K)</td><td class="n">13,28</td><td class="n">2,44</td><td class="n">1,350</td><td class="n">−8,4 %</td></tr>
+<tr><td>O5</td><td>Bez sušenia — predaj čerstvých lariev</td><td class="n">3,48</td><td class="n">0,64</td><td class="n">0,357</td><td class="n">−75,8 %</td></tr>
+<tr><td>O6</td><td>Kombinácia O1 + O3 + O4</td><td class="n">5,12</td><td class="n">0,94</td><td class="n">0,574</td><td class="n">−61,0 %</td></tr>
+<tr><td colspan="6"><b>Logistické scenáre</b></td></tr>
+<tr><td>D1</td><td>Substrát z okruhu 150 km</td><td class="n">14,58</td><td class="n">2,68</td><td class="n">1,714</td><td class="n">+16,4 %</td></tr>
+<tr><td>D2</td><td>Substrát z okruhu 10 km</td><td class="n">14,58</td><td class="n">2,68</td><td class="n">1,407</td><td class="n">−4,5 %</td></tr>
+</tbody></table>
+
+<h3>5.1 &nbsp;Interpretácia krízových scenárov</h3>
+<p><b>Cenový šok energií nemení uhlíkovú stopu, ale mení ekonomiku prevádzky zásadne.</b>
+Zdvojnásobenie ceny elektriny zvyšuje prevádzkové náklady z 2,68 na 5,10 €/kg, teda o 90 %.
+Pri cene 0,50 €/kWh, ktorú európsky trh krátkodobo dosiahol v roku 2022, náklady len na energiu
+dosiahnu 7,29 €/kg produktu. Z toho vyplýva, že <b>energetická efektívnosť nie je pri chove
+hmyzu environmentálnou nadstavbou, ale podmienkou ekonomickej odolnosti.</b></p>
+<p><b>Chladná zima zvyšuje spotrebu aj emisie o približne 12 %.</b> Zníženie vonkajších teplôt
+o 3 K oproti normálu zodpovedá chladnejšiemu roku alebo umiestneniu prevádzky vo vyššej
+nadmorskej výške. Riziko je teda merateľné, ale zvládnuteľné.</p>
+
+<h3>5.2 &nbsp;Interpretácia optimalizačných scenárov</h3>
+<p>Najsilnejším samostatným opatrením je <b>tepelné čerpadlo</b>, ktoré znižuje spotrebu na
+polovicu a emisie o 47 %. Nasleduje <b>rekuperácia tepla z vetrania</b> s úsporou 36 %.
+Zateplenie obalu prináša 8 %, čo je pri veľkých výmenách vzduchu očakávané — pri dvoch výmenách
+za hodinu prevažuje strata vetraním nad stratou obalom. <b>Kombinácia troch opatrení znižuje
+uhlíkovú stopu o 61 % a náklady o 65 %.</b></p>
+<p>Scenár bez sušenia vykazuje najnižšie hodnoty zo všetkých, ale nie je s ostatnými priamo
+porovnateľný, pretože jeho referenčnou jednotkou je kilogram čerstvých lariev s obsahom sušiny
+28 %, nie kilogram sušeného produktu. Uvádza sa preto, že sušenie je energeticky náročný krok
+a tam, kde odberateľ dokáže spracovať čerstvé larvy v krátkom čase, je jeho vynechanie
+najúčinnejšou úsporou vôbec.</p>
+<div class="note">
+<p><b>Kľúčové zistenie štúdie.</b> Scenár O2 ukazuje, že prechod z elektrického kúrenia na
+plynový kotol <b>zníži náklady o 47 %, ale zvýši uhlíkovú stopu o 90 %</b>. Príčinou je nízky
+emisný faktor slovenskej elektriny (0,095 kg CO₂e/kWh) oproti zemnému plynu
+(0,202 kg CO₂e/kWh). V krajinách s uhoľnou elektroenergetikou platí opak. Pre prevádzku
+na Slovensku, ktorá vykazuje podľa CSRD, je preto <b>plynové kúrenie krokom opačným smerom</b>
+a rozhodnutie o zdroji tepla nemožno prevziať zo zahraničných odporúčaní.</p>
+</div>
+
+<h3>5.3 &nbsp;Logistika substrátu</h3>
+<p>Doprava substrátu tvorí v základnom scenári 6 % emisií. Pri rozšírení zberného okruhu zo
+40 na 150 km stúpa jej podiel natoľko, že celková stopa rastie o 16 %. Toto zistenie priamo
+nadväzuje na výstup <b>D2.1 — mapu producentov odpadovej biomasy</b>: hodnota mapy nie je len
+v identifikácii dostupných tokov, ale v možnosti zvoliť lokalitu prevádzky tak, aby prepravné
+vzdialenosti zostali krátke. Rozdiel medzi okruhom 10 km a 150 km predstavuje v uhlíkovej stope
+takmer 22 percentuálnych bodov.</p>
+</section>

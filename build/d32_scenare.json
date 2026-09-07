@@ -1,0 +1,122 @@
+{
+ "Z": {
+  "nazov": "Základný scenár",
+  "kwh_na_kg": 14.578838174857145,
+  "eur_na_kg": 2.6781325727212577,
+  "co2_na_kg": 1.4726753408971431,
+  "energia_kwh": 438932.7622537635,
+  "naklady_rok": 80631.94842601636,
+  "emisie_rok": 44338.612414107534,
+  "produkt_kg": 30107.52688172043
+ },
+ "K1": {
+  "nazov": "Cenový šok: elektrina 0,35 €/kWh",
+  "kwh_na_kg": 14.578838174857145,
+  "eur_na_kg": 5.1025933612,
+  "co2_na_kg": 1.4726753408971431,
+  "energia_kwh": 438932.7622537635,
+  "naklady_rok": 153626.46678881723,
+  "emisie_rok": 44338.612414107534,
+  "produkt_kg": 30107.52688172043
+ },
+ "K2": {
+  "nazov": "Cenový šok: elektrina 0,50 €/kWh",
+  "kwh_na_kg": 14.578838174857145,
+  "eur_na_kg": 7.2894190874285725,
+  "co2_na_kg": 1.4726753408971431,
+  "energia_kwh": 438932.7622537635,
+  "naklady_rok": 219466.38112688175,
+  "emisie_rok": 44338.612414107534,
+  "produkt_kg": 30107.52688172043
+ },
+ "K3": {
+  "nazov": "Chladná zima: vonkajšie teploty o 3 K nižšie",
+  "kwh_na_kg": 16.479952146285715,
+  "eur_na_kg": 3.027367209272686,
+  "co2_na_kg": 1.6532811681828574,
+  "energia_kwh": 496170.60225376347,
+  "naklady_rok": 91146.53963401636,
+  "emisie_rok": 49776.20721410753,
+  "produkt_kg": 30107.52688172043
+ },
+ "O1": {
+  "nazov": "Tepelné čerpadlo namiesto elektrického kúrenia",
+  "kwh_na_kg": 7.270769429642857,
+  "eur_na_kg": 1.335640344225393,
+  "co2_na_kg": 0.7784088101017858,
+  "energia_kwh": 218904.88605376345,
+  "naklady_rok": 40212.82756807635,
+  "emisie_rok": 23435.96417510753,
+  "produkt_kg": 30107.52688172043
+ },
+ "O2": {
+  "nazov": "Plynový kotol namiesto elektrického kúrenia",
+  "kwh_na_kg": 15.503178885714288,
+  "eur_na_kg": 1.4244492665857142,
+  "co2_na_kg": 2.7967934092000006,
+  "energia_kwh": 466762.3750537635,
+  "naklady_rok": 42886.64458537634,
+  "emisie_rok": 84204.53275010755,
+  "produkt_kg": 30107.52688172043
+ },
+ "O3": {
+  "nazov": "Rekuperácia tepla z vetrania 70 %",
+  "kwh_na_kg": 9.003255749257143,
+  "eur_na_kg": 1.653898081138537,
+  "co2_na_kg": 0.9429950104651429,
+  "energia_kwh": 271065.76449376345,
+  "naklady_rok": 49794.78093750434,
+  "emisie_rok": 28391.247626907527,
+  "produkt_kg": 30107.52688172043
+ },
+ "O4": {
+  "nazov": "Zateplenie obalu na U = 0,18 W/(m²·K)",
+  "kwh_na_kg": 13.284506540342855,
+  "eur_na_kg": 2.4403638514609827,
+  "co2_na_kg": 1.3497138356182854,
+  "energia_kwh": 399963.6377737634,
+  "naklady_rok": 73473.32025904034,
+  "emisie_rok": 40636.54558850752,
+  "produkt_kg": 30107.52688172043
+ },
+ "O5": {
+  "nazov": "Bez sušenia — predaj čerstvých lariev",
+  "kwh_na_kg": 3.4807254720000005,
+  "eur_na_kg": 0.6394092692064001,
+  "co2_na_kg": 0.35706891984,
+  "energia_kwh": 348072.54720000003,
+  "naklady_rok": 63940.926920640006,
+  "emisie_rok": 35706.891984,
+  "produkt_kg": 100000.0
+ },
+ "O6": {
+  "nazov": "Kombinácia O1 + O3 + O4",
+  "kwh_na_kg": 5.123921285857143,
+  "eur_na_kg": 0.9412643402119572,
+  "co2_na_kg": 0.5744582364421429,
+  "energia_kwh": 154268.59785376344,
+  "naklady_rok": 28339.141425736343,
+  "emisie_rok": 17295.516796107528,
+  "produkt_kg": 30107.52688172043
+ },
+ "D1": {
+  "nazov": "Substrát z okruhu 150 km namiesto 40 km",
+  "kwh_na_kg": 14.578838174857145,
+  "eur_na_kg": 2.6781325727212577,
+  "co2_na_kg": 1.7138110551828574,
+  "energia_kwh": 438932.7622537635,
+  "naklady_rok": 80631.94842601636,
+  "emisie_rok": 51598.612414107534,
+  "produkt_kg": 30107.52688172043
+ },
+ "D2": {
+  "nazov": "Substrát z okruhu 10 km",
+  "kwh_na_kg": 14.578838174857145,
+  "eur_na_kg": 2.6781325727212577,
+  "co2_na_kg": 1.4069110551828574,
+  "energia_kwh": 438932.7622537635,
+  "naklady_rok": 80631.94842601636,
+  "emisie_rok": 42358.612414107534,
+  "produkt_kg": 30107.52688172043
+ }
+}

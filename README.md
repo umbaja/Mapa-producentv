@@ -1,11 +1,12 @@
 # Databáza odpadovej biomasy KPB2
 
-Dva verejné nástroje projektu, každý na samostatnej stránke:
+Tri verejné nástroje projektu, každý na samostatnej stránke:
 
 | Stránka | Čo obsahuje |
 |---|---|
 | [`index.html`](index.html) — **Kalkulátor a databáza** | 69 substrátov s nutričnou kompozíciou, kalkulátor substrátových zmesí pre výkrm hmyzu s právnym filtrom podľa nar. (ES) 1069/2009, druhy hmyzu, bioakumulácia ťažkých kovov, zdroje |
 | [`mapa.html`](mapa.html) — **Mapa producentov** | 1 043 producentov odpadovej biomasy v SR, 92 druhov odpadu s katalógovými číslami, 9 dráh zhodnotenia, odhad objemu pri 288 prevádzkach |
+| [`kalkulacka.html`](kalkulacka.html) — **Energetika a uhlíková stopa** | Bilančný model prevádzky chovu hmyzu — spotreba energie, prevádzkové náklady a emisie na kg produktu, jedenásť scenárov, porovnanie s inými bielkovinami |
 
 Obe stránky sú statické, bez servera, bez knižníc tretích strán a bez externých požiadaviek —
 fungujú na GitHub Pages, na akomkoľvek hostingu aj po otvorení zo súboru.
@@ -33,6 +34,7 @@ assets/
   data.js               dataset substrátov (generované z kpb2_dataset.sqlite)
   mapa.css  mapa.js     mapa: SVG projekcia, filtre, export
   mapa_data.js          producenti, druhy odpadu, dráhy, hranice okresov (generované)
+  kalk.css  kalk.js      kalkulačka energetickej náročnosti a uhlíkovej stopy
 data/
   kpb2_mapa.sqlite      relačná databáza geografickej vrstvy
   producenti.geojson    bodová vrstva pre QGIS
@@ -44,6 +46,7 @@ build/
   build_mapa.py         zostaví databázu od nuly
   export_mapa.py        vygeneruje assets/mapa_data.js
   qc_mapa.py            17 kontrol kvality
+  model_d32.py          bilančný model energetiky chovu (výstup D3.2)
   ico_check.py          kontrolná číslica IČO nad surovými výpismi
   rpo_raw/              surové výpisy z RPO vrátane použitého dopytu (provenancia)
 ```
@@ -67,6 +70,17 @@ python3 build/export_mapa.py
 - **Prípustnosť dráh** je právny výklad riešiteľského tímu, nie rozhodnutie ŠVPS SR.
 - **Odhad objemu** stojí na typových kapacitách — jednotlivý bod je rádový, súčet za okres
   je spoľahlivejší. Postup nahradenia skutočnými počtami je v `MAPA-README.md`.
+
+### Dokumentácia výstupov
+
+| Výstup | Dokument |
+|---|---|
+| D2.1 — mapa producentov | [`docs/APETBIO_D2-1_Mapa_producentov.pdf`](docs/APETBIO_D2-1_Mapa_producentov.pdf) |
+| D2.2 — kalkulátor kŕmnych dávok | [`docs/APETBIO_D2-2_Kalkulator_krmnych_davok.pdf`](docs/APETBIO_D2-2_Kalkulator_krmnych_davok.pdf) |
+| D3.2 — energetika a uhlíková stopa | [`docs/APETBIO_D3-2_Energetika_uhlikova_stopa.pdf`](docs/APETBIO_D3-2_Energetika_uhlikova_stopa.pdf) |
+
+Zdroje správ sú v `docs/sprava_d21/`, `docs/sprava_d22/` a `docs/sprava_d32/`; každý sa
+prestaví vlastným `build.py`.
 
 Podrobná metodika mapovej vrstvy: [`MAPA-README.md`](MAPA-README.md).
 

@@ -1,0 +1,81 @@
+<section>
+<h2>3 &nbsp;Metodika</h2>
+<h3>3.1 &nbsp;Štruktúra modelu</h3>
+<p>Model je postavený <b>zdola nahor</b> z fyzikálnych parametrov prevádzky. Alternatívou by
+bolo prevziať agregovaný koeficient spotreby energie na kilogram produktu z literatúry, čo je
+jednoduchšie, ale nepoužiteľné pre zadanie tejto štúdie — agregovaný koeficient neumožňuje
+skúmať krízové scenáre, pretože sa v ňom nedá zmeniť jednotlivá položka.</p>
+<p>Potreba tepla sa počíta po mesiacoch ako súčet strát obalom budovy a vetraním:</p>
+<pre>Q_obal   = U &#183; A_obal &#183; (T_in &#8722; T_out)                [W]
+Q_vetranie = 0,34 &#183; V&#775; &#183; (T_in &#8722; T_out) &#183; (1 &#8722; &#951;_rek)   [W]
+Q_teplo  = &#931; max(0; Q_obal + Q_vetranie &#8722; Q_metab) &#183; h   [kWh/rok]</pre>
+<p>kde <span class="mono">U</span> je súčiniteľ prechodu tepla obalu, <span class="mono">A_obal</span>
+obalová plocha, <span class="mono">V&#775;</span> objemový prietok vetracieho vzduchu,
+<span class="mono">&#951;_rek</span> účinnosť rekuperácie a <span class="mono">Q_metab</span>
+metabolické teplo lariev. Konštanta 0,34 Wh/(m³·K) je objemová tepelná kapacita vzduchu.</p>
+<p>Potreba tepla sa následne prevedie na spotrebu energie podľa zvoleného zdroja — pri priamom
+elektrickom kúrení v pomere 1 : 1, pri tepelnom čerpadle delením vykurovacím faktorom, pri
+plynovom kotli delením jeho účinnosťou. Spotreba na sušenie sa počíta z množstva odparenej
+vody a mernej spotreby sušiarne. Emisie a náklady sú súčinom spotreby a príslušných faktorov.</p>
+
+<h3>3.2 &nbsp;Vstupné parametre základného scenára</h3>
+<table>
+<thead><tr><th style="width:46%">Parameter</th><th class="n" style="width:16%">Hodnota</th><th>Poznámka</th></tr></thead>
+<tbody>
+<tr><td colspan="3"><b>Produkcia</b></td></tr>
+<tr><td>Ročná produkcia čerstvých lariev</td><td class="n">100 t</td><td>modelová prevádzka strednej veľkosti</td></tr>
+<tr><td>Sušina lariev</td><td class="n">28 %</td><td>—</td></tr>
+<tr><td>Vlhkosť sušeného produktu</td><td class="n">7 %</td><td>—</td></tr>
+<tr><td colspan="3"><b>Chovný priestor</b></td></tr>
+<tr><td>Podlahová plocha / svetlá výška</td><td class="n">600 m² / 4 m</td><td>—</td></tr>
+<tr><td>Súčiniteľ prechodu tepla obalu</td><td class="n">0,35 W/(m²·K)</td><td>bežná novšia hala</td></tr>
+<tr><td>Obalová plocha</td><td class="n">2,6 × podlaha</td><td>—</td></tr>
+<tr><td>Výmeny vzduchu</td><td class="n">2 1/h</td><td>bez rekuperácie v základnom scenári</td></tr>
+<tr><td>Teplota chovu</td><td class="n">28 °C</td><td>—</td></tr>
+<tr><td>Metabolické teplo lariev</td><td class="n">0 W/m²</td><td>zámerne nulové — viď poznámku nižšie</td></tr>
+<tr><td colspan="3"><b>Elektrická záťaž a sušenie</b></td></tr>
+<tr><td>Osvetlenie</td><td class="n">4 W/m², 12 h/deň</td><td>—</td></tr>
+<tr><td>Technológia</td><td class="n">6 kW, 8 h/deň</td><td>dopravníky, triedenie</td></tr>
+<tr><td>Merná spotreba sušiarne</td><td class="n">1,30 kWh/kg vody</td><td>pásová sušiareň</td></tr>
+<tr><td colspan="3"><b>Doprava a energetické faktory</b></td></tr>
+<tr><td>Substrát na tonu lariev / vzdialenosť</td><td class="n">6 t / 40 km</td><td>—</td></tr>
+<tr><td>Emisný faktor dopravy</td><td class="n">0,11 kg CO₂e/tkm</td><td>nákladné vozidlo</td></tr>
+<tr><td>Cena elektriny</td><td class="n">0,1837 €/kWh</td><td>priemer EÚ, nedomácnosti, 2. polrok 2025</td></tr>
+<tr><td>Cena zemného plynu</td><td class="n">0,0605 €/kWh</td><td>priemer EÚ, nedomácnosti, 2. polrok 2025</td></tr>
+<tr><td>Emisný faktor elektriny SR</td><td class="n">0,095 kg CO₂e/kWh</td><td>priemer z dvoch nezávislých zdrojov</td></tr>
+<tr><td>Emisný faktor zemného plynu</td><td class="n">0,202 kg CO₂e/kWh</td><td>štandardný faktor pre spaľovanie</td></tr>
+</tbody></table>
+<div class="note">
+<p><b>Metabolické teplo lariev je zámerne nastavené na nulu.</b> Larvy v hustom osadení
+produkujú teplo, ktoré časť potreby kúrenia pokryje. Hodnotu sa však nepodarilo prevzať
+z overeného zdroja, a keďže model má slúžiť ako podklad pre rozhodovanie, bola ponechaná
+nulová. Model tak potrebu kúrenia skôr <b>nadhodnocuje</b> než podhodnocuje. Po doplnení
+vlastného merania sa hodnota zadá ako parameter a všetky výsledky sa prepočítajú.</p>
+</div>
+
+<h3>3.3 &nbsp;Klimatické údaje</h3>
+<p>Potreba tepla je počítaná z mesačných priemerných teplôt podľa klimatického normálu
+1991 – 2020 pre stanicu <b>Hurbanovo</b> s ročným priemerom 11,1 °C. Stanica reprezentuje juh
+Slovenska, kde je sústredená väčšina potravinárskych prevádzok, teda aj potenciálnych
+dodávateľov substrátu identifikovaných vo výstupe D2.1.</p>
+<table>
+<thead><tr><th>Mesiac</th><th class="n">I</th><th class="n">II</th><th class="n">III</th><th class="n">IV</th><th class="n">V</th><th class="n">VI</th><th class="n">VII</th><th class="n">VIII</th><th class="n">IX</th><th class="n">X</th><th class="n">XI</th><th class="n">XII</th></tr></thead>
+<tbody><tr><td>Priemerná teplota (°C)</td><td class="n">0,1</td><td class="n">1,8</td><td class="n">6,1</td><td class="n">12,0</td><td class="n">16,6</td><td class="n">20,3</td><td class="n">22,0</td><td class="n">21,4</td><td class="n">16,1</td><td class="n">10,8</td><td class="n">5,9</td><td class="n">1,0</td></tr></tbody>
+</table>
+<p>Podstatné je, že <b>vnútorná teplota 28 °C prevyšuje vonkajšiu po celý rok</b>, aj v júli.
+Chov hmyzu preto na Slovensku vyžaduje temperovanie nepretržite; letné mesiace potrebu tepla
+znižujú, ale neodstraňujú. Toto je zásadný rozdiel oproti tropickým lokalitám, z ktorých
+pochádza väčšina publikovaných prevádzkových údajov.</p>
+
+<h3>3.4 &nbsp;Emisný faktor slovenskej elektriny</h3>
+<p>Emisný faktor elektriny je pri tejto štúdii najcitlivejším jediným parametrom, pretože
+rozhoduje o poradí variantov vykurovania. Použitá hodnota <b>0,095 kg CO₂e/kWh</b> je odvodená
+z dvoch nezávislých zdrojov, ktoré pre slovenskú sieť uvádzajú <b>93 g CO₂e/kWh</b> (priemer
+roka 2025) a <b>97 g CO₂e/kWh</b> (kĺzavý priemer za obdobie jún 2025 – máj 2026). Rozdiel
+zodpovedá odlišnému referenčnému obdobiu, nie rozporu medzi zdrojmi.</p>
+<p>Nízka hodnota je dôsledkom skladby slovenskej výroby elektriny, v ktorej jadrová energia
+predstavuje približne 65 % a obnoviteľné zdroje ďalších 18 až 21 %. Podiel nízkouhlíkových
+zdrojov presahuje 85 %. <b>Táto skutočnosť zásadne mení poradie technologických variantov
+oproti krajinám s uhoľnou alebo plynovou elektroenergetikou</b> a je hlavným zistením
+tejto štúdie.</p>
+</section>

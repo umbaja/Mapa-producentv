@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="sk"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kalkulačka energetickej náročnosti chovu hmyzu — KPB2</title>
+<meta name="description" content="Energetická a finančná náročnosť chovu hmyzu s uhlíkovou stopou. Bilančný model s vlastnými parametrami prevádzky, krízové scenáre a porovnanie s inými bielkovinovými zdrojmi. Výstup D3.2 projektu APETBIO.">
+<link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="assets/kalk.css">
+</head><body>
+<div class="sitebar"><div class="in">
+  <div class="brand">Databáza odpadovej biomasy KPB2<small>Biotransformácia odpadov na potraviny a krmivá</small></div>
+  <nav>
+    <a href="index.html">Kalkulátor a databáza</a>
+    <a href="mapa.html">Mapa producentov</a>
+    <a href="kalkulacka.html" aria-current="page">Energetika a uhlíková stopa</a>
+  </nav>
+</div></div>
+
+<div class="wrap">
+<h1>Energetická náročnosť a uhlíková stopa chovu hmyzu</h1>
+<p class="lede">Bilančný model prevádzky chovu hmyzu — spotreba energie, prevádzkové náklady
+a emisie skleníkových plynov na kilogram produktu. Model počíta zdola nahor z fyzikálnych
+parametrov haly, nie z jedného agregovaného koeficientu, takže sa dá overiť aj upraviť po
+jednotlivých položkách. Hranica systému je <b>brána – brána</b>; substrát je odpad, ktorému sa
+nepriraďuje záťaž z jeho výroby.</p>
+
+<div class="layout">
+<div>
+  <form class="card" id="vstupy" onsubmit="return false">
+    <h2>Produkcia</h2>
+    <div class="grp">
+      <label class="f">Ročná produkcia čerstvých lariev <span class="u">t/rok</span></label>
+      <input type="number" id="larvy" value="100" data-def="100" step="1" min="0.1">
+      <div class="two">
+        <div><label class="f">Sušina lariev <span class="u">%</span></label>
+          <input type="number" id="susinaL" value="28" data-def="28" step="0.5"></div>
+        <div><label class="f">Vlhkosť produktu <span class="u">%</span></label>
+          <input type="number" id="vlhkostP" value="7" data-def="7" step="0.5"></div>
+      </div>
+      <label class="chk"><input type="checkbox" id="susit" checked data-def="1"> Sušiť produkt</label>
+      <label class="f">Obsah bielkovín v produkte <span class="u">% sušiny</span></label>
+      <input type="number" id="bielkoviny" value="50" data-def="50" step="1">
+    </div>
+
+    <h2 class="grp">Chovný priestor</h2>
+    <div>
+      <div class="two">
+        <div><label class="f">Podlahová plocha <span class="u">m²</span></label>
+          <input type="number" id="plocha" value="600" data-def="600" step="10"></div>
+        <div><label class="f">Svetlá výška <span class="u">m</span></label>
+          <input type="number" id="vyska" value="4" data-def="4" step="0.1"></div>
+      </div>
+      <div class="two">
+        <div><label class="f">Súčiniteľ prechodu tepla <span class="u">W/(m²·K)</span></label>
+          <input type="number" id="uhod" value="0.35" data-def="0.35" step="0.01"></div>
+        <div><label class="f">Obalová plocha <span class="u">× podlaha</span></label>
+          <input type="number" id="obalF" value="2.6" data-def="2.6" step="0.1"></div>
+      </div>
+      <div class="two">
+        <div><label class="f">Výmeny vzduchu <span class="u">1/h</span></label>
+          <input type="number" id="vymeny" value="2" data-def="2" step="0.1"></div>
+        <div><label class="f">Rekuperácia tepla <span class="u">%</span></label>
+          <input type="number" id="rekup" value="0" data-def="0" step="5" min="0" max="95"></div>
+      </div>
+      <div class="two">
+        <div><label class="f">Teplota chovu <span class="u">°C</span></label>
+          <input type="number" id="tin" value="28" data-def="28" step="0.5"></div>
+        <div><label class="f">Posun vonkajšej teploty <span class="u">K</span></label>
+          <input type="number" id="dTposun" value="0" data-def="0" step="0.5"></div>
+      </div>
+      <label class="f">Metabolické teplo lariev <span class="u">W/m²</span></label>
+      <input type="number" id="meta" value="0" data-def="0" step="1">
+    </div>
+
+    <h2 class="grp">Zdroj tepla</h2>
+    <div>
+      <select id="zdroj" data-def="elektrina">
+        <option value="elektrina">priame elektrické kúrenie</option>
+        <option value="tepelne_cerpadlo">tepelné čerpadlo</option>
+        <option value="plyn">plynový kotol</option>
+      </select>
+      <div class="two">
+        <div><label class="f">Vykurovací faktor <span class="u">COP</span></label>
+          <input type="number" id="cop" value="3.2" data-def="3.2" step="0.1"></div>
+        <div><label class="f">Účinnosť kotla <span class="u">–</span></label>
+          <input type="number" id="ucinnost" value="0.92" data-def="0.92" step="0.01"></div>
+      </div>
+    </div>
+
+    <h2 class="grp">Elektrická záťaž a sušenie</h2>
+    <div>
+      <div class="two">
+        <div><label class="f">Osvetlenie <span class="u">W/m²</span></label>
+          <input type="number" id="osvW" value="4" data-def="4" step="0.5"></div>
+        <div><label class="f">Prevádzka <span class="u">h/deň</span></label>
+          <input type="number" id="osvH" value="12" data-def="12" step="1"></div>
+      </div>
+      <div class="two">
+        <div><label class="f">Technológia <span class="u">kW</span></label>
+          <input type="number" id="techKw" value="6" data-def="6" step="0.5"></div>
+        <div><label class="f">Prevádzka <span class="u">h/deň</span></label>
+          <input type="number" id="techH" value="8" data-def="8" step="1"></div>
+      </div>
+      <label class="f">Merná spotreba sušiarne <span class="u">kWh/kg odparenej vody</span></label>
+      <input type="number" id="susKwh" value="1.30" data-def="1.30" step="0.05">
+    </div>
+
+    <h2 class="grp">Doprava substrátu</h2>
+    <div>
+      <div class="two">
+        <div><label class="f">Substrát na 1 t lariev <span class="u">t</span></label>
+          <input type="number" id="substratPomer" value="6" data-def="6" step="0.5"></div>
+        <div><label class="f">Prepravná vzdialenosť <span class="u">km</span></label>
+          <input type="number" id="dopravaKm" value="40" data-def="40" step="5"></div>
+      </div>
+      <label class="f">Emisný faktor dopravy <span class="u">kg CO₂e/tkm</span></label>
+      <input type="number" id="dopravaEf" value="0.11" data-def="0.11" step="0.01">
+    </div>
+
+    <h2 class="grp">Ceny a emisné faktory</h2>
+    <div>
+      <div class="two">
+        <div><label class="f">Elektrina <span class="u">€/kWh</span></label>
+          <input type="number" id="cenaEl" value="0.1837" data-def="0.1837" step="0.01"></div>
+        <div><label class="f">Zemný plyn <span class="u">€/kWh</span></label>
+          <input type="number" id="cenaPlyn" value="0.0605" data-def="0.0605" step="0.005"></div>
+      </div>
+      <div class="two">
+        <div><label class="f">Elektrina <span class="u">kg CO₂e/kWh</span></label>
+          <input type="number" id="efEl" value="0.095" data-def="0.095" step="0.005"></div>
+        <div><label class="f">Zemný plyn <span class="u">kg CO₂e/kWh</span></label>
+          <input type="number" id="efPlyn" value="0.202" data-def="0.202" step="0.005"></div>
+      </div>
+      <div style="display:flex;gap:8px;margin-top:6px">
+        <button type="button" id="bReset">Pôvodné hodnoty</button>
+        <button type="button" id="bCSV" class="primary">Export CSV</button>
+      </div>
+    </div>
+  </form>
+</div>
+
+<div>
+  <div class="card">
+    <h2>Výsledok</h2>
+    <div class="kpi" id="kpi"></div>
+    <div id="poznamka"></div>
+  </div>
+  <div class="card">
+    <h2>Rozklad spotreby energie</h2>
+    <div id="energia"></div>
+  </div>
+  <div class="card">
+    <h2>Rozklad emisií</h2>
+    <div id="emisie"></div>
+  </div>
+  <div class="card">
+    <h2>Scenáre</h2>
+    <p class="small" style="margin-top:0">Každý scenár je zmena jedného alebo niekoľkých
+    parametrov oproti aktuálnemu zadaniu vyššie. Stĺpec Δ emisií ukazuje zmenu uhlíkovej stopy
+    na kilogram produktu.</p>
+    <div id="scenare"></div>
+  </div>
+  <div class="card">
+    <h2>Porovnanie s inými zdrojmi bielkovín</h2>
+    <div id="porovnanie"></div>
+  </div>
+  <div class="card">
+    <h2>O modeli</h2>
+    <p class="small">
+      <b>Klimatické údaje</b> — normál 1991–2020, stanica Hurbanovo, ročný priemer 11,1 °C.
+      Potreba tepla sa počíta po mesiacoch ako strata obalom budovy a vetraním.<br><br>
+      <b>Emisný faktor elektriny</b> 0,095 kg CO₂e/kWh vychádza z dvoch nezávislých zdrojov,
+      ktoré pre slovenskú sieť uvádzajú 93 a 97 g CO₂e/kWh. Nízka hodnota je dôsledkom podielu
+      jadrovej energie, ktorý presahuje 65 %.<br><br>
+      <b>Metabolické teplo lariev</b> je predvolene nastavené na nulu. Larvy v hustom osadení
+      teplo skutočne produkujú, ale hodnota nebola prevzatá z overeného zdroja; predvolené
+      nastavenie preto potrebu kúrenia skôr nadhodnocuje než podhodnocuje.<br><br>
+      <b>Hranica systému</b> je brána – brána. Nezahŕňa výstavbu budovy, výrobu zariadení,
+      výrobu substrátu ani distribúciu produktu. Porovnanie s inými bielkovinami je preto
+      orientačné — referenčné hodnoty zahŕňajú aj výrobu krmiva.<br><br>
+      Model je totožný so skriptom <span style="font-family:monospace">build/model_d32.py</span>
+      v repozitári projektu. Podrobná metodika a zdroje sú v štúdii D3.2.
+    </p>
+  </div>
+</div>
+</div>
+</div>
+<script src="assets/kalk.js"></script>
+</body></html>

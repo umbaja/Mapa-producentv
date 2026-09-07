@@ -1,0 +1,103 @@
+<section class="pb">
+<h2>8 &nbsp;Verejná kalkulačka</h2>
+<p>Súčasťou výstupu D3.2 je verejne dostupná kalkulačka umiestnená na stránke projektu
+(<span class="fill">doplňte URL</span>). Prevádzkovateľ v nej zadá vlastné parametre — veľkosť
+a stavebné vlastnosti haly, teplotu chovu, zdroj tepla, produkciu, spôsob sušenia, prepravné
+vzdialenosti a aktuálne ceny energií — a získa energetickú, nákladovú a emisnú bilanciu svojej
+prevádzky vrátane rozkladu na jednotlivé zložky a porovnania scenárov.</p>
+<figure>
+ <img src="IMG_CELA">
+ <figcaption>Obrázok 1 &nbsp;Kalkulačka energetickej náročnosti a uhlíkovej stopy. Vľavo vstupné
+ parametre rozdelené do skupín, vpravo výsledok a rozklad spotreby na jednotlivé zložky.</figcaption>
+</figure>
+<figure>
+ <img src="IMG_SCENARE">
+ <figcaption>Obrázok 2 &nbsp;Scenárová tabuľka. Každý scenár je prepočítaný z parametrov, ktoré
+ používateľ práve zadal, takže porovnanie platí pre jeho konkrétnu prevádzku, nie pre modelovú.</figcaption>
+</figure>
+<p>Kalkulačka je rovnako ako ostatné dva výstupy projektu <b>statická stránka bez servera a bez
+knižníc tretích strán</b>, takže funguje aj po uložení na disk a bez pripojenia k internetu.
+Vstupné údaje zostávajú v prehliadači používateľa a nikam sa neodosielajú, čo je pri údajoch
+o vlastnej prevádzke podstatné.</p>
+<div class="note">
+<p><b>Krížové overenie výpočtu.</b> Model je implementovaný dvakrát nezávisle — ako skript
+v jazyku Python (<span class="mono">build/model_d32.py</span>), z ktorého sú vypočítané všetky
+hodnoty v tejto štúdii, a ako výpočtové jadro kalkulačky v jazyku JavaScript. Obe implementácie
+dávajú pre základný scenár aj pre všetkých jedenásť scenárov <b>zhodné výsledky</b>
+(14,58 kWh/kg, 2,68 €/kg, 1,473 kg CO₂e/kg). Zhoda dvoch nezávisle napísaných implementácií je
+kontrolou proti chybe v prepise vzorcov.</p>
+</div>
+
+<h2>9 &nbsp;Obmedzenia štúdie</h2>
+<table>
+<thead><tr><th style="width:32%">Obmedzenie</th><th>Popis a dôsledok</th></tr></thead>
+<tbody>
+<tr><td>Modelová, nie meraná štúdia</td><td>Vlastné merania spotreby z experimentálnej chovnej linky neboli k dispozícii. Všetky vstupy sú odvodené z fyzikálnych parametrov a verejných zdrojov. Absolútne hodnoty preto majú charakter rádového odhadu; relatívne porovnania scenárov sú spoľahlivejšie, pretože chyba vstupu sa vo väčšine prípadov prejaví v oboch porovnávaných variantoch rovnako.</td></tr>
+<tr><td>Metabolické teplo nezapočítané</td><td>Potreba kúrenia je preto nadhodnotená o neznámu, ale nie zanedbateľnú hodnotu. Ide o najvýznamnejšiu jednotlivú neistotu modelu.</td></tr>
+<tr><td>Merná spotreba sušiarne</td><td>Hodnota 1,30 kWh na kilogram odparenej vody je typová pre pásovú sušiareň, nie meraná na konkrétnom zariadení. Rozdiel medzi technológiami sušenia je pritom značný.</td></tr>
+<tr><td>Ceny energií</td><td>Použité sú priemery EÚ pre nedomácnosti za druhý polrok 2025. Skutočná cena konkrétnej prevádzky závisí od zmluvy a odberového diagramu a môže sa líšiť o desiatky percent. Cena je preto v kalkulačke vstupným parametrom.</td></tr>
+<tr><td>Emisný faktor elektriny</td><td>Ročný priemer nezohľadňuje, že uhlíková náročnosť siete kolíše počas dňa a roka. Prevádzka s možnosťou posunu spotreby môže dosiahnuť nižšiu hodnotu, než model predpokladá.</td></tr>
+<tr><td>Alokácia záťaže substrátu</td><td>Odpadovému substrátu sa nepriraďuje záťaž z jeho výroby. Ide o obhájiteľnú, ale nie jedinú možnú voľbu; pri odlišnej alokácii by výsledky boli podstatne vyššie.</td></tr>
+<tr><td>Nezahrnuté fázy životného cyklu</td><td>Výstavba budovy, výroba technológie, nakladanie s odpadom z prevádzky a distribúcia produktu nie sú zahrnuté.</td></tr>
+<tr><td>Jedna klimatická lokalita</td><td>Model používa normál pre Hurbanovo. Pre prevádzku v severnejšej alebo vyššie položenej lokalite je potrebné zadať vlastné teploty; kalkulačka to umožňuje posunom teplotného radu.</td></tr>
+</tbody></table>
+
+<h2>10 &nbsp;Ďalší postup</h2>
+<ol>
+<li><b>Merať spotrebu na experimentálnej chovnej linke.</b> Samostatné meranie kúrenia,
+vetrania a sušenia počas aspoň jedného zimného a jedného letného cyklu nahradí najväčšiu
+neistotu modelu vlastnými údajmi.</li>
+<li><b>Zmerať metabolické teplo lariev</b> pri prevádzkovej hustote osadenia. Ide o jediný
+parameter, ktorý môže výsledok posunúť systematicky jedným smerom.</li>
+<li><b>Overiť mernú spotrebu sušiarne</b> na konkrétnom zariadení, ktoré projekt používa.</li>
+<li><b>Doplniť dennú a sezónnu krivku emisného faktora siete</b> a vyhodnotiť potenciál
+posunu spotreby do hodín s nižšou uhlíkovou náročnosťou.</li>
+<li><b>Prepojiť kalkulačku s mapou producentov (D2.1)</b> tak, aby sa prepravná vzdialenosť
+odvodila z reálnej polohy dostupných producentov namiesto ručného zadania.</li>
+<li><b>Rozšíriť model o investičné náklady</b> a vypočítať návratnosť opatrení O1, O3 a O4,
+ktoré štúdia identifikovala ako najúčinnejšie.</li>
+</ol>
+
+<h2>11 &nbsp;Záver</h2>
+<p>Štúdia kvantifikovala energetickú a finančnú náročnosť chovu hmyzu na odpadovej biomase
+v podmienkach Slovenska a vyjadrila ju v uhlíkovej stope na kilogram produktu. Pre modelovú
+prevádzku so 100 tonami čerstvých lariev ročne vychádza <b>14,58 kWh, 2,68 € a 1,473 kg CO₂e
+na kilogram sušeného produktu</b>, pričom temperovanie chovného priestoru tvorí takmer tri
+štvrtiny spotreby a sušenie ďalšiu pätinu.</p>
+<p>Z jedenástich analyzovaných scenárov vyplývajú tri závery s praktickým dosahom.
+<b>Po prvé</b>, cenový šok energií nemení uhlíkovú stopu, ale zdvojnásobuje až strojnásobuje
+prevádzkové náklady, takže energetická efektívnosť je podmienkou ekonomickej odolnosti, nie
+environmentálnou nadstavbou. <b>Po druhé</b>, kombinácia tepelného čerpadla, rekuperácie tepla
+z vetrania a zateplenia obalu znižuje uhlíkovú stopu o 61 % a náklady o 65 %; ide o dostupné
+a overené technológie. <b>Po tretie</b>, a to je zistenie špecifické pre Slovensko, prechod na
+plynové kúrenie síce zníži náklady takmer o polovicu, ale uhlíkovú stopu zvýši o 90 %, pretože
+slovenská elektrina má vďaka jadrovej a obnoviteľnej výrobe emisný faktor 0,095 kg CO₂e/kWh
+oproti 0,202 kg CO₂e/kWh pre zemný plyn. <b>Odporúčania prevzaté z krajín s uhoľnou
+elektroenergetikou tu preto neplatia.</b></p>
+<p>Doprava substrátu tvorí 6 % emisií pri zbernom okruhu 40 km a 22 % pri okruhu 150 km, čím
+štúdia priamo prepája energetickú bilanciu s výstupom D2.1 — voľba lokality prevádzky vzhľadom
+na dostupných producentov odpadovej biomasy je merateľnou položkou uhlíkovej stopy.</p>
+<p>Výsledky sú vyjadrené v štruktúre zodpovedajúcej štandardu ESRS E1, teda použiteľné pre
+vykazovanie podľa CSRD. Štúdia je modelová a jej absolútne hodnoty majú charakter rádového
+odhadu; po doplnení vlastných meraní z experimentálnej chovnej linky sa dá prepočítať bez
+zmeny štruktúry.</p>
+
+<div class="note">
+<p><b>Poznámka k doplneniu.</b> Pred odovzdaním je potrebné doplniť polia vyznačené žltou
+farbou: meno spracovateľa, dátum vyhotovenia a verejnú adresu kalkulačky.</p>
+</div>
+
+<h2>12 &nbsp;Zdroje</h2>
+<table>
+<thead><tr><th style="width:44%">Zdroj</th><th>Prevzaté údaje</th></tr></thead>
+<tbody>
+<tr><td>Oonincx, D. G. A. B., de Boer, I. J. M. (2012). Environmental Impact of the Production of Mealworms as a Protein Source for Humans — A Life Cycle Assessment. <i>PLOS ONE</i> 7(12): e51145.<br><span class="mono">10.1371/journal.pone.0051145</span></td><td>uhlíková stopa a spotreba energie na kg jedlej bielkoviny; podiel kúrenia, elektriny a krmiva; referenčné hodnoty pre mlieko, hydinu, bravčové a hovädzie mäso</td></tr>
+<tr><td>Dreyer, M. a kol. (2021). Environmental life cycle assessment of yellow mealworm production for human consumption in Austria. <i>The International Journal of Life Cycle Assessment</i> 26: 2232–2247.<br><span class="mono">10.1007/s11367-021-01980-4</span></td><td>nezávislé porovnanie uhlíkovej stopy a podielu jednotlivých fáz životného cyklu v európskych podmienkach</td></tr>
+<tr><td>Mertenat, A., Diener, S., Zurbrügg, C. (2019). Black Soldier Fly biowaste treatment — Assessment of global warming potential. <i>Waste Management</i> 84: 173–181.<br><span class="mono">10.1016/j.wasman.2018.11.040</span></td><td>referenčná spotreba elektriny a uhlíková stopa spracovania biologického odpadu larvami</td></tr>
+<tr><td>Nugroho, R. A. a kol. (2023). Bioconversion of biowaste by black soldier fly larvae for dried larvae production: A life cycle assessment. <i>F1000Research</i> 12: 814.<br><span class="mono">10.12688/f1000research.132371.1</span></td><td>podiel sušenia na celkovej spotrebe energie</td></tr>
+<tr><td>Eurostat — štatistika cien elektriny a zemného plynu, 2. polrok 2025</td><td>ceny energií pre nedomácnosti</td></tr>
+<tr><td>Nowtricity a Low Carbon Power — uhlíková náročnosť slovenskej elektrizačnej sústavy</td><td>emisný faktor elektriny 93 a 97 g CO₂e/kWh z dvoch nezávislých zdrojov</td></tr>
+<tr><td>Klimatický normál 1991 – 2020, stanica Hurbanovo</td><td>mesačné priemerné teploty vzduchu</td></tr>
+<tr><td>Smernica (EÚ) 2022/2464 (CSRD) a štandard ESRS E1</td><td>štruktúra vykazovania emisií podľa rozsahov 1, 2 a 3</td></tr>
+</tbody></table>
+</section>
