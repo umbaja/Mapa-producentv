@@ -287,11 +287,16 @@ function exportCSV(){
   document.body.appendChild(a); a.click(); a.remove();
 }
 
+function syncViditelnost(){
+  $("#fvDetail").hidden = !$("#fvAktivna").checked;
+  $("#znzDetail").hidden = !$("#znzAktivne").checked;
+}
+
 document.addEventListener("input", function(e){
   if (e.target.closest("#vstupy")) prepocitaj();
 });
 document.addEventListener("change", function(e){
-  if (e.target.closest("#vstupy")) prepocitaj();
+  if (e.target.closest("#vstupy")) { syncViditelnost(); prepocitaj(); }
 });
 $("#bCSV").addEventListener("click", exportCSV);
 $("#bReset").addEventListener("click", function(){
@@ -299,7 +304,9 @@ $("#bReset").addEventListener("click", function(){
     if (el.type === "checkbox") el.checked = el.dataset.def === "1";
     else el.value = el.dataset.def;
   });
+  syncViditelnost();
   prepocitaj();
 });
+syncViditelnost();
 prepocitaj();
 })();
