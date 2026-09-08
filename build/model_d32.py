@@ -59,6 +59,21 @@ ZAKLAD = dict(
     cop_tepelne_cerpadlo= 3.2,
     ucinnost_kotla      = 0.92,
 
+    # --- fotovoltaika (kryje elektrickú spotrebu vcelku, nie len kúrenie) ---
+    fv_aktivna          = False,
+    fv_kwp              = 50.0,    # inštalovaný výkon
+    fv_vynos_kwh_kwp    = 1100.0,  # kWh/kWp/rok - typický výnos strešnej FV v SR
+    fv_podiel_spotreby_pct = 35.0, # % výroby skonzumovanej na mieste bez batérie (úroveň D, odhad)
+    cena_fv             = 0.03,    # €/kWh - orientačná LCOE vlastnej výroby
+    ef_fv               = 0.04,    # kg CO2e/kWh - embodied emisie výroby panelov (harmonizované LCA)
+
+    # --- zvyškové teplo zo splyňovacej stanice (spaľuje odpad nepoužiteľný na biotransformáciu) ---
+    znz_aktivne         = False,
+    znz_vykon_kw        = 20.0,    # nepretržitý tepelný výkon dostupný stanici
+    znz_ucinnost_pct    = 90.0,    # % odovzdania tepla po stratách vo výmenníku/rozvode
+    cena_znz            = 0.0,     # €/kWh - odpad bez priradenej záťaže, ako substrát
+    ef_znz              = 0.0,     # kg CO2e/kWh - odpad bez priradenej záťaže, ako substrát
+
     # --- ceny a emisné faktory ---
     cena_elektrina      = 0.1837,  # €/kWh - priemer EÚ, nedomácnosti, 2. polrok 2025
     cena_plyn           = 0.0605,  # €/kWh - priemer EÚ, nedomácnosti, 2. polrok 2025
@@ -90,24 +105,37 @@ def bilancia(p):
     prietok_m3_h = objem_m3 * o['vymeny_vzduchu_h']
     ucin_rek = 1.0 - o['rekuperacia_pct'] / 100.0
 
-    teplo_kwh = 0.0
+    teplo_mesacne = []
     for t_out, dni in zip(TEPLOTY_MESACNE, DNI_MESIACE):
         dT = o['teplota_vnutorna'] - t_out
-        if dT <= 0:
-            continue
-        q_obal = o['u_hodnota'] * obal_m2 * dT                      # W
-        q_vetr = 0.34 * prietok_m3_h * dT * ucin_rek                # W
-        q_meta = o['metabolicke_teplo_w_m2'] * o['plocha_m2']       # W (zisk)
-        q_net = max(0.0, q_obal + q_vetr - q_meta)
-        teplo_kwh += q_net * dni * 24.0 / 1000.0
+        q_net = 0.0
+        if dT > 0:
+            q_obal = o['u_hodnota'] * obal_m2 * dT                      # W
+            q_vetr = 0.34 * prietok_m3_h * dT * ucin_rek                # W
+            q_meta = o['metabolicke_teplo_w_m2'] * o['plocha_m2']       # W (zisk)
+            q_net = max(0.0, q_obal + q_vetr - q_meta)
+        teplo_mesacne.append(q_net * dni * 24.0 / 1000.0)
+    teplo_kwh = sum(teplo_mesacne)
 
-    # --- prevod tepla na spotrebu podľa zdroja ---
+    # --- zvyškové teplo zo splyňovacej stanice: nepretržitý výkon, kryje časť mesačnej potreby ---
+    teplo_znz_kwh = 0.0
+    teplo_zvysok_kwh = teplo_kwh
+    if o['znz_aktivne']:
+        teplo_znz_kwh = 0.0
+        teplo_zvysok_kwh = 0.0
+        for q_mesiac, dni in zip(teplo_mesacne, DNI_MESIACE):
+            dostupne = o['znz_vykon_kw'] * (o['znz_ucinnost_pct'] / 100.0) * dni * 24.0
+            kryte = min(q_mesiac, dostupne)
+            teplo_znz_kwh += kryte
+            teplo_zvysok_kwh += q_mesiac - kryte
+
+    # --- prevod zvyšnej potreby tepla na spotrebu podľa zdroja ---
     if o['zdroj_tepla'] == 'tepelne_cerpadlo':
-        kur_el, kur_plyn = teplo_kwh / o['cop_tepelne_cerpadlo'], 0.0
+        kur_el, kur_plyn = teplo_zvysok_kwh / o['cop_tepelne_cerpadlo'], 0.0
     elif o['zdroj_tepla'] == 'plyn':
-        kur_el, kur_plyn = 0.0, teplo_kwh / o['ucinnost_kotla']
+        kur_el, kur_plyn = 0.0, teplo_zvysok_kwh / o['ucinnost_kotla']
     else:
-        kur_el, kur_plyn = teplo_kwh, 0.0
+        kur_el, kur_plyn = teplo_zvysok_kwh, 0.0
 
     # --- ostatná elektrina ---
     osvetlenie_kwh = o['osvetlenie_w_m2'] * o['plocha_m2'] / 1000.0 * o['osvetlenie_h_den'] * 365.0
@@ -122,27 +150,41 @@ def bilancia(p):
     doprava_tkm = substrat_t * o['doprava_km']
     doprava_co2 = doprava_tkm * o['doprava_kg_co2_tkm']
 
+    # --- fotovoltaika: kryje elektrickú spotrebu vcelku, nie je viazaná na konkrétnu záťaž ---
+    fv_vyroba_kwh = 0.0
+    fv_vlastna_kwh = 0.0
+    if o['fv_aktivna']:
+        fv_vyroba_kwh = o['fv_kwp'] * o['fv_vynos_kwh_kwp']
+        fv_vlastna_kwh = min(fv_vyroba_kwh * (o['fv_podiel_spotreby_pct'] / 100.0), el_kwh)
+    el_siet_kwh = el_kwh - fv_vlastna_kwh
+    ef_blend = (el_siet_kwh * o['ef_elektrina'] + fv_vlastna_kwh * o['ef_fv']) / el_kwh if el_kwh > 0 else o['ef_elektrina']
+    cena_blend = (el_siet_kwh * o['cena_elektrina'] + fv_vlastna_kwh * o['cena_fv']) / el_kwh if el_kwh > 0 else o['cena_elektrina']
+
     # --- náklady a emisie ---
-    naklady = el_kwh * o['cena_elektrina'] + plyn_kwh * o['cena_plyn']
-    emisie = el_kwh * o['ef_elektrina'] + plyn_kwh * o['ef_plyn'] + doprava_co2
+    naklady = el_kwh * cena_blend + plyn_kwh * o['cena_plyn'] + teplo_znz_kwh * o['cena_znz']
+    emisie = el_kwh * ef_blend + plyn_kwh * o['ef_plyn'] + teplo_znz_kwh * o['ef_znz'] + doprava_co2
 
     zlozky = {
-        'kúrenie':    kur_el * o['ef_elektrina'] + kur_plyn * o['ef_plyn'],
-        'sušenie':    susenie_kwh * o['ef_elektrina'],
-        'osvetlenie': osvetlenie_kwh * o['ef_elektrina'],
-        'technológia':technologia_kwh * o['ef_elektrina'],
+        'kúrenie (nákup)': kur_el * ef_blend + kur_plyn * o['ef_plyn'],
+        'zvyškové teplo':  teplo_znz_kwh * o['ef_znz'],
+        'sušenie':    susenie_kwh * ef_blend,
+        'osvetlenie': osvetlenie_kwh * ef_blend,
+        'technológia':technologia_kwh * ef_blend,
         'doprava':    doprava_co2,
     }
     energia_zlozky = {
-        'kúrenie': kur_el + kur_plyn, 'sušenie': susenie_kwh,
-        'osvetlenie': osvetlenie_kwh, 'technológia': technologia_kwh,
+        'kúrenie (nákup)': kur_el + kur_plyn, 'zvyškové teplo': teplo_znz_kwh,
+        'sušenie': susenie_kwh, 'osvetlenie': osvetlenie_kwh, 'technológia': technologia_kwh,
     }
+    energia_kwh = el_kwh + plyn_kwh + teplo_znz_kwh
 
     return dict(
         produkt_kg=produkt_kg, voda_odparena_kg=voda_odparena_kg,
-        teplo_kwh=teplo_kwh, el_kwh=el_kwh, plyn_kwh=plyn_kwh,
-        energia_kwh=el_kwh + plyn_kwh,
-        kwh_na_kg=(el_kwh + plyn_kwh) / produkt_kg,
+        teplo_kwh=teplo_kwh, teplo_znz_kwh=teplo_znz_kwh,
+        fv_vyroba_kwh=fv_vyroba_kwh, fv_vlastna_kwh=fv_vlastna_kwh,
+        el_kwh=el_kwh, plyn_kwh=plyn_kwh,
+        energia_kwh=energia_kwh,
+        kwh_na_kg=energia_kwh / produkt_kg,
         eur_na_kg=naklady / produkt_kg,
         co2_na_kg=emisie / produkt_kg,
         naklady_rok=naklady, emisie_rok=emisie,
@@ -166,6 +208,9 @@ SCENARE = [
     ("O6", "Kombinácia O1 + O3 + O4", dict(zdroj_tepla='tepelne_cerpadlo', rekuperacia_pct=70.0, u_hodnota=0.18)),
     ("D1", "Substrát z okruhu 150 km namiesto 40 km", dict(doprava_km=150.0)),
     ("D2", "Substrát z okruhu 10 km", dict(doprava_km=10.0)),
+    ("F1", "Fotovoltaika 50 kWp", dict(fv_aktivna=True)),
+    ("F2", "Zvyškové teplo zo splyňovania, 20 kW", dict(znz_aktivne=True)),
+    ("F3", "FV 50 kWp + zvyškové teplo 20 kW", dict(fv_aktivna=True, znz_aktivne=True)),
 ]
 
 def spusti_scenar(zmeny):
@@ -199,4 +244,4 @@ if __name__ == '__main__':
     print(f"  {'SPOLU':<14}{z['emisie_rok']:>12,.0f}".replace(",", " "))
     print(f"\nProdukt: {z['produkt_kg']:,.0f} kg sušeného produktu za rok".replace(",", " "))
     print(f"Odparená voda: {z['voda_odparena_kg']:,.0f} kg/rok".replace(",", " "))
-    json.dump(vysledky, open('build/d32_scenare.json','w'), ensure_ascii=False, indent=1)
+    json.dump(vysledky, open('build/d32_scenare.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

@@ -85,6 +85,53 @@ nepriraďuje záťaž z jeho výroby.</p>
         <div><label class="f">Účinnosť kotla <span class="u">–</span></label>
           <input type="number" id="ucinnost" value="0.92" data-def="0.92" step="0.01"></div>
       </div>
+      <p class="small" style="margin:2px 0 0">Zdroj tepla vyššie pokrýva zvyšok potreby po odpočítaní
+      zvyškového tepla zo splyňovania nižšie — ak je aktívne a stačí na celú potrebu, zdroj tepla sa
+      v danom mesiaci nepoužije.</p>
+    </div>
+
+    <h2 class="grp">Fotovoltaika</h2>
+    <div>
+      <label class="chk"><input type="checkbox" id="fvAktivna" data-def="0"> Inštalovaná fotovoltaika</label>
+      <div class="two">
+        <div><label class="f">Inštalovaný výkon <span class="u">kWp</span></label>
+          <input type="number" id="fvKwp" value="50" data-def="50" step="5" min="0"></div>
+        <div><label class="f">Špecifický výnos <span class="u">kWh/kWp/rok</span></label>
+          <input type="number" id="fvVynos" value="1100" data-def="1100" step="10" min="0"></div>
+      </div>
+      <label class="f">Podiel výroby skonzumovaný na mieste <span class="u">% (bez batérie)</span></label>
+      <input type="number" id="fvPodiel" value="35" data-def="35" step="5" min="0" max="100">
+      <div class="two">
+        <div><label class="f">Cena elektriny z FV <span class="u">€/kWh</span></label>
+          <input type="number" id="cenaFv" value="0.03" data-def="0.03" step="0.01" min="0"></div>
+        <div><label class="f">Emisný faktor FV <span class="u">kg CO₂e/kWh</span></label>
+          <input type="number" id="efFv" value="0.04" data-def="0.04" step="0.005" min="0"></div>
+      </div>
+      <p class="small" style="margin:2px 0 0">Fotovoltaika kryje elektrickú spotrebu vcelku — nielen
+      kúrenie, aj osvetlenie, technológiu a sušenie. Bez batérie sa väčšina letnej výroby nezhoduje
+      so zimnou špičkou spotreby na kúrenie; podiel vlastnej spotreby preto nie je 100 %.</p>
+    </div>
+
+    <h2 class="grp">Zvyškové teplo zo splyňovania</h2>
+    <div>
+      <label class="chk"><input type="checkbox" id="znzAktivne" data-def="0"> Využívať zvyškové teplo
+      zo splyňovacej stanice (spaľuje odpad nepoužiteľný na biotransformáciu)</label>
+      <div class="two">
+        <div><label class="f">Dostupný tepelný výkon <span class="u">kW</span></label>
+          <input type="number" id="znzVykon" value="20" data-def="20" step="1" min="0"></div>
+        <div><label class="f">Účinnosť odovzdania tepla <span class="u">%</span></label>
+          <input type="number" id="znzUcinnost" value="90" data-def="90" step="1" min="0" max="100"></div>
+      </div>
+      <div class="two">
+        <div><label class="f">Cena tepla <span class="u">€/kWh</span></label>
+          <input type="number" id="cenaZnz" value="0" data-def="0" step="0.005" min="0"></div>
+        <div><label class="f">Emisný faktor tepla <span class="u">kg CO₂e/kWh</span></label>
+          <input type="number" id="efZnz" value="0" data-def="0" step="0.005" min="0"></div>
+      </div>
+      <p class="small" style="margin:2px 0 0">Stanica beží nepretržite, výkon sa preto v modeli počíta
+      ako rovnomerne dostupný počas každého mesiaca. Rovnako ako substrát je aj spaľovaný odpad bez
+      priradenej záťaže z jeho vzniku — cena aj emisný faktor sú preto predvolene nulové; ak stanica
+      účtuje teplo alebo sa jej emisie čiastočne alokujú na chov hmyzu, hodnoty uprav.</p>
     </div>
 
     <h2 class="grp">Elektrická záťaž a sušenie</h2>
@@ -178,6 +225,18 @@ nepriraďuje záťaž z jeho výroby.</p>
       <b>Hranica systému</b> je brána – brána. Nezahŕňa výstavbu budovy, výrobu zariadení,
       výrobu substrátu ani distribúciu produktu. Porovnanie s inými bielkovinami je preto
       orientačné — referenčné hodnoty zahŕňajú aj výrobu krmiva.<br><br>
+      <b>Fotovoltaika</b> je v modeli výroba (inštalovaný výkon × špecifický výnos) obmedzená
+      podielom vlastnej spotreby, ktorý predstavuje zhodu výrobnej a spotrebnej krivky bez
+      batériového úložiska — nie je z overeného zdroja pre konkrétnu lokalitu, len typický odhad
+      (úroveň dôkazu D), preto sa dá a má upraviť podľa reálneho profilu prevádzky. Kryje
+      elektrickú spotrebu vcelku, nielen kúrenie. Predvolený emisný faktor FV elektriny
+      0,04 kg CO₂e/kWh je rádovo v súlade s harmonizovanými LCA štúdiami strešnej fotovoltaiky
+      v miernom pásme (embodied emisie z výroby panelov, cca 20–50 g CO₂e/kWh).<br><br>
+      <b>Zvyškové teplo zo splyňovacej stanice</b> spaľujúcej odpad nepoužiteľný na biotransformáciu
+      sa počíta ako nepretržitý tepelný výkon dostupný v každom mesiaci; pokrýva časť mesačnej
+      potreby kúrenia, zvyšok ide cez zvolený zdroj tepla vyššie. Rovnako ako substrát je aj tento
+      odpad bez priradenej záťaže z jeho vzniku, preto sú cena aj emisný faktor tepla predvolene
+      nulové — ide o návrh riešiteľského tímu (úroveň dôkazu D), nie meranie konkrétnej stanice.<br><br>
       Model je totožný so skriptom <span style="font-family:monospace">build/model_d32.py</span>
       v repozitári projektu. Podrobná metodika a zdroje sú v štúdii D3.2.
     </p>

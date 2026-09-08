@@ -10,7 +10,8 @@ var DNI   = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 
 var POLIA = ["larvy","susinaL","vlhkostP","plocha","vyska","uhod","obalF","vymeny",
   "tin","rekup","meta","osvW","osvH","techKw","techH","susKwh","substratPomer",
-  "dopravaKm","dopravaEf","cop","ucinnost","cenaEl","cenaPlyn","efEl","efPlyn"];
+  "dopravaKm","dopravaEf","cop","ucinnost","cenaEl","cenaPlyn","efEl","efPlyn",
+  "fvKwp","fvVynos","fvPodiel","cenaFv","efFv","znzVykon","znzUcinnost","cenaZnz","efZnz"];
 
 function $(s){return document.querySelector(s);}
 function v(id){var e=$("#"+id); return e ? parseFloat(e.value) : NaN;}
@@ -21,6 +22,8 @@ function citaj(){
   p.susit = $("#susit").checked;
   p.zdroj = $("#zdroj").value;
   p.dTposun = v("dTposun") || 0;
+  p.fvAktivna = $("#fvAktivna").checked;
+  p.znzAktivne = $("#znzAktivne").checked;
   return p;
 }
 
@@ -35,20 +38,36 @@ function bilancia(p){
   var prietok = p.plocha * p.vyska * p.vymeny;
   var ucinRek = 1 - p.rekup/100;
 
-  var teplo = 0;
+  var teploMesiac = [];
   for (var m = 0; m < 12; m++) {
     var dT = p.tin - (T_MES[m] + p.dTposun);
-    if (dT <= 0) continue;
-    var qObal = p.uhod * obal * dT;
-    var qVetr = 0.34 * prietok * dT * ucinRek;
-    var qMeta = p.meta * p.plocha;
-    teplo += Math.max(0, qObal + qVetr - qMeta) * DNI[m] * 24 / 1000;
+    var qNet = 0;
+    if (dT > 0) {
+      var qObal = p.uhod * obal * dT;
+      var qVetr = 0.34 * prietok * dT * ucinRek;
+      var qMeta = p.meta * p.plocha;
+      qNet = Math.max(0, qObal + qVetr - qMeta);
+    }
+    teploMesiac.push(qNet * DNI[m] * 24 / 1000);
+  }
+  var teplo = teploMesiac.reduce(function(a,b){return a+b;}, 0);
+
+  /* zvyškové teplo zo splyňovacej stanice: nepretržitý výkon, kryje časť mesačnej potreby */
+  var teploZnz = 0, teploZvysok = teplo;
+  if (p.znzAktivne) {
+    teploZnz = 0; teploZvysok = 0;
+    for (var m2 = 0; m2 < 12; m2++) {
+      var dostupne = p.znzVykon * (p.znzUcinnost/100) * DNI[m2] * 24;
+      var kryte = Math.min(teploMesiac[m2], dostupne);
+      teploZnz += kryte;
+      teploZvysok += teploMesiac[m2] - kryte;
+    }
   }
 
   var kurEl = 0, kurPlyn = 0;
-  if (p.zdroj === "tepelne_cerpadlo") kurEl = teplo / p.cop;
-  else if (p.zdroj === "plyn") kurPlyn = teplo / p.ucinnost;
-  else kurEl = teplo;
+  if (p.zdroj === "tepelne_cerpadlo") kurEl = teploZvysok / p.cop;
+  else if (p.zdroj === "plyn") kurPlyn = teploZvysok / p.ucinnost;
+  else kurEl = teploZvysok;
 
   var osv = p.osvW * p.plocha / 1000 * p.osvH * 365;
   var tech = p.techKw * p.techH * 365;
@@ -58,19 +77,32 @@ function bilancia(p){
   var plyn = kurPlyn;
   var dopravaCo2 = p.larvy * p.substratPomer * p.dopravaKm * p.dopravaEf;
 
-  var naklady = el * p.cenaEl + plyn * p.cenaPlyn;
-  var emisie = el * p.efEl + plyn * p.efPlyn + dopravaCo2;
+  /* fotovoltaika: kryje elektrickú spotrebu vcelku, nie je viazaná na konkrétnu záťaž */
+  var fvVyroba = 0, fvVlastna = 0;
+  if (p.fvAktivna) {
+    fvVyroba = p.fvKwp * p.fvVynos;
+    fvVlastna = Math.min(fvVyroba * (p.fvPodiel/100), el);
+  }
+  var elSiet = el - fvVlastna;
+  var efBlend = el > 0 ? (elSiet*p.efEl + fvVlastna*p.efFv) / el : p.efEl;
+  var cenaBlend = el > 0 ? (elSiet*p.cenaEl + fvVlastna*p.cenaFv) / el : p.cenaEl;
+
+  var naklady = el * cenaBlend + plyn * p.cenaPlyn + teploZnz * p.cenaZnz;
+  var emisie = el * efBlend + plyn * p.efPlyn + teploZnz * p.efZnz + dopravaCo2;
 
   return {
     produktKg: produktKg, vodaKg: vodaKg, teplo: teplo,
-    energia: el + plyn, el: el, plyn: plyn,
-    kwhKg: (el + plyn) / produktKg,
+    energia: el + plyn + teploZnz, el: el, plyn: plyn,
+    teploZnz: teploZnz, fvVyroba: fvVyroba, fvVlastna: fvVlastna,
+    kwhKg: (el + plyn + teploZnz) / produktKg,
     eurKg: naklady / produktKg,
     co2Kg: emisie / produktKg,
     nakladyRok: naklady, emisieRok: emisie,
-    energiaZ: {"kúrenie": kurEl + kurPlyn, "sušenie": sus, "technológia": tech, "osvetlenie": osv},
-    emisieZ: {"kúrenie": kurEl*p.efEl + kurPlyn*p.efPlyn, "sušenie": sus*p.efEl,
-              "technológia": tech*p.efEl, "osvetlenie": osv*p.efEl, "doprava": dopravaCo2}
+    energiaZ: {"kúrenie (nákup)": kurEl + kurPlyn, "zvyškové teplo": teploZnz,
+               "sušenie": sus, "technológia": tech, "osvetlenie": osv},
+    emisieZ: {"kúrenie (nákup)": kurEl*efBlend + kurPlyn*p.efPlyn, "zvyškové teplo": teploZnz*p.efZnz,
+              "sušenie": sus*efBlend, "technológia": tech*efBlend, "osvetlenie": osv*efBlend,
+              "doprava": dopravaCo2}
   };
 }
 
@@ -87,7 +119,10 @@ var SCENARE = [
   ["O6","Tepelné čerpadlo + rekuperácia + zateplenie",
         {zdroj:"tepelne_cerpadlo", rekup:70, uhod:0.18}],
   ["D1","Substrát z okruhu 150 km", {dopravaKm:150}],
-  ["D2","Substrát z okruhu 10 km", {dopravaKm:10}]
+  ["D2","Substrát z okruhu 10 km", {dopravaKm:10}],
+  ["F1","Fotovoltaika 50 kWp", {fvAktivna:true}],
+  ["F2","Zvyškové teplo zo splyňovania, 20 kW", {znzAktivne:true}],
+  ["F3","FV 50 kWp + zvyškové teplo 20 kW", {fvAktivna:true, znzAktivne:true}]
 ];
 
 /* referenčné bielkoviny — Oonincx a de Boer 2012, kg CO2e na kg jedlej bielkoviny */
@@ -207,6 +242,20 @@ function prepocitaj(){
   if (!p.susit)
     pozn += '<div class="note">Sušenie je vypnuté. Výsledok platí pre čerstvé larvy, ktoré majú ' +
       'krátku trvanlivosť a musia sa spracovať alebo skŕmiť bezprostredne.</div>';
+  if (p.fvAktivna) {
+    var fvPodielSpotreby = z.el > 0 ? 100 * z.fvVlastna / z.el : 0;
+    pozn += '<div class="note ok"><b>Fotovoltaika ' + fmt(p.fvKwp,0) + ' kWp</b> vyrobí ' +
+      fmt(z.fvVyroba,0) + ' kWh/rok, na mieste sa spotrebuje ' + fmt(z.fvVlastna,0) +
+      ' kWh/rok (' + fmt(fvPodielSpotreby,0) + ' % elektrickej spotreby). Zvyšok výroby sa ' +
+      'v tomto modeli neoceňuje ani neexportuje.</div>';
+  }
+  if (p.znzAktivne) {
+    var znzPodiel = z.teplo > 0 ? 100 * z.teploZnz / z.teplo : 0;
+    pozn += '<div class="note ok"><b>Zvyškové teplo zo splyňovania</b> pokryje ' + fmt(z.teploZnz,0) +
+      ' kWh/rok z ' + fmt(z.teplo,0) + ' kWh/rok potreby kúrenia (' + fmt(znzPodiel,0) + ' %). ' +
+      'Výkon stanice sa počíta ako rovnomerne dostupný počas mesiaca — v mesiacoch s vysokou ' +
+      'potrebou kúrenia (najmä v zime) môže výkon nestačiť a zvyšok pokryje zvolený zdroj tepla.</div>';
+  }
   $("#poznamka").innerHTML = pozn;
 
   window.__vysledok = {p: p, z: z};
